@@ -8,7 +8,7 @@ def spotify_connection():
     REDIRECT_URI = 'https://www.google.com/'
 
     # Set scope for accessing playlists
-    SCOPE = 'playlist-read-private playlist-read-collaborative'
+    SCOPE = 'user-library-read playlist-read-private playlist-read-collaborative'
 
     # Authenticate
     sp = spotipy.Spotify(auth_manager=SpotifyOAuth(
