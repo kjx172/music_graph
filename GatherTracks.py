@@ -75,21 +75,4 @@ def get_total_user_tracks(sp, user_playlists):
     # Export df to csv to reduce api calls
     df.to_csv('unique_user_tracks.csv', index=False)
 
-    return df
-
-    # print(f"Collected {len(df)} unique tracks.")
-
-def load_or_fetch_user_tracks(sp, user_playlists, cache_file='unique_user_tracks.csv', max_age_sec=86400):
-    '''Check if a csv file has been generated in the last 24 hours'''
-
-    # If recent csv file has been generated use that to reduce api calls
-    if os.path.exists(cache_file):
-        age = time.time() - os.path.getmtime(cache_file)
-        if age < max_age_sec:
-            print("Loading tracks from cache...")
-            return pd.read_csv(cache_file)
-
-    # Otherwise query spotify
-    print("Fetching fresh data from Spotify...")
-    df = get_total_user_tracks(sp, user_playlists)
-    return df
+    print(f"Collected {len(df)} unique tracks.")
