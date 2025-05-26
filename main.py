@@ -28,7 +28,7 @@ while True:
     else:
         print("Error: please enter y/n")
 
-print(total_tracks)
+#print(total_tracks)
 
 # Ask user if wants to download updated tracklist
 while True:
