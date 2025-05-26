@@ -7,4 +7,5 @@ from GatherPlaylists import get_playlists
 # Run authorization function to get connection
 sp = spotify_connection()
 
+# Gets the list of user playlists based on username
 get_playlists(sp)

@@ -1,13 +1,19 @@
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 
-
 def get_playlists(sp):
-    # Prompt user for Spotify username
-    username = input("Enter Spotify username (user ID): ")
+    print("Enter Spotify username (user ID): ")
 
-    # Fetch user’s playlists
-    results = sp.user_playlists(username)
+    while True:
+        # Prompt user for Spotify username
+        username = input()
+
+        # Attempt to fetch user’s playlists
+        try:
+            results = sp.user_playlists(username)
+            break
+        except:
+            print("Error: please enter valid username")
 
     # Extract and print playlist names
     print(f"\nPlaylists for {username}:")
