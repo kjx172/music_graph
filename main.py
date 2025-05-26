@@ -13,12 +13,3 @@ user_playlists = get_playlists(sp)
 
 # Gets a list of songs in each playlist
 df = load_or_fetch_user_tracks(sp, user_playlists)
-
-# Get the track attributes for all of the tracks
-#expanded_df = get_track_attributes(sp, df)
-
-test_ids = [
-    "11dFghVXANMlKmJXsNCbNl",  # Example valid Spotify track ID
-    "6rqhFgbbKwnb9MLmUQDhG6"
-]
-print(sp.audio_features(test_ids))
