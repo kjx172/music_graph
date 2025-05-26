@@ -5,10 +5,21 @@ import random
 import os
 
 def is_track_downloaded(track_name, output_dir="downloads"):
+    if not os.path.exists(output_dir):
+        return -1
+    
     for filename in os.listdir(output_dir):
         if track_name.lower() in filename.lower():
             return True
     return False
+
+def num_downloaded_tracks(target_dir="downloads"):
+    if not os.path.exists(target_dir):
+        return 0
+    
+    return sum(
+        1 for entry in os.scandir(target_dir) if entry.is_file()
+    )
 
 def download_track(track_name, artist_name, album_name, output_dir="downloads"):
     '''Download tracks using yt_dlp'''

@@ -3,7 +3,7 @@ from spotipy.oauth2 import SpotifyOAuth
 import pandas as pd
 from Auth import spotify_connection
 from GatherTracks import get_playlists, get_total_user_tracks
-from GetAudioFiles import download_tracks_from_df
+from GetAudioFiles import download_tracks_from_df, num_downloaded_tracks
 
 # Run authorization function to get connection
 sp = spotify_connection()
@@ -28,7 +28,8 @@ while True:
     else:
         print("Error: please enter y/n")
 
-#print(total_tracks)
+print("You have", len(total_tracks), "spotify tracks collected total")
+print()
 
 # Ask user if wants to download updated tracklist
 while True:
@@ -44,3 +45,5 @@ while True:
 
     else:
         print("Error: please enter y/n")
+
+print("You have", num_downloaded_tracks(), "tracks downloaded")
