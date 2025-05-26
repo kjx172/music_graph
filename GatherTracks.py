@@ -67,7 +67,6 @@ def get_total_user_tracks(sp, user_playlists):
                     'track_name': track['name'],
                     'artist': track['artists'][0]['name'],
                     'album': track['album']['name'],
-                    'track_id': track_id
                 })
     # Convert to DataFrame
     df = pd.DataFrame(track_data)
@@ -76,3 +75,5 @@ def get_total_user_tracks(sp, user_playlists):
     df.to_csv('unique_user_tracks.csv', index=False)
 
     print(f"Collected {len(df)} unique tracks.")
+
+    return df
