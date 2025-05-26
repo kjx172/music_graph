@@ -1,10 +1,14 @@
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
+import os
+
+from dotenv import load_dotenv
+load_dotenv()
 
 def spotify_connection():
     # Spotify credentials
-    client_id = 'ce390915e2f4405ab2e0574b4e8f43b5'
-    client_secret = '48466a59bf8845f5a219fd52ee7eec67'
+    client_id = os.getenv("client_id")
+    client_secret = os.getenv("client_secret")
     REDIRECT_URI = 'https://www.google.com/'
 
     # Set scope for accessing playlists
