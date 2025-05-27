@@ -4,6 +4,7 @@ import pandas as pd
 from Auth import spotify_connection
 from GatherTracks import get_playlists, get_total_user_tracks
 from GetAudioFiles import download_tracks_from_df, num_downloaded_tracks
+from divide_audio_files import split_mp3_files
 
 # Run authorization function to get connection
 sp = spotify_connection()
@@ -35,7 +36,7 @@ print()
 while True:
     update_downloads = input ("Would you like to update your downloaded songs list (if updated tracklist select yes): y/n?")
     if update_downloads == 'y':
-        # Gets the list of user playlists based on username
+        # Downloads the users tracks from dataframe
         download_tracks_from_df(total_tracks)
         break
 
@@ -47,3 +48,18 @@ while True:
         print("Error: please enter y/n")
 
 print("You have", num_downloaded_tracks(), "tracks downloaded")
+
+# Asks user if wants to split downloaded tracks into clips
+while True:
+    update_clips = input ("Would you like to update your downloaded clips (if updated downloads select yes): y/n?")
+    if update_clips == 'y':
+        # Splits downloaded songs into mp3 files
+        split_mp3_files()
+        break
+
+    elif update_clips == 'n':
+        print("understood using cached clips...")
+        break
+
+    else:
+        print("Error: please enter y/n")
