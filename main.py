@@ -4,7 +4,7 @@ import pandas as pd
 from Auth import spotify_connection
 from GatherTracks import get_playlists, get_total_user_tracks
 from GetAudioFiles import download_tracks_from_df, num_downloaded_tracks
-from divide_audio_files import split_mp3_files
+from DivideAudioFiles import split_mp3_files
 
 # Run authorization function to get connection
 sp = spotify_connection()
@@ -59,6 +59,21 @@ while True:
 
     elif update_clips == 'n':
         print("understood using cached clips...")
+        break
+
+    else:
+        print("Error: please enter y/n")
+
+# Asks user if want to run audio models on clips
+while True:
+    update_models = input ("Would you like to analyize your downloaded clips (if updated clips select yes): y/n?")
+    if update_models == 'y':
+        # Runs the clips through the audio models
+        
+        break
+
+    elif update_clips == 'n':
+        print("understood using cached analyzation...")
         break
 
     else:
