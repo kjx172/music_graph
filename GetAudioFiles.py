@@ -5,6 +5,7 @@ import random
 import os
 
 def is_track_downloaded(track_name, output_dir="downloads"):
+    '''Checks if track is already in the download directory'''
     if not os.path.exists(output_dir):
         return -1
     
@@ -14,6 +15,7 @@ def is_track_downloaded(track_name, output_dir="downloads"):
     return False
 
 def num_downloaded_tracks(target_dir="downloads"):
+    '''Return how many tracks are in the downloads directory'''
     if not os.path.exists(target_dir):
         return 0
     
@@ -23,7 +25,8 @@ def num_downloaded_tracks(target_dir="downloads"):
 
 def download_track(track_name, artist_name, album_name, output_dir="downloads"):
     '''Download tracks using yt_dlp'''
-    query = f"ytsearch1:{track_name} {artist_name} {album_name} official audio"
+
+    query = f"ytsearch1:{track_name} {artist_name} {album_name} official audio" # Youtube search
     options = {
         'format': 'bestaudio/best',
         'outtmpl': f'{output_dir}/%(title)s.%(ext)s',
@@ -41,6 +44,7 @@ def download_track(track_name, artist_name, album_name, output_dir="downloads"):
         ydl.download([query])
     
 def download_tracks_from_df(total_tracks):
+    '''Outputs how many tracks have been downloaded from df (excluding already downloaded tracks)'''
     count = 0
 
     # Loop through each row in the df and download the track

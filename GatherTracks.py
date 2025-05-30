@@ -3,6 +3,7 @@ import time
 import os
 
 def get_playlists(sp):
+    '''Gets the playlists under a users username'''
     print("Enter Spotify username (user ID): ")
 
     while True:
@@ -18,17 +19,14 @@ def get_playlists(sp):
 
     return user_playlists
 
-    '''
-    # Extract and print playlist names
-    print(f"\nPlaylists for {username}:")
-    for idx, item in enumerate(user_playlists['items']):
-        print(f"{idx + 1}. {item['name']} ({item['tracks']['total']} tracks)")
-    '''
-
 def get_all_tracks_from_playlist(sp, playlist_id):
     """Helper function to fetch all tracks from a playlist with pagination."""
+
+    # Initialize variables to store tracks and offsets
     all_tracks = []
     offset = 0
+
+    # Queries spotify for 100 songs at a time until no response is recieved
     while True:
         response = sp.playlist_tracks(playlist_id, limit=100, offset=offset)
         items = response['items']
@@ -36,6 +34,7 @@ def get_all_tracks_from_playlist(sp, playlist_id):
             break
         all_tracks.extend(items)
         offset += 100
+
     return all_tracks
 
 def get_total_user_tracks(sp, user_playlists):
@@ -49,7 +48,7 @@ def get_total_user_tracks(sp, user_playlists):
         # Get the playlist id for this playlist and extrack tracks
         playlist_id = playlist['id']
 
-        # Fetch ALL tracks from this playlist, even if it has > 100
+        # Fetch ALL tracks from this playlist
         playlist_tracks = get_all_tracks_from_playlist(sp, playlist_id)
 
         # For each track in the playlists tracklist

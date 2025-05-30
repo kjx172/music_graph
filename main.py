@@ -21,6 +21,7 @@ while True:
         total_tracks = get_total_user_tracks(sp, user_playlists)
         break
 
+    # Uses cached tracks
     elif update_tracklist == 'n':
         total_tracks = pd.read_csv('unique_user_tracks.csv')
         print("understood using cached tracklist...")
@@ -40,6 +41,7 @@ while True:
         download_tracks_from_df(total_tracks)
         break
 
+    # Uses cached downloads
     elif update_downloads == 'n':
         print("understood using cached downloads...")
         break
@@ -57,6 +59,7 @@ while True:
         split_mp3_files()
         break
 
+    # Uses cached clips
     elif update_clips == 'n':
         print("understood using cached clips...")
         break
@@ -65,16 +68,18 @@ while True:
         print("Error: please enter y/n")
 
 # Asks user if want to run audio models on clips
+'''
 while True:
     update_models = input ("Would you like to analyize your downloaded clips (if updated clips select yes): y/n?")
     if update_models == 'y':
         # Runs the clips through the audio models
         
-        break
-
+        br
+    
     elif update_clips == 'n':
         print("understood using cached analyzation...")
         break
 
     else:
         print("Error: please enter y/n")
+'''
