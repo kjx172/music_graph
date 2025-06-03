@@ -5,6 +5,7 @@ from Auth import spotify_connection
 from GatherTracks import get_playlists, get_total_user_tracks
 from GetAudioFiles import download_tracks_from_df, num_downloaded_tracks
 from DivideAudioFiles import split_mp3_files
+from GraphData import visualize_data
 
 # Run authorization function to get connection
 sp = spotify_connection()
@@ -68,18 +69,17 @@ while True:
         print("Error: please enter y/n")
 
 # Asks user if want to run audio models on clips
-'''
+
 while True:
-    update_models = input ("Would you like to analyize your downloaded clips (if updated clips select yes): y/n?")
-    if update_models == 'y':
-        # Runs the clips through the audio models
-        
-        br
+    ran_models = input ("Have you ran RunAudioModels.py within WSL or other linux subsystem?")
+    if ran_models == 'y':
+        # Runs the visualization function
+        visualize_data()
+
     
-    elif update_clips == 'n':
-        print("understood using cached analyzation...")
+    elif ran_models == 'n':
+        print("Please Exit code and run RunAudioModels.py within WSL or other linux subsystem to extract audio embeddings")
         break
 
     else:
         print("Error: please enter y/n")
-'''
