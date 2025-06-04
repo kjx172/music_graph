@@ -37,41 +37,36 @@ def get_all_tracks_from_playlist(sp, playlist_id):
 
     return all_tracks
 
-def get_total_user_tracks(sp, user_playlists):
+def get_list_of_tracks(sp, user_playlists, target_playlist_num):
     # Storage
     track_set = set()  # To prevent duplicates
     track_data = []    # To build a DataFrame
 
-    # Loop through each playlist in the users list of playlists
-    for playlist in user_playlists['items']:
+    playlist_id = user_playlists['items'][target_playlist_num]['id']
+    playlist_tracks = get_all_tracks_from_playlist(sp, playlist_id)
+
+    # For each track in the playlists tracklist
+    for item in playlist_tracks:
+        # Get the track
+        track = item['track']
+        if not track:
+            continue  # skip if local file or deleted
         
-        # Get the playlist id for this playlist and extrack tracks
-        playlist_id = playlist['id']
-
-        # Fetch ALL tracks from this playlist
-        playlist_tracks = get_all_tracks_from_playlist(sp, playlist_id)
-
-        # For each track in the playlists tracklist
-        for item in playlist_tracks:
-            # Get the track
-            track = item['track']
-            if not track:
-                continue  # skip if local file or deleted
-            
-            # Get track id and add it to list if not seen before
-            track_id = track['id']
-            if track_id and track_id not in track_set:
-                track_set.add(track_id)
-                track_data.append({
-                    'track_name': track['name'],
-                    'artist': track['artists'][0]['name'],
-                    'album': track['album']['name'],
-                })
+        # Get track id and add it to list if not seen before
+        track_id = track['id']
+        if track_id and track_id not in track_set:
+            track_set.add(track_id)
+            track_data.append({
+                'track_name': track['name'],
+                'artist': track['artists'][0]['name'],
+                'album': track['album']['name'],
+            })
+    
     # Convert to DataFrame
     df = pd.DataFrame(track_data)
 
     # Export df to csv to reduce api calls
-    df.to_csv('unique_user_tracks.csv', index=False)
+    df.to_csv('collected_track_list.csv', index=False)
 
     print(f"Collected {len(df)} unique tracks.")
 

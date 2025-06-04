@@ -1,8 +1,6 @@
-import spotipy
-from spotipy.oauth2 import SpotifyOAuth
 import pandas as pd
 from Auth import spotify_connection
-from GatherTracks import get_playlists, get_total_user_tracks
+from GatherTracks import get_playlists, get_list_of_tracks
 from GetAudioFiles import download_tracks_from_df, num_downloaded_tracks
 from DivideAudioFiles import split_mp3_files
 from GraphData import visualize_data
@@ -13,13 +11,25 @@ total_tracks = None
 
 # Ask user on whether to collect songs
 while True:
-    update_tracklist = input("Would you like to update your stored song list (if first time select yes): y/n?")
+    update_tracklist = input("Would you like to download a playlist: y/n? ")
     if update_tracklist == 'y':
         # Gets the list of user playlists based on username
         user_playlists = get_playlists(sp)
 
-        # Gets a list of songs in each playlist
-        total_tracks = get_total_user_tracks(sp, user_playlists)
+        print("Retrieved user playlists: ")
+        for i, playlist in enumerate(user_playlists['items']):
+            print(i, ": ", playlist['name'])
+
+        while True:
+            target_playlist_num = int(input("Which playlist would you like to download? (enter a number): "))
+
+            if target_playlist_num < len(user_playlists['items']):
+                # Gets a list of songs in each playlist
+                total_tracks = get_list_of_tracks(sp, user_playlists, target_playlist_num)
+                break
+            else:
+                print("Error, please enter a number")
+            
         break
 
     # Uses cached tracks
