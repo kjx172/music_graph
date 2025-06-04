@@ -34,7 +34,7 @@ while True:
 
     # Uses cached tracks
     elif update_tracklist == 'n':
-        total_tracks = pd.read_csv('unique_user_tracks.csv')
+        total_tracks = pd.read_csv('collected_track_list.csv')
         print("understood using cached tracklist...")
         break
 
@@ -44,9 +44,9 @@ while True:
 print("You have", len(total_tracks), "spotify tracks collected total")
 print()
 
-# Ask user if wants to download updated tracklist
+# Ask user if wants to download updated tracklist (now downloading each playlist seperatly)
 while True:
-    update_downloads = input ("Would you like to update your downloaded songs list (if updated tracklist select yes): y/n?")
+    update_downloads = input ("Would you like to update your downloaded songs from tracklist: y/n?")
     if update_downloads == 'y':
         # Downloads the users tracks from dataframe
         download_tracks_from_df(total_tracks)

@@ -3,16 +3,19 @@ import pandas as pd
 import time
 import random
 import os
+import shutil
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
-def is_track_downloaded(track_name, output_dir="downloads"):
-    '''Checks if track is already in the download directory'''
-    if not os.path.exists(output_dir):
-        return -1
-    
-    for filename in os.listdir(output_dir):
-        if track_name.lower() in filename.lower():
-            return True
-    return False
+def empty_folder(folder_path):
+    """Empties a folder by removing all its contents."""
+    if os.path.exists(folder_path):
+        try:
+            shutil.rmtree(folder_path) # Deletes the folder and everything inside
+            os.makedirs(folder_path) # Recreates the folder
+        except OSError as e:
+            print(f"Error: {e}")
+    else:
+        print(f"Error: Folder '{folder_path}' does not exist.")
 
 def num_downloaded_tracks(target_dir="downloads"):
     '''Return how many tracks are in the downloads directory'''
@@ -23,10 +26,10 @@ def num_downloaded_tracks(target_dir="downloads"):
         1 for entry in os.scandir(target_dir) if entry.is_file()
     )
 
-def download_track(track_name, artist_name, album_name, output_dir="downloads"):
+def download_track(row, output_dir="downloads"):
     '''Download tracks using yt_dlp'''
 
-    query = f"ytsearch1:{track_name} {artist_name} {album_name} official audio" # Youtube search
+    query = f"ytsearch1:{row.track_name} {row.artist} {row.album} official audio" # Youtube search
     options = {
         'format': 'bestaudio/best',
         'outtmpl': f'{output_dir}/%(title)s.%(ext)s',
@@ -40,27 +43,35 @@ def download_track(track_name, artist_name, album_name, output_dir="downloads"):
             'preferredquality': '192',
         }],
     }
-    with yt_dlp.YoutubeDL(options) as ydl:
-        ydl.download([query])
     
-def download_tracks_from_df(total_tracks):
+    try:
+        with yt_dlp.YoutubeDL(options) as ydl:
+            ydl.download([query])
+        return True, row.track_name
+    except Exception as e:
+        return False, f"{row.track_name} → {e}"
+    
+def download_tracks_from_df(total_tracks, max_workers=3):
     '''Outputs how many tracks have been downloaded from df (excluding already downloaded tracks)'''
-    count = 0
+    successes, fails = 0, []
 
-    # Loop through each row in the df and download the track
-    for row in total_tracks.itertuples():
+    # Empties the folder of previous downloads
+    empty_folder("downloads")
 
-        # If track has already been downloaded skip download
-        if is_track_downloaded(row.track_name):
-            print(f"Skipping (already downloaded): {row.track_name}")
-            continue
+    # Utilizes threads to reduce amount of time downloading takes
+    with ThreadPoolExecutor(max_workers=max_workers) as pool:
+        futures = [pool.submit(download_track, row) for row in total_tracks.itertuples()]
+        for fut in as_completed(futures):
+            ok, msg = fut.result()
+            if ok:
+                successes += 1
+            else:
+                fails.append(msg)
+            time.sleep(random.uniform(0.5, 1.0))    # light throttle
 
-        try:
-            print(f"Downloading: {row.track_name} by {row.artist}")
-            download_track({row.track_name}, {row.artist}, {row.album})
-            count += 1 # Track how many downloaded
-            time.sleep(random.uniform(2, 4))  # Random delay download to prevent rate limiting
-        except Exception as e:
-            print("unable to download track: ", {row.track_name})
+    print(f"✅ Downloaded {successes}/{len(total_tracks)} tracks")
+    if fails:
+        print("⚠️  Failed downloads:")
+        for f in fails:
+            print("   •", f)
 
-    print("total tracks downloaded: ", count)
