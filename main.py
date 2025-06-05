@@ -3,7 +3,8 @@ from Auth import spotify_connection
 from GatherTracks import get_playlists, get_list_of_tracks
 from GetAudioFiles import download_tracks_from_df, num_downloaded_tracks
 from DivideAudioFiles import split_mp3_files
-from GraphData import visualize_data
+from GraphData import visualize_data, recluster_graph
+import sys
 
 if __name__ == "__main__":
     # Run authorization function to get connection
@@ -80,6 +81,7 @@ if __name__ == "__main__":
         # Uses cached clips
         elif update_clips == 'n':
             print("understood using cached clips...")
+            print()
             break
 
         else:
@@ -89,15 +91,30 @@ if __name__ == "__main__":
 
     # Asks user if want to visualize data from models
     while True:
-        ran_models = input ("Have you ran RunAudioModels.py within WSL or other linux subsystem?")
+        ran_models = input ("Would you like to visualize your data (assuming models have been run): y/n?")
         if ran_models == 'y':
             # Runs the visualization function
             visualize_data()
             break
         
         elif ran_models == 'n':
-            print("Please Exit code and run RunAudioModels.py within WSL or other linux subsystem to extract audio embeddings")
+            print("understood skipping this step...")
+            print()
             break
+
+        else:
+            print("Error: please enter y/n")
+
+    while True:
+        reclustering = input("Would you like to generate a reclustered graph based on bridges (grouping nodes by affinity to songs in other clusters): y/n?")
+
+        if reclustering == 'y':
+            recluster_graph()
+            break
+
+        elif reclustering == 'n':
+            print("Code complete")
+            sys.exit()
 
         else:
             print("Error: please enter y/n")
