@@ -17,7 +17,7 @@ import contextlib
 
 
 # Utilizing a smaller set of clips to test model functionality
-CLIP_DIR = '/mnt/c/Users/kisit/projects/Music visualizer/testclips'
+CLIP_DIR = '/mnt/c/Users/kisit/projects/Music visualizer/clips'
 
 OUTPUT_PATH = '/mnt/c/Users/kisit/projects/Music visualizer/modeloutput/song_embeddings.csv'
 
@@ -35,6 +35,8 @@ model = TensorflowPredictEffnetDiscogs(
 
 # Prepare storage
 song_embeddings = defaultdict(list)
+song_sum   = defaultdict(lambda: np.zeros(1280, dtype=np.float32))
+song_count = defaultdict(int)
 
 # Go through each clip and ensure its a mp3 file
 for file in os.listdir(CLIP_DIR):
@@ -54,7 +56,14 @@ for file in os.listdir(CLIP_DIR):
 
         clip_vec = embs.mean(axis=0)             # (1280,) collapses patches into one vector
         clip_vec /= np.linalg.norm(clip_vec)     # normalize vector (useful for cosine similarity)
-        song_embeddings[base].append(clip_vec)   # append the clip to the base name
+
+        base = file.split("--")[0]
+        song_sum  [base] += clip_vec
+        song_count[base] += 1
+
+        # --- immediately free temporary tensors ---
+        del audio, embs, clip_vec
+        import gc; gc.collect()
 
 # Step 3: Average all clip vectors for each base song
 final_embeddings = {}
@@ -71,11 +80,10 @@ with open(OUTPUT_PATH, "w", newline="") as f:
     writer = csv.DictWriter(f, fieldnames=fieldnames)
     writer.writeheader()
 
-# Then append row by row (or in small chunks)
-for song, vec in final_embeddings.items():
-    row = {"song_name": song}
-    for i, val in enumerate(vec):
-        row[f"d{i}"] = float(val)
-    with open(OUTPUT_PATH, "a", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
+    for song, s in song_sum.items():
+        vec = s / song_count[song]          # average
+        vec /= np.linalg.norm(vec)          # re-normalise
+
+        row = {"song_name": song}
+        row.update({f"d{i}": float(v) for i, v in enumerate(vec)})
         writer.writerow(row)

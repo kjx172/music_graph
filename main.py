@@ -87,13 +87,13 @@ if __name__ == "__main__":
 
     ### RUN MODEL IN WSL RIGHT HERE ###
 
-    # Asks user if want to run audio models on clips
+    # Asks user if want to visualize data from models
     while True:
         ran_models = input ("Have you ran RunAudioModels.py within WSL or other linux subsystem?")
         if ran_models == 'y':
             # Runs the visualization function
             visualize_data()
-
+            break
         
         elif ran_models == 'n':
             print("Please Exit code and run RunAudioModels.py within WSL or other linux subsystem to extract audio embeddings")
