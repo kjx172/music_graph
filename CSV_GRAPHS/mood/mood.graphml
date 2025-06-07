@@ -1,0 +1,1168 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="double"/>
+<graph edgedefault="undirected"><node id="#BeautifulLoser 8.05"/>
+<node id="4. The Weeknd - XO⧸ The Host - Echoes Of Silence"/>
+<node id="4275"/>
+<node id="6LACK - PRBLMS [Official Music Video]"/>
+<node id="Above And Beyond"/>
+<node id="After Dark"/>
+<node id="All Bad"/>
+<node id="Ariana Grande, The Weeknd - off the table (official audio)"/>
+<node id="avenoir - eve (lyrics)"/>
+<node id="Belong to the City"/>
+<node id="Blxst - To The Moon (Visualizer)"/>
+<node id="Brand New"/>
+<node id="Bria's Interlude"/>
+<node id="CHARLOTTE DAY WILSON - Work"/>
+<node id="Chase Shakur - honda civic 98' (Official Audio)"/>
+<node id="Cherish (furs)"/>
+<node id="crush"/>
+<node id="Diary"/>
+<node id="Drake - Trust Issues"/>
+<node id="DSN"/>
+<node id="Feels Like"/>
+<node id="Floetry - Say Yes (Official Video)"/>
+<node id="Flores - Afterglow (Prod. Maths Time Joy)"/>
+<node id="Get You (feat. Kali Uchis)"/>
+<node id="GIVĒON - Like I Want You (Audio)"/>
+<node id="gucci slides (feat. Smino)"/>
+<node id="H.E.R. - Comfortable (Official Audio)"/>
+<node id="H.E.R. - Focus"/>
+<node id="H.E.R. - Lights On (Audio)"/>
+<node id="Impossible"/>
+<node id="Jeremih - Royalty (Official Audio) ft. Future, Big Sean"/>
+<node id="Jhené Aiko - Sativa ft. Swae Lee (Official Audio)"/>
+<node id="Jhené Aiko - Surrender ft. Dr. Chill (Official Audio)"/>
+<node id="Kehlani – Everything Is Yours (Official Audio)"/>
+<node id="Kiana Ledé - Wicked Games (Audio)"/>
+<node id="Muni Long - Hrs and Hrs (Official Audio)"/>
+<node id="Outside Freestyle (Lyric Video)"/>
+<node id="PARTYNEXTDOOR - Come And See Me ft. Drake (Audio)"/>
+<node id="PARTYNEXTDOOR - Don't Run [Official Audio]"/>
+<node id="PARTYNEXTDOOR - Freak In You [Official Audio]"/>
+<node id="PARTYNEXTDOOR - Peace Of Mind [Official Audio]"/>
+<node id="PARTYNEXTDOOR - PERSIAN RUGS (Official Audio)"/>
+<node id="PARTYNEXTDOOR - THINGS &amp; SUCH (Official Audio)"/>
+<node id="Pip Millet &amp; Mariah the Scientist - Have your babies (639Hz)"/>
+<node id="PJ - Drunk AF"/>
+<node id="Poison"/>
+<node id="Redbone"/>
+<node id="Sabrina Claudio  - Belong To You (Official Video)"/>
+<node id="Sabrina Claudio - All To You (Lyric Visual)"/>
+<node id="Sabrina Claudio - Frozen (Official Audio)"/>
+<node id="Sabrina Claudio - Stand Still (Lyrics)"/>
+<node id="Sabrina Claudio - We Have Time (Official Audio)"/>
+<node id="Sebastian Mikael - Vibe [Official Audio]"/>
+<node id="Since Way Back"/>
+<node id="sky - over and over (official lyric video)"/>
+<node id="Summer Walker - CPR (Last Day of Summer)"/>
+<node id="Summer Walker - Girls Need Love Remix (with Drake)"/>
+<node id="Summer Walker - No Love (ft. SZA) [Lyric Video]"/>
+<node id="Summer Walker - Over It [Official Audio]"/>
+<node id="Summer Walker - Playing Games [Audio]"/>
+<node id="SZA - The Weekend (Official Audio)"/>
+<node id="TBH"/>
+<node id="The Internet - Girl (Official Video) ft. KAYTRANADA"/>
+<node id="The Internet - Hold On (Official Audio)"/>
+<node id="The Internet - ＂Shadow Dance＂"/>
+<node id="The Weeknd - Call Out My Name (Official Audio)"/>
+<node id="The Weeknd - Coming Down"/>
+<node id="The Weeknd - House Of Balloons ⧸ Glass Table Girls"/>
+<node id="The Weeknd - Starboy (Audio) ft. Daft Punk"/>
+<node id="The Weeknd - Thursday"/>
+<node id="The Weeknd - Wicked Games (Official Video - Explicit)"/>
+<node id="The Weeknd, JENNIE &amp; Lily Rose Depp - One Of The Girls (Official Audio)"/>
+<node id="TheARTI$T - Soul On Fire (Official Lyric Video)"/>
+<node id="THINGS U DO"/>
+<node id="TMW"/>
+<node id="Tory Lanez - Teyana (Lost Tapes 2013)"/>
+<node id="True Colors"/>
+<node id="Use Your Heart (Interlude)"/>
+<node id="Wasted"/>
+<edge source="#BeautifulLoser 8.05" target="Poison">
+  <data key="d0">0.7908016443252563</data>
+</edge>
+<edge source="#BeautifulLoser 8.05" target="DSN">
+  <data key="d0">0.7790519595146179</data>
+</edge>
+<edge source="#BeautifulLoser 8.05" target="Impossible">
+  <data key="d0">0.7626277208328247</data>
+</edge>
+<edge source="#BeautifulLoser 8.05" target="Flores - Afterglow (Prod. Maths Time Joy)">
+  <data key="d0">0.7592165470123291</data>
+</edge>
+<edge source="#BeautifulLoser 8.05" target="SZA - The Weekend (Official Audio)">
+  <data key="d0">0.7506584525108337</data>
+</edge>
+<edge source="#BeautifulLoser 8.05" target="TBH">
+  <data key="d0">0.7464849948883057</data>
+</edge>
+<edge source="4. The Weeknd - XO⧸ The Host - Echoes Of Silence" target="SZA - The Weekend (Official Audio)">
+  <data key="d0">0.8236311078071594</data>
+</edge>
+<edge source="4. The Weeknd - XO⧸ The Host - Echoes Of Silence" target="Flores - Afterglow (Prod. Maths Time Joy)">
+  <data key="d0">0.8167776465415955</data>
+</edge>
+<edge source="4. The Weeknd - XO⧸ The Host - Echoes Of Silence" target="The Weeknd - Call Out My Name (Official Audio)">
+  <data key="d0">0.8145608901977539</data>
+</edge>
+<edge source="4. The Weeknd - XO⧸ The Host - Echoes Of Silence" target="Poison">
+  <data key="d0">0.8143526315689087</data>
+</edge>
+<edge source="4. The Weeknd - XO⧸ The Host - Echoes Of Silence" target="H.E.R. - Lights On (Audio)">
+  <data key="d0">0.8094574809074402</data>
+</edge>
+<edge source="4. The Weeknd - XO⧸ The Host - Echoes Of Silence" target="Ariana Grande, The Weeknd - off the table (official audio)">
+  <data key="d0">0.8053978681564331</data>
+</edge>
+<edge source="4. The Weeknd - XO⧸ The Host - Echoes Of Silence" target="DSN">
+  <data key="d0">0.7767382860183716</data>
+</edge>
+<edge source="4. The Weeknd - XO⧸ The Host - Echoes Of Silence" target="The Weeknd - House Of Balloons ⧸ Glass Table Girls">
+  <data key="d0">0.7547050714492798</data>
+</edge>
+<edge source="4. The Weeknd - XO⧸ The Host - Echoes Of Silence" target="The Weeknd - Wicked Games (Official Video - Explicit)">
+  <data key="d0">0.7059229612350464</data>
+</edge>
+<edge source="4. The Weeknd - XO⧸ The Host - Echoes Of Silence" target="Use Your Heart (Interlude)">
+  <data key="d0">0.7713234424591064</data>
+</edge>
+<edge source="4275" target="PARTYNEXTDOOR - Freak In You [Official Audio]">
+  <data key="d0">0.8890113830566406</data>
+</edge>
+<edge source="4275" target="PARTYNEXTDOOR - Peace Of Mind [Official Audio]">
+  <data key="d0">0.8862752318382263</data>
+</edge>
+<edge source="4275" target="Since Way Back">
+  <data key="d0">0.878416121006012</data>
+</edge>
+<edge source="4275" target="PARTYNEXTDOOR - Come And See Me ft. Drake (Audio)">
+  <data key="d0">0.8510928153991699</data>
+</edge>
+<edge source="4275" target="Brand New">
+  <data key="d0">0.8370509147644043</data>
+</edge>
+<edge source="4275" target="Impossible">
+  <data key="d0">0.8291629552841187</data>
+</edge>
+<edge source="4275" target="After Dark">
+  <data key="d0">0.7948055267333984</data>
+</edge>
+<edge source="6LACK - PRBLMS [Official Music Video]" target="Since Way Back">
+  <data key="d0">0.8568618297576904</data>
+</edge>
+<edge source="6LACK - PRBLMS [Official Music Video]" target="Impossible">
+  <data key="d0">0.8556442260742188</data>
+</edge>
+<edge source="6LACK - PRBLMS [Official Music Video]" target="PARTYNEXTDOOR - PERSIAN RUGS (Official Audio)">
+  <data key="d0">0.8445265889167786</data>
+</edge>
+<edge source="6LACK - PRBLMS [Official Music Video]" target="PARTYNEXTDOOR - Peace Of Mind [Official Audio]">
+  <data key="d0">0.8435429334640503</data>
+</edge>
+<edge source="6LACK - PRBLMS [Official Music Video]" target="PARTYNEXTDOOR - Don't Run [Official Audio]">
+  <data key="d0">0.8426414728164673</data>
+</edge>
+<edge source="6LACK - PRBLMS [Official Music Video]" target="PARTYNEXTDOOR - Freak In You [Official Audio]">
+  <data key="d0">0.8415532112121582</data>
+</edge>
+<edge source="6LACK - PRBLMS [Official Music Video]" target="TBH">
+  <data key="d0">0.825016438961029</data>
+</edge>
+<edge source="Above And Beyond" target="Summer Walker - Over It [Official Audio]">
+  <data key="d0">0.9306317567825317</data>
+</edge>
+<edge source="Above And Beyond" target="TheARTI$T - Soul On Fire (Official Lyric Video)">
+  <data key="d0">0.9283264875411987</data>
+</edge>
+<edge source="Above And Beyond" target="Summer Walker - Girls Need Love Remix (with Drake)">
+  <data key="d0">0.878258228302002</data>
+</edge>
+<edge source="Above And Beyond" target="Kiana Ledé - Wicked Games (Audio)">
+  <data key="d0">0.8732836842536926</data>
+</edge>
+<edge source="Above And Beyond" target="Kehlani – Everything Is Yours (Official Audio)">
+  <data key="d0">0.8684523701667786</data>
+</edge>
+<edge source="Above And Beyond" target="gucci slides (feat. Smino)">
+  <data key="d0">0.8683834075927734</data>
+</edge>
+<edge source="Above And Beyond" target="Sabrina Claudio  - Belong To You (Official Video)">
+  <data key="d0">0.8069344162940979</data>
+</edge>
+<edge source="Above And Beyond" target="Summer Walker - Playing Games [Audio]">
+  <data key="d0">0.8508827686309814</data>
+</edge>
+<edge source="Above And Beyond" target="The Weeknd - Call Out My Name (Official Audio)">
+  <data key="d0">0.8181742429733276</data>
+</edge>
+<edge source="Above And Beyond" target="The Weeknd - Starboy (Audio) ft. Daft Punk">
+  <data key="d0">0.8159863352775574</data>
+</edge>
+<edge source="After Dark" target="Since Way Back">
+  <data key="d0">0.8074687719345093</data>
+</edge>
+<edge source="After Dark" target="Sebastian Mikael - Vibe [Official Audio]">
+  <data key="d0">0.8073995113372803</data>
+</edge>
+<edge source="After Dark" target="Brand New">
+  <data key="d0">0.7952971458435059</data>
+</edge>
+<edge source="After Dark" target="PARTYNEXTDOOR - Come And See Me ft. Drake (Audio)">
+  <data key="d0">0.7935358285903931</data>
+</edge>
+<edge source="After Dark" target="SZA - The Weekend (Official Audio)">
+  <data key="d0">0.7910191416740417</data>
+</edge>
+<edge source="All Bad" target="The Internet - Girl (Official Video) ft. KAYTRANADA">
+  <data key="d0">0.8727656602859497</data>
+</edge>
+<edge source="All Bad" target="Cherish (furs)">
+  <data key="d0">0.8533823490142822</data>
+</edge>
+<edge source="All Bad" target="GIVĒON - Like I Want You (Audio)">
+  <data key="d0">0.8509576320648193</data>
+</edge>
+<edge source="All Bad" target="Flores - Afterglow (Prod. Maths Time Joy)">
+  <data key="d0">0.8471440672874451</data>
+</edge>
+<edge source="All Bad" target="Sabrina Claudio - We Have Time (Official Audio)">
+  <data key="d0">0.8393373489379883</data>
+</edge>
+<edge source="All Bad" target="Pip Millet &amp; Mariah the Scientist - Have your babies (639Hz)">
+  <data key="d0">0.8175379037857056</data>
+</edge>
+<edge source="All Bad" target="Get You (feat. Kali Uchis)">
+  <data key="d0">0.8169705271720886</data>
+</edge>
+<edge source="All Bad" target="THINGS U DO">
+  <data key="d0">0.7675684094429016</data>
+</edge>
+<edge source="Ariana Grande, The Weeknd - off the table (official audio)" target="Kiana Ledé - Wicked Games (Audio)">
+  <data key="d0">0.8740875720977783</data>
+</edge>
+<edge source="Ariana Grande, The Weeknd - off the table (official audio)" target="sky - over and over (official lyric video)">
+  <data key="d0">0.8659952878952026</data>
+</edge>
+<edge source="Ariana Grande, The Weeknd - off the table (official audio)" target="gucci slides (feat. Smino)">
+  <data key="d0">0.8596704006195068</data>
+</edge>
+<edge source="Ariana Grande, The Weeknd - off the table (official audio)" target="Brand New">
+  <data key="d0">0.8535182476043701</data>
+</edge>
+<edge source="Ariana Grande, The Weeknd - off the table (official audio)" target="True Colors">
+  <data key="d0">0.8530588150024414</data>
+</edge>
+<edge source="Ariana Grande, The Weeknd - off the table (official audio)" target="H.E.R. - Focus">
+  <data key="d0">0.8528225421905518</data>
+</edge>
+<edge source="Ariana Grande, The Weeknd - off the table (official audio)" target="Tory Lanez - Teyana (Lost Tapes 2013)">
+  <data key="d0">0.8480587005615234</data>
+</edge>
+<edge source="avenoir - eve (lyrics)" target="TMW">
+  <data key="d0">0.8286632299423218</data>
+</edge>
+<edge source="avenoir - eve (lyrics)" target="Cherish (furs)">
+  <data key="d0">0.8100471496582031</data>
+</edge>
+<edge source="avenoir - eve (lyrics)" target="H.E.R. - Lights On (Audio)">
+  <data key="d0">0.8044793605804443</data>
+</edge>
+<edge source="avenoir - eve (lyrics)" target="DSN">
+  <data key="d0">0.8029823303222656</data>
+</edge>
+<edge source="avenoir - eve (lyrics)" target="Poison">
+  <data key="d0">0.7955789566040039</data>
+</edge>
+<edge source="avenoir - eve (lyrics)" target="Flores - Afterglow (Prod. Maths Time Joy)">
+  <data key="d0">0.786691427230835</data>
+</edge>
+<edge source="avenoir - eve (lyrics)" target="The Internet - ＂Shadow Dance＂">
+  <data key="d0">0.7110202312469482</data>
+</edge>
+<edge source="avenoir - eve (lyrics)" target="The Weeknd - Wicked Games (Official Video - Explicit)">
+  <data key="d0">0.6851476430892944</data>
+</edge>
+<edge source="avenoir - eve (lyrics)" target="Use Your Heart (Interlude)">
+  <data key="d0">0.7860314846038818</data>
+</edge>
+<edge source="Belong to the City" target="The Weeknd - Coming Down">
+  <data key="d0">0.8530651926994324</data>
+</edge>
+<edge source="Belong to the City" target="Impossible">
+  <data key="d0">0.850082278251648</data>
+</edge>
+<edge source="Belong to the City" target="PARTYNEXTDOOR - PERSIAN RUGS (Official Audio)">
+  <data key="d0">0.8357332944869995</data>
+</edge>
+<edge source="Belong to the City" target="Flores - Afterglow (Prod. Maths Time Joy)">
+  <data key="d0">0.833422064781189</data>
+</edge>
+<edge source="Belong to the City" target="gucci slides (feat. Smino)">
+  <data key="d0">0.8330399990081787</data>
+</edge>
+<edge source="Belong to the City" target="PARTYNEXTDOOR - Don't Run [Official Audio]">
+  <data key="d0">0.8254364728927612</data>
+</edge>
+<edge source="Belong to the City" target="Bria's Interlude">
+  <data key="d0">0.7971444725990295</data>
+</edge>
+<edge source="Belong to the City" target="Sebastian Mikael - Vibe [Official Audio]">
+  <data key="d0">0.8194059729576111</data>
+</edge>
+<edge source="Belong to the City" target="The Weeknd - House Of Balloons ⧸ Glass Table Girls">
+  <data key="d0">0.7543366551399231</data>
+</edge>
+<edge source="Blxst - To The Moon (Visualizer)" target="Get You (feat. Kali Uchis)">
+  <data key="d0">0.7822964191436768</data>
+</edge>
+<edge source="Blxst - To The Moon (Visualizer)" target="Poison">
+  <data key="d0">0.7720530033111572</data>
+</edge>
+<edge source="Blxst - To The Moon (Visualizer)" target="Cherish (furs)">
+  <data key="d0">0.771898090839386</data>
+</edge>
+<edge source="Blxst - To The Moon (Visualizer)" target="Summer Walker - CPR (Last Day of Summer)">
+  <data key="d0">0.7528277039527893</data>
+</edge>
+<edge source="Blxst - To The Moon (Visualizer)" target="GIVĒON - Like I Want You (Audio)">
+  <data key="d0">0.7518221735954285</data>
+</edge>
+<edge source="Blxst - To The Moon (Visualizer)" target="H.E.R. - Comfortable (Official Audio)">
+  <data key="d0">0.7518033981323242</data>
+</edge>
+<edge source="Brand New" target="Outside Freestyle (Lyric Video)">
+  <data key="d0">0.898688793182373</data>
+</edge>
+<edge source="Brand New" target="True Colors">
+  <data key="d0">0.8933157324790955</data>
+</edge>
+<edge source="Brand New" target="PARTYNEXTDOOR - Freak In You [Official Audio]">
+  <data key="d0">0.8840944170951843</data>
+</edge>
+<edge source="Brand New" target="sky - over and over (official lyric video)">
+  <data key="d0">0.8833852410316467</data>
+</edge>
+<edge source="Brand New" target="gucci slides (feat. Smino)">
+  <data key="d0">0.8804894089698792</data>
+</edge>
+<edge source="Brand New" target="Since Way Back">
+  <data key="d0">0.8804275989532471</data>
+</edge>
+<edge source="Brand New" target="Drake - Trust Issues">
+  <data key="d0">0.8161278963088989</data>
+</edge>
+<edge source="Brand New" target="GIVĒON - Like I Want You (Audio)">
+  <data key="d0">0.8455832600593567</data>
+</edge>
+<edge source="Brand New" target="PARTYNEXTDOOR - Come And See Me ft. Drake (Audio)">
+  <data key="d0">0.8420295715332031</data>
+</edge>
+<edge source="Brand New" target="Tory Lanez - Teyana (Lost Tapes 2013)">
+  <data key="d0">0.8802711367607117</data>
+</edge>
+<edge source="Bria's Interlude" target="Impossible">
+  <data key="d0">0.8179981112480164</data>
+</edge>
+<edge source="Bria's Interlude" target="Since Way Back">
+  <data key="d0">0.8071174621582031</data>
+</edge>
+<edge source="Bria's Interlude" target="Sebastian Mikael - Vibe [Official Audio]">
+  <data key="d0">0.8028074502944946</data>
+</edge>
+<edge source="Bria's Interlude" target="PARTYNEXTDOOR - PERSIAN RUGS (Official Audio)">
+  <data key="d0">0.8026437163352966</data>
+</edge>
+<edge source="Bria's Interlude" target="PARTYNEXTDOOR - Don't Run [Official Audio]">
+  <data key="d0">0.7912956476211548</data>
+</edge>
+<edge source="CHARLOTTE DAY WILSON - Work" target="TMW">
+  <data key="d0">0.8437021970748901</data>
+</edge>
+<edge source="CHARLOTTE DAY WILSON - Work" target="Cherish (furs)">
+  <data key="d0">0.8295591473579407</data>
+</edge>
+<edge source="CHARLOTTE DAY WILSON - Work" target="Summer Walker - CPR (Last Day of Summer)">
+  <data key="d0">0.8240107893943787</data>
+</edge>
+<edge source="CHARLOTTE DAY WILSON - Work" target="The Internet - Girl (Official Video) ft. KAYTRANADA">
+  <data key="d0">0.8157205581665039</data>
+</edge>
+<edge source="CHARLOTTE DAY WILSON - Work" target="Feels Like">
+  <data key="d0">0.8086550235748291</data>
+</edge>
+<edge source="CHARLOTTE DAY WILSON - Work" target="Sabrina Claudio - Stand Still (Lyrics)">
+  <data key="d0">0.8028654456138611</data>
+</edge>
+<edge source="CHARLOTTE DAY WILSON - Work" target="Redbone">
+  <data key="d0">0.7055711150169373</data>
+</edge>
+<edge source="Chase Shakur - honda civic 98' (Official Audio)" target="Impossible">
+  <data key="d0">0.8577554225921631</data>
+</edge>
+<edge source="Chase Shakur - honda civic 98' (Official Audio)" target="Summer Walker - Girls Need Love Remix (with Drake)">
+  <data key="d0">0.8462371826171875</data>
+</edge>
+<edge source="Chase Shakur - honda civic 98' (Official Audio)" target="PARTYNEXTDOOR - PERSIAN RUGS (Official Audio)">
+  <data key="d0">0.8410775661468506</data>
+</edge>
+<edge source="Chase Shakur - honda civic 98' (Official Audio)" target="The Weeknd - Coming Down">
+  <data key="d0">0.83940589427948</data>
+</edge>
+<edge source="Chase Shakur - honda civic 98' (Official Audio)" target="PARTYNEXTDOOR - Don't Run [Official Audio]">
+  <data key="d0">0.8381447196006775</data>
+</edge>
+<edge source="Chase Shakur - honda civic 98' (Official Audio)" target="gucci slides (feat. Smino)">
+  <data key="d0">0.8379536867141724</data>
+</edge>
+<edge source="Cherish (furs)" target="Flores - Afterglow (Prod. Maths Time Joy)">
+  <data key="d0">0.8536586165428162</data>
+</edge>
+<edge source="Cherish (furs)" target="The Internet - Girl (Official Video) ft. KAYTRANADA">
+  <data key="d0">0.8506726026535034</data>
+</edge>
+<edge source="Cherish (furs)" target="Summer Walker - CPR (Last Day of Summer)">
+  <data key="d0">0.8488247394561768</data>
+</edge>
+<edge source="Cherish (furs)" target="Get You (feat. Kali Uchis)">
+  <data key="d0">0.8392771482467651</data>
+</edge>
+<edge source="Cherish (furs)" target="H.E.R. - Lights On (Audio)">
+  <data key="d0">0.8364852666854858</data>
+</edge>
+<edge source="Cherish (furs)" target="Diary">
+  <data key="d0">0.7796434164047241</data>
+</edge>
+<edge source="Cherish (furs)" target="Floetry - Say Yes (Official Video)">
+  <data key="d0">0.7210395336151123</data>
+</edge>
+<edge source="Cherish (furs)" target="H.E.R. - Comfortable (Official Audio)">
+  <data key="d0">0.8262271285057068</data>
+</edge>
+<edge source="Cherish (furs)" target="Redbone">
+  <data key="d0">0.6800709366798401</data>
+</edge>
+<edge source="Cherish (furs)" target="The Internet - Hold On (Official Audio)">
+  <data key="d0">0.8032233715057373</data>
+</edge>
+<edge source="Cherish (furs)" target="The Internet - ＂Shadow Dance＂">
+  <data key="d0">0.7216993570327759</data>
+</edge>
+<edge source="Cherish (furs)" target="THINGS U DO">
+  <data key="d0">0.7769697904586792</data>
+</edge>
+<edge source="Cherish (furs)" target="Wasted">
+  <data key="d0">0.8047910928726196</data>
+</edge>
+<edge source="crush" target="Sabrina Claudio - All To You (Lyric Visual)">
+  <data key="d0">0.8964366316795349</data>
+</edge>
+<edge source="crush" target="Jhené Aiko - Surrender ft. Dr. Chill (Official Audio)">
+  <data key="d0">0.8784445524215698</data>
+</edge>
+<edge source="crush" target="Feels Like">
+  <data key="d0">0.8312141299247742</data>
+</edge>
+<edge source="crush" target="Sabrina Claudio  - Belong To You (Official Video)">
+  <data key="d0">0.8308414220809937</data>
+</edge>
+<edge source="crush" target="Flores - Afterglow (Prod. Maths Time Joy)">
+  <data key="d0">0.8301644325256348</data>
+</edge>
+<edge source="crush" target="The Weeknd - Thursday">
+  <data key="d0">0.8174982666969299</data>
+</edge>
+<edge source="Diary" target="Wasted">
+  <data key="d0">0.8715049028396606</data>
+</edge>
+<edge source="Diary" target="True Colors">
+  <data key="d0">0.816545844078064</data>
+</edge>
+<edge source="Diary" target="Floetry - Say Yes (Official Video)">
+  <data key="d0">0.8136645555496216</data>
+</edge>
+<edge source="Diary" target="H.E.R. - Focus">
+  <data key="d0">0.7869299650192261</data>
+</edge>
+<edge source="Diary" target="sky - over and over (official lyric video)">
+  <data key="d0">0.7762537598609924</data>
+</edge>
+<edge source="Diary" target="The Internet - ＂Shadow Dance＂">
+  <data key="d0">0.7084148526191711</data>
+</edge>
+<edge source="Drake - Trust Issues" target="Tory Lanez - Teyana (Lost Tapes 2013)">
+  <data key="d0">0.8573322296142578</data>
+</edge>
+<edge source="Drake - Trust Issues" target="Jhené Aiko - Sativa ft. Swae Lee (Official Audio)">
+  <data key="d0">0.8571632504463196</data>
+</edge>
+<edge source="Drake - Trust Issues" target="SZA - The Weekend (Official Audio)">
+  <data key="d0">0.8328281044960022</data>
+</edge>
+<edge source="Drake - Trust Issues" target="Since Way Back">
+  <data key="d0">0.8281562328338623</data>
+</edge>
+<edge source="Drake - Trust Issues" target="PARTYNEXTDOOR - Come And See Me ft. Drake (Audio)">
+  <data key="d0">0.8077274560928345</data>
+</edge>
+<edge source="DSN" target="TMW">
+  <data key="d0">0.81560218334198</data>
+</edge>
+<edge source="DSN" target="Poison">
+  <data key="d0">0.7999750375747681</data>
+</edge>
+<edge source="DSN" target="Flores - Afterglow (Prod. Maths Time Joy)">
+  <data key="d0">0.789324164390564</data>
+</edge>
+<edge source="Feels Like" target="Sabrina Claudio - All To You (Lyric Visual)">
+  <data key="d0">0.9022054672241211</data>
+</edge>
+<edge source="Feels Like" target="Sabrina Claudio - We Have Time (Official Audio)">
+  <data key="d0">0.8864545226097107</data>
+</edge>
+<edge source="Feels Like" target="Flores - Afterglow (Prod. Maths Time Joy)">
+  <data key="d0">0.8848795294761658</data>
+</edge>
+<edge source="Feels Like" target="H.E.R. - Lights On (Audio)">
+  <data key="d0">0.8831461668014526</data>
+</edge>
+<edge source="Feels Like" target="The Internet - Girl (Official Video) ft. KAYTRANADA">
+  <data key="d0">0.8662219047546387</data>
+</edge>
+<edge source="Feels Like" target="sky - over and over (official lyric video)">
+  <data key="d0">0.8515747785568237</data>
+</edge>
+<edge source="Feels Like" target="Sabrina Claudio - Stand Still (Lyrics)">
+  <data key="d0">0.8297595977783203</data>
+</edge>
+<edge source="Feels Like" target="The Internet - Hold On (Official Audio)">
+  <data key="d0">0.7981312274932861</data>
+</edge>
+<edge source="Feels Like" target="The Weeknd - Thursday">
+  <data key="d0">0.8116679191589355</data>
+</edge>
+<edge source="Floetry - Say Yes (Official Video)" target="Wasted">
+  <data key="d0">0.8048205375671387</data>
+</edge>
+<edge source="Floetry - Say Yes (Official Video)" target="The Internet - ＂Shadow Dance＂">
+  <data key="d0">0.7353548407554626</data>
+</edge>
+<edge source="Floetry - Say Yes (Official Video)" target="True Colors">
+  <data key="d0">0.7340905070304871</data>
+</edge>
+<edge source="Floetry - Say Yes (Official Video)" target="Flores - Afterglow (Prod. Maths Time Joy)">
+  <data key="d0">0.7200274467468262</data>
+</edge>
+<edge source="Flores - Afterglow (Prod. Maths Time Joy)" target="sky - over and over (official lyric video)">
+  <data key="d0">0.9126241207122803</data>
+</edge>
+<edge source="Flores - Afterglow (Prod. Maths Time Joy)" target="H.E.R. - Focus">
+  <data key="d0">0.9086478352546692</data>
+</edge>
+<edge source="Flores - Afterglow (Prod. Maths Time Joy)" target="Sabrina Claudio - We Have Time (Official Audio)">
+  <data key="d0">0.9072903990745544</data>
+</edge>
+<edge source="Flores - Afterglow (Prod. Maths Time Joy)" target="H.E.R. - Lights On (Audio)">
+  <data key="d0">0.9050729274749756</data>
+</edge>
+<edge source="Flores - Afterglow (Prod. Maths Time Joy)" target="The Internet - Girl (Official Video) ft. KAYTRANADA">
+  <data key="d0">0.8897619247436523</data>
+</edge>
+<edge source="Flores - Afterglow (Prod. Maths Time Joy)" target="H.E.R. - Comfortable (Official Audio)">
+  <data key="d0">0.846500039100647</data>
+</edge>
+<edge source="Flores - Afterglow (Prod. Maths Time Joy)" target="Jhené Aiko - Surrender ft. Dr. Chill (Official Audio)">
+  <data key="d0">0.8455232381820679</data>
+</edge>
+<edge source="Flores - Afterglow (Prod. Maths Time Joy)" target="Poison">
+  <data key="d0">0.8167918920516968</data>
+</edge>
+<edge source="Flores - Afterglow (Prod. Maths Time Joy)" target="Sabrina Claudio  - Belong To You (Official Video)">
+  <data key="d0">0.8112019300460815</data>
+</edge>
+<edge source="Flores - Afterglow (Prod. Maths Time Joy)" target="Sabrina Claudio - All To You (Lyric Visual)">
+  <data key="d0">0.8783226013183594</data>
+</edge>
+<edge source="Flores - Afterglow (Prod. Maths Time Joy)" target="Sabrina Claudio - Frozen (Official Audio)">
+  <data key="d0">0.8520541191101074</data>
+</edge>
+<edge source="Flores - Afterglow (Prod. Maths Time Joy)" target="Sabrina Claudio - Stand Still (Lyrics)">
+  <data key="d0">0.8422538638114929</data>
+</edge>
+<edge source="Flores - Afterglow (Prod. Maths Time Joy)" target="Sebastian Mikael - Vibe [Official Audio]">
+  <data key="d0">0.8292264938354492</data>
+</edge>
+<edge source="Flores - Afterglow (Prod. Maths Time Joy)" target="Summer Walker - CPR (Last Day of Summer)">
+  <data key="d0">0.8495020866394043</data>
+</edge>
+<edge source="Flores - Afterglow (Prod. Maths Time Joy)" target="SZA - The Weekend (Official Audio)">
+  <data key="d0">0.8820556402206421</data>
+</edge>
+<edge source="Flores - Afterglow (Prod. Maths Time Joy)" target="The Internet - Hold On (Official Audio)">
+  <data key="d0">0.8139858245849609</data>
+</edge>
+<edge source="Flores - Afterglow (Prod. Maths Time Joy)" target="The Weeknd - House Of Balloons ⧸ Glass Table Girls">
+  <data key="d0">0.7474806308746338</data>
+</edge>
+<edge source="Flores - Afterglow (Prod. Maths Time Joy)" target="THINGS U DO">
+  <data key="d0">0.7631507515907288</data>
+</edge>
+<edge source="Flores - Afterglow (Prod. Maths Time Joy)" target="TMW">
+  <data key="d0">0.8130760192871094</data>
+</edge>
+<edge source="Flores - Afterglow (Prod. Maths Time Joy)" target="Use Your Heart (Interlude)">
+  <data key="d0">0.8233065605163574</data>
+</edge>
+<edge source="Get You (feat. Kali Uchis)" target="GIVĒON - Like I Want You (Audio)">
+  <data key="d0">0.8647394180297852</data>
+</edge>
+<edge source="Get You (feat. Kali Uchis)" target="THINGS U DO">
+  <data key="d0">0.8611286878585815</data>
+</edge>
+<edge source="Get You (feat. Kali Uchis)" target="Pip Millet &amp; Mariah the Scientist - Have your babies (639Hz)">
+  <data key="d0">0.8316497802734375</data>
+</edge>
+<edge source="Get You (feat. Kali Uchis)" target="True Colors">
+  <data key="d0">0.815730631351471</data>
+</edge>
+<edge source="Get You (feat. Kali Uchis)" target="Redbone">
+  <data key="d0">0.6914607286453247</data>
+</edge>
+<edge source="Get You (feat. Kali Uchis)" target="TMW">
+  <data key="d0">0.7996861934661865</data>
+</edge>
+<edge source="GIVĒON - Like I Want You (Audio)" target="PARTYNEXTDOOR - THINGS &amp; SUCH (Official Audio)">
+  <data key="d0">0.8934071063995361</data>
+</edge>
+<edge source="GIVĒON - Like I Want You (Audio)" target="Pip Millet &amp; Mariah the Scientist - Have your babies (639Hz)">
+  <data key="d0">0.85904461145401</data>
+</edge>
+<edge source="GIVĒON - Like I Want You (Audio)" target="Since Way Back">
+  <data key="d0">0.8565806150436401</data>
+</edge>
+<edge source="GIVĒON - Like I Want You (Audio)" target="Sebastian Mikael - Vibe [Official Audio]">
+  <data key="d0">0.8233749270439148</data>
+</edge>
+<edge source="GIVĒON - Like I Want You (Audio)" target="THINGS U DO">
+  <data key="d0">0.8041074872016907</data>
+</edge>
+<edge source="gucci slides (feat. Smino)" target="The Weeknd, JENNIE &amp; Lily Rose Depp - One Of The Girls (Official Audio)">
+  <data key="d0">0.9019768834114075</data>
+</edge>
+<edge source="gucci slides (feat. Smino)" target="True Colors">
+  <data key="d0">0.8991349935531616</data>
+</edge>
+<edge source="gucci slides (feat. Smino)" target="Kehlani – Everything Is Yours (Official Audio)">
+  <data key="d0">0.8918402194976807</data>
+</edge>
+<edge source="gucci slides (feat. Smino)" target="Sabrina Claudio - We Have Time (Official Audio)">
+  <data key="d0">0.8907800912857056</data>
+</edge>
+<edge source="gucci slides (feat. Smino)" target="sky - over and over (official lyric video)">
+  <data key="d0">0.8895174264907837</data>
+</edge>
+<edge source="gucci slides (feat. Smino)" target="Kiana Ledé - Wicked Games (Audio)">
+  <data key="d0">0.8889765739440918</data>
+</edge>
+<edge source="gucci slides (feat. Smino)" target="Jhené Aiko - Sativa ft. Swae Lee (Official Audio)">
+  <data key="d0">0.8067358732223511</data>
+</edge>
+<edge source="gucci slides (feat. Smino)" target="Outside Freestyle (Lyric Video)">
+  <data key="d0">0.8841190338134766</data>
+</edge>
+<edge source="gucci slides (feat. Smino)" target="Sebastian Mikael - Vibe [Official Audio]">
+  <data key="d0">0.8146545886993408</data>
+</edge>
+<edge source="gucci slides (feat. Smino)" target="Summer Walker - Over It [Official Audio]">
+  <data key="d0">0.8869724273681641</data>
+</edge>
+<edge source="gucci slides (feat. Smino)" target="SZA - The Weekend (Official Audio)">
+  <data key="d0">0.882821261882782</data>
+</edge>
+<edge source="gucci slides (feat. Smino)" target="The Weeknd - House Of Balloons ⧸ Glass Table Girls">
+  <data key="d0">0.740149199962616</data>
+</edge>
+<edge source="gucci slides (feat. Smino)" target="The Weeknd - Starboy (Audio) ft. Daft Punk">
+  <data key="d0">0.7610667943954468</data>
+</edge>
+<edge source="gucci slides (feat. Smino)" target="TheARTI$T - Soul On Fire (Official Lyric Video)">
+  <data key="d0">0.8888848423957825</data>
+</edge>
+<edge source="gucci slides (feat. Smino)" target="Tory Lanez - Teyana (Lost Tapes 2013)">
+  <data key="d0">0.8638177514076233</data>
+</edge>
+<edge source="H.E.R. - Comfortable (Official Audio)" target="sky - over and over (official lyric video)">
+  <data key="d0">0.8462151288986206</data>
+</edge>
+<edge source="H.E.R. - Comfortable (Official Audio)" target="H.E.R. - Focus">
+  <data key="d0">0.841751217842102</data>
+</edge>
+<edge source="H.E.R. - Comfortable (Official Audio)" target="Sabrina Claudio - Frozen (Official Audio)">
+  <data key="d0">0.8381646871566772</data>
+</edge>
+<edge source="H.E.R. - Comfortable (Official Audio)" target="Summer Walker - Playing Games [Audio]">
+  <data key="d0">0.8295178413391113</data>
+</edge>
+<edge source="H.E.R. - Comfortable (Official Audio)" target="PJ - Drunk AF">
+  <data key="d0">0.7484686374664307</data>
+</edge>
+<edge source="H.E.R. - Comfortable (Official Audio)" target="Poison">
+  <data key="d0">0.8179618120193481</data>
+</edge>
+<edge source="H.E.R. - Focus" target="sky - over and over (official lyric video)">
+  <data key="d0">0.9467928409576416</data>
+</edge>
+<edge source="H.E.R. - Focus" target="True Colors">
+  <data key="d0">0.9038728475570679</data>
+</edge>
+<edge source="H.E.R. - Focus" target="Kiana Ledé - Wicked Games (Audio)">
+  <data key="d0">0.8931207656860352</data>
+</edge>
+<edge source="H.E.R. - Focus" target="H.E.R. - Lights On (Audio)">
+  <data key="d0">0.8913183212280273</data>
+</edge>
+<edge source="H.E.R. - Focus" target="Outside Freestyle (Lyric Video)">
+  <data key="d0">0.8865858316421509</data>
+</edge>
+<edge source="H.E.R. - Focus" target="SZA - The Weekend (Official Audio)">
+  <data key="d0">0.8562262654304504</data>
+</edge>
+<edge source="H.E.R. - Lights On (Audio)" target="sky - over and over (official lyric video)">
+  <data key="d0">0.9039434790611267</data>
+</edge>
+<edge source="H.E.R. - Lights On (Audio)" target="Sabrina Claudio - We Have Time (Official Audio)">
+  <data key="d0">0.8712838888168335</data>
+</edge>
+<edge source="H.E.R. - Lights On (Audio)" target="The Internet - Girl (Official Video) ft. KAYTRANADA">
+  <data key="d0">0.867267370223999</data>
+</edge>
+<edge source="H.E.R. - Lights On (Audio)" target="Poison">
+  <data key="d0">0.8297469615936279</data>
+</edge>
+<edge source="H.E.R. - Lights On (Audio)" target="The Weeknd - Thursday">
+  <data key="d0">0.8120505809783936</data>
+</edge>
+<edge source="H.E.R. - Lights On (Audio)" target="Use Your Heart (Interlude)">
+  <data key="d0">0.8203667402267456</data>
+</edge>
+<edge source="Impossible" target="Since Way Back">
+  <data key="d0">0.9017156958580017</data>
+</edge>
+<edge source="Impossible" target="PARTYNEXTDOOR - Don't Run [Official Audio]">
+  <data key="d0">0.8967989683151245</data>
+</edge>
+<edge source="Impossible" target="PARTYNEXTDOOR - PERSIAN RUGS (Official Audio)">
+  <data key="d0">0.8725812435150146</data>
+</edge>
+<edge source="Impossible" target="PARTYNEXTDOOR - Freak In You [Official Audio]">
+  <data key="d0">0.8686890006065369</data>
+</edge>
+<edge source="Impossible" target="TBH">
+  <data key="d0">0.8434262275695801</data>
+</edge>
+<edge source="Jeremih - Royalty (Official Audio) ft. Future, Big Sean" target="Since Way Back">
+  <data key="d0">0.8555224537849426</data>
+</edge>
+<edge source="Jeremih - Royalty (Official Audio) ft. Future, Big Sean" target="PARTYNEXTDOOR - Peace Of Mind [Official Audio]">
+  <data key="d0">0.8400640487670898</data>
+</edge>
+<edge source="Jeremih - Royalty (Official Audio) ft. Future, Big Sean" target="PARTYNEXTDOOR - PERSIAN RUGS (Official Audio)">
+  <data key="d0">0.8313767910003662</data>
+</edge>
+<edge source="Jeremih - Royalty (Official Audio) ft. Future, Big Sean" target="PARTYNEXTDOOR - THINGS &amp; SUCH (Official Audio)">
+  <data key="d0">0.8193275928497314</data>
+</edge>
+<edge source="Jeremih - Royalty (Official Audio) ft. Future, Big Sean" target="Summer Walker - Girls Need Love Remix (with Drake)">
+  <data key="d0">0.8190076351165771</data>
+</edge>
+<edge source="Jeremih - Royalty (Official Audio) ft. Future, Big Sean" target="PARTYNEXTDOOR - Don't Run [Official Audio]">
+  <data key="d0">0.8159976601600647</data>
+</edge>
+<edge source="Jhené Aiko - Sativa ft. Swae Lee (Official Audio)" target="Tory Lanez - Teyana (Lost Tapes 2013)">
+  <data key="d0">0.8394416570663452</data>
+</edge>
+<edge source="Jhené Aiko - Sativa ft. Swae Lee (Official Audio)" target="SZA - The Weekend (Official Audio)">
+  <data key="d0">0.8338577151298523</data>
+</edge>
+<edge source="Jhené Aiko - Sativa ft. Swae Lee (Official Audio)" target="The Weeknd - Coming Down">
+  <data key="d0">0.8107706308364868</data>
+</edge>
+<edge source="Jhené Aiko - Sativa ft. Swae Lee (Official Audio)" target="Summer Walker - Over It [Official Audio]">
+  <data key="d0">0.8002520799636841</data>
+</edge>
+<edge source="Jhené Aiko - Sativa ft. Swae Lee (Official Audio)" target="Use Your Heart (Interlude)">
+  <data key="d0">0.7826119661331177</data>
+</edge>
+<edge source="Jhené Aiko - Surrender ft. Dr. Chill (Official Audio)" target="Kehlani – Everything Is Yours (Official Audio)">
+  <data key="d0">0.8604546785354614</data>
+</edge>
+<edge source="Jhené Aiko - Surrender ft. Dr. Chill (Official Audio)" target="Summer Walker - Over It [Official Audio]">
+  <data key="d0">0.8579303622245789</data>
+</edge>
+<edge source="Jhené Aiko - Surrender ft. Dr. Chill (Official Audio)" target="Sabrina Claudio - All To You (Lyric Visual)">
+  <data key="d0">0.8447473049163818</data>
+</edge>
+<edge source="Jhené Aiko - Surrender ft. Dr. Chill (Official Audio)" target="Sabrina Claudio  - Belong To You (Official Video)">
+  <data key="d0">0.8429288864135742</data>
+</edge>
+<edge source="Jhené Aiko - Surrender ft. Dr. Chill (Official Audio)" target="The Weeknd - Coming Down">
+  <data key="d0">0.8176640868186951</data>
+</edge>
+<edge source="Kehlani – Everything Is Yours (Official Audio)" target="Summer Walker - Playing Games [Audio]">
+  <data key="d0">0.9120381474494934</data>
+</edge>
+<edge source="Kehlani – Everything Is Yours (Official Audio)" target="Summer Walker - Girls Need Love Remix (with Drake)">
+  <data key="d0">0.9005998969078064</data>
+</edge>
+<edge source="Kehlani – Everything Is Yours (Official Audio)" target="Summer Walker - Over It [Official Audio]">
+  <data key="d0">0.8989303112030029</data>
+</edge>
+<edge source="Kehlani – Everything Is Yours (Official Audio)" target="Kiana Ledé - Wicked Games (Audio)">
+  <data key="d0">0.8832655549049377</data>
+</edge>
+<edge source="Kehlani – Everything Is Yours (Official Audio)" target="Summer Walker - No Love (ft. SZA) [Lyric Video]">
+  <data key="d0">0.8463466167449951</data>
+</edge>
+<edge source="Kehlani – Everything Is Yours (Official Audio)" target="SZA - The Weekend (Official Audio)">
+  <data key="d0">0.8626804947853088</data>
+</edge>
+<edge source="Kiana Ledé - Wicked Games (Audio)" target="Muni Long - Hrs and Hrs (Official Audio)">
+  <data key="d0">0.9245491623878479</data>
+</edge>
+<edge source="Kiana Ledé - Wicked Games (Audio)" target="True Colors">
+  <data key="d0">0.9132540225982666</data>
+</edge>
+<edge source="Kiana Ledé - Wicked Games (Audio)" target="TheARTI$T - Soul On Fire (Official Lyric Video)">
+  <data key="d0">0.8996850252151489</data>
+</edge>
+<edge source="Kiana Ledé - Wicked Games (Audio)" target="Summer Walker - Over It [Official Audio]">
+  <data key="d0">0.8973630666732788</data>
+</edge>
+<edge source="Kiana Ledé - Wicked Games (Audio)" target="sky - over and over (official lyric video)">
+  <data key="d0">0.8872629404067993</data>
+</edge>
+<edge source="Kiana Ledé - Wicked Games (Audio)" target="Summer Walker - No Love (ft. SZA) [Lyric Video]">
+  <data key="d0">0.8555837869644165</data>
+</edge>
+<edge source="Muni Long - Hrs and Hrs (Official Audio)" target="Outside Freestyle (Lyric Video)">
+  <data key="d0">0.8592972159385681</data>
+</edge>
+<edge source="Muni Long - Hrs and Hrs (Official Audio)" target="True Colors">
+  <data key="d0">0.8544544577598572</data>
+</edge>
+<edge source="Muni Long - Hrs and Hrs (Official Audio)" target="Summer Walker - No Love (ft. SZA) [Lyric Video]">
+  <data key="d0">0.8517107963562012</data>
+</edge>
+<edge source="Muni Long - Hrs and Hrs (Official Audio)" target="Sabrina Claudio - Frozen (Official Audio)">
+  <data key="d0">0.8475887775421143</data>
+</edge>
+<edge source="Muni Long - Hrs and Hrs (Official Audio)" target="Summer Walker - Girls Need Love Remix (with Drake)">
+  <data key="d0">0.8447339534759521</data>
+</edge>
+<edge source="Outside Freestyle (Lyric Video)" target="True Colors">
+  <data key="d0">0.8974738717079163</data>
+</edge>
+<edge source="Outside Freestyle (Lyric Video)" target="TheARTI$T - Soul On Fire (Official Lyric Video)">
+  <data key="d0">0.8961883783340454</data>
+</edge>
+<edge source="Outside Freestyle (Lyric Video)" target="Summer Walker - Over It [Official Audio]">
+  <data key="d0">0.878943920135498</data>
+</edge>
+<edge source="Outside Freestyle (Lyric Video)" target="The Weeknd - Starboy (Audio) ft. Daft Punk">
+  <data key="d0">0.7568663358688354</data>
+</edge>
+<edge source="Outside Freestyle (Lyric Video)" target="The Weeknd, JENNIE &amp; Lily Rose Depp - One Of The Girls (Official Audio)">
+  <data key="d0">0.8641886711120605</data>
+</edge>
+<edge source="PARTYNEXTDOOR - Come And See Me ft. Drake (Audio)" target="Since Way Back">
+  <data key="d0">0.8909480571746826</data>
+</edge>
+<edge source="PARTYNEXTDOOR - Come And See Me ft. Drake (Audio)" target="PARTYNEXTDOOR - Freak In You [Official Audio]">
+  <data key="d0">0.8898842930793762</data>
+</edge>
+<edge source="PARTYNEXTDOOR - Come And See Me ft. Drake (Audio)" target="Summer Walker - Girls Need Love Remix (with Drake)">
+  <data key="d0">0.8580645322799683</data>
+</edge>
+<edge source="PARTYNEXTDOOR - Come And See Me ft. Drake (Audio)" target="PARTYNEXTDOOR - Peace Of Mind [Official Audio]">
+  <data key="d0">0.8463575839996338</data>
+</edge>
+<edge source="PARTYNEXTDOOR - Don't Run [Official Audio]" target="PARTYNEXTDOOR - PERSIAN RUGS (Official Audio)">
+  <data key="d0">0.9268425703048706</data>
+</edge>
+<edge source="PARTYNEXTDOOR - Don't Run [Official Audio]" target="TBH">
+  <data key="d0">0.8858062028884888</data>
+</edge>
+<edge source="PARTYNEXTDOOR - Don't Run [Official Audio]" target="Since Way Back">
+  <data key="d0">0.8771601915359497</data>
+</edge>
+<edge source="PARTYNEXTDOOR - Don't Run [Official Audio]" target="Pip Millet &amp; Mariah the Scientist - Have your babies (639Hz)">
+  <data key="d0">0.8610593676567078</data>
+</edge>
+<edge source="PARTYNEXTDOOR - Don't Run [Official Audio]" target="PARTYNEXTDOOR - Peace Of Mind [Official Audio]">
+  <data key="d0">0.8605548143386841</data>
+</edge>
+<edge source="PARTYNEXTDOOR - Don't Run [Official Audio]" target="PARTYNEXTDOOR - THINGS &amp; SUCH (Official Audio)">
+  <data key="d0">0.8426603674888611</data>
+</edge>
+<edge source="PARTYNEXTDOOR - Freak In You [Official Audio]" target="Since Way Back">
+  <data key="d0">0.9364252090454102</data>
+</edge>
+<edge source="PARTYNEXTDOOR - Freak In You [Official Audio]" target="PARTYNEXTDOOR - Peace Of Mind [Official Audio]">
+  <data key="d0">0.9269806146621704</data>
+</edge>
+<edge source="PARTYNEXTDOOR - Freak In You [Official Audio]" target="Summer Walker - Girls Need Love Remix (with Drake)">
+  <data key="d0">0.8966319561004639</data>
+</edge>
+<edge source="PARTYNEXTDOOR - Freak In You [Official Audio]" target="PARTYNEXTDOOR - THINGS &amp; SUCH (Official Audio)">
+  <data key="d0">0.8334296941757202</data>
+</edge>
+<edge source="PARTYNEXTDOOR - Peace Of Mind [Official Audio]" target="Since Way Back">
+  <data key="d0">0.9078051447868347</data>
+</edge>
+<edge source="PARTYNEXTDOOR - Peace Of Mind [Official Audio]" target="Summer Walker - Girls Need Love Remix (with Drake)">
+  <data key="d0">0.8532437682151794</data>
+</edge>
+<edge source="PARTYNEXTDOOR - PERSIAN RUGS (Official Audio)" target="Pip Millet &amp; Mariah the Scientist - Have your babies (639Hz)">
+  <data key="d0">0.8629063367843628</data>
+</edge>
+<edge source="PARTYNEXTDOOR - PERSIAN RUGS (Official Audio)" target="Since Way Back">
+  <data key="d0">0.8583097457885742</data>
+</edge>
+<edge source="PARTYNEXTDOOR - PERSIAN RUGS (Official Audio)" target="TBH">
+  <data key="d0">0.857324481010437</data>
+</edge>
+<edge source="PARTYNEXTDOOR - PERSIAN RUGS (Official Audio)" target="PARTYNEXTDOOR - THINGS &amp; SUCH (Official Audio)">
+  <data key="d0">0.8570910692214966</data>
+</edge>
+<edge source="PARTYNEXTDOOR - THINGS &amp; SUCH (Official Audio)" target="Summer Walker - Girls Need Love Remix (with Drake)">
+  <data key="d0">0.8545395135879517</data>
+</edge>
+<edge source="PARTYNEXTDOOR - THINGS &amp; SUCH (Official Audio)" target="Pip Millet &amp; Mariah the Scientist - Have your babies (639Hz)">
+  <data key="d0">0.8438198566436768</data>
+</edge>
+<edge source="Pip Millet &amp; Mariah the Scientist - Have your babies (639Hz)" target="Summer Walker - Girls Need Love Remix (with Drake)">
+  <data key="d0">0.8538719415664673</data>
+</edge>
+<edge source="Pip Millet &amp; Mariah the Scientist - Have your babies (639Hz)" target="Summer Walker - Playing Games [Audio]">
+  <data key="d0">0.8507417440414429</data>
+</edge>
+<edge source="Pip Millet &amp; Mariah the Scientist - Have your babies (639Hz)" target="TBH">
+  <data key="d0">0.8411507606506348</data>
+</edge>
+<edge source="PJ - Drunk AF" target="Summer Walker - CPR (Last Day of Summer)">
+  <data key="d0">0.7917120456695557</data>
+</edge>
+<edge source="PJ - Drunk AF" target="Wasted">
+  <data key="d0">0.7573188543319702</data>
+</edge>
+<edge source="PJ - Drunk AF" target="Tory Lanez - Teyana (Lost Tapes 2013)">
+  <data key="d0">0.7487000226974487</data>
+</edge>
+<edge source="PJ - Drunk AF" target="Poison">
+  <data key="d0">0.7455490231513977</data>
+</edge>
+<edge source="PJ - Drunk AF" target="Sabrina Claudio - Frozen (Official Audio)">
+  <data key="d0">0.7441503405570984</data>
+</edge>
+<edge source="Poison" target="sky - over and over (official lyric video)">
+  <data key="d0">0.8222188949584961</data>
+</edge>
+<edge source="Poison" target="The Weeknd - Thursday">
+  <data key="d0">0.8192950487136841</data>
+</edge>
+<edge source="Poison" target="The Weeknd - Wicked Games (Official Video - Explicit)">
+  <data key="d0">0.6666325926780701</data>
+</edge>
+<edge source="Redbone" target="THINGS U DO">
+  <data key="d0">0.7356830835342407</data>
+</edge>
+<edge source="Redbone" target="The Internet - Hold On (Official Audio)">
+  <data key="d0">0.6933000087738037</data>
+</edge>
+<edge source="Redbone" target="Summer Walker - CPR (Last Day of Summer)">
+  <data key="d0">0.6927434206008911</data>
+</edge>
+<edge source="Sabrina Claudio  - Belong To You (Official Video)" target="Sabrina Claudio - All To You (Lyric Visual)">
+  <data key="d0">0.8286830186843872</data>
+</edge>
+<edge source="Sabrina Claudio  - Belong To You (Official Video)" target="TheARTI$T - Soul On Fire (Official Lyric Video)">
+  <data key="d0">0.8283510208129883</data>
+</edge>
+<edge source="Sabrina Claudio - All To You (Lyric Visual)" target="Sabrina Claudio - Frozen (Official Audio)">
+  <data key="d0">0.8880012035369873</data>
+</edge>
+<edge source="Sabrina Claudio - All To You (Lyric Visual)" target="Sabrina Claudio - We Have Time (Official Audio)">
+  <data key="d0">0.8788177967071533</data>
+</edge>
+<edge source="Sabrina Claudio - All To You (Lyric Visual)" target="sky - over and over (official lyric video)">
+  <data key="d0">0.864238977432251</data>
+</edge>
+<edge source="Sabrina Claudio - All To You (Lyric Visual)" target="Sabrina Claudio - Stand Still (Lyrics)">
+  <data key="d0">0.8393014669418335</data>
+</edge>
+<edge source="Sabrina Claudio - All To You (Lyric Visual)" target="Summer Walker - CPR (Last Day of Summer)">
+  <data key="d0">0.8319184184074402</data>
+</edge>
+<edge source="Sabrina Claudio - All To You (Lyric Visual)" target="The Weeknd - Thursday">
+  <data key="d0">0.8312329053878784</data>
+</edge>
+<edge source="Sabrina Claudio - Frozen (Official Audio)" target="Sabrina Claudio - We Have Time (Official Audio)">
+  <data key="d0">0.8923593759536743</data>
+</edge>
+<edge source="Sabrina Claudio - Frozen (Official Audio)" target="sky - over and over (official lyric video)">
+  <data key="d0">0.8561774492263794</data>
+</edge>
+<edge source="Sabrina Claudio - Frozen (Official Audio)" target="Sabrina Claudio - Stand Still (Lyrics)">
+  <data key="d0">0.8540849685668945</data>
+</edge>
+<edge source="Sabrina Claudio - Frozen (Official Audio)" target="Summer Walker - CPR (Last Day of Summer)">
+  <data key="d0">0.8443454504013062</data>
+</edge>
+<edge source="Sabrina Claudio - Stand Still (Lyrics)" target="Sabrina Claudio - We Have Time (Official Audio)">
+  <data key="d0">0.8385555744171143</data>
+</edge>
+<edge source="Sabrina Claudio - Stand Still (Lyrics)" target="The Internet - Girl (Official Video) ft. KAYTRANADA">
+  <data key="d0">0.8379963040351868</data>
+</edge>
+<edge source="Sabrina Claudio - Stand Still (Lyrics)" target="The Internet - Hold On (Official Audio)">
+  <data key="d0">0.810072660446167</data>
+</edge>
+<edge source="Sabrina Claudio - We Have Time (Official Audio)" target="sky - over and over (official lyric video)">
+  <data key="d0">0.8839525580406189</data>
+</edge>
+<edge source="Sabrina Claudio - We Have Time (Official Audio)" target="The Internet - Girl (Official Video) ft. KAYTRANADA">
+  <data key="d0">0.861018180847168</data>
+</edge>
+<edge source="Sebastian Mikael - Vibe [Official Audio]" target="The Weeknd - Coming Down">
+  <data key="d0">0.830060601234436</data>
+</edge>
+<edge source="Sebastian Mikael - Vibe [Official Audio]" target="SZA - The Weekend (Official Audio)">
+  <data key="d0">0.8171468377113342</data>
+</edge>
+<edge source="Sebastian Mikael - Vibe [Official Audio]" target="The Weeknd - House Of Balloons ⧸ Glass Table Girls">
+  <data key="d0">0.7468608617782593</data>
+</edge>
+<edge source="Since Way Back" target="TBH">
+  <data key="d0">0.828588604927063</data>
+</edge>
+<edge source="sky - over and over (official lyric video)" target="True Colors">
+  <data key="d0">0.9041243195533752</data>
+</edge>
+<edge source="sky - over and over (official lyric video)" target="Wasted">
+  <data key="d0">0.801913857460022</data>
+</edge>
+<edge source="Summer Walker - CPR (Last Day of Summer)" target="The Internet - Girl (Official Video) ft. KAYTRANADA">
+  <data key="d0">0.831420361995697</data>
+</edge>
+<edge source="Summer Walker - CPR (Last Day of Summer)" target="Wasted">
+  <data key="d0">0.8310080766677856</data>
+</edge>
+<edge source="Summer Walker - CPR (Last Day of Summer)" target="The Internet - Hold On (Official Audio)">
+  <data key="d0">0.8280572891235352</data>
+</edge>
+<edge source="Summer Walker - CPR (Last Day of Summer)" target="The Internet - ＂Shadow Dance＂">
+  <data key="d0">0.7180904150009155</data>
+</edge>
+<edge source="Summer Walker - CPR (Last Day of Summer)" target="TMW">
+  <data key="d0">0.805571436882019</data>
+</edge>
+<edge source="Summer Walker - Girls Need Love Remix (with Drake)" target="Summer Walker - Over It [Official Audio]">
+  <data key="d0">0.8911686539649963</data>
+</edge>
+<edge source="Summer Walker - Girls Need Love Remix (with Drake)" target="Summer Walker - Playing Games [Audio]">
+  <data key="d0">0.8864786624908447</data>
+</edge>
+<edge source="Summer Walker - Girls Need Love Remix (with Drake)" target="TheARTI$T - Soul On Fire (Official Lyric Video)">
+  <data key="d0">0.8828943967819214</data>
+</edge>
+<edge source="Summer Walker - Girls Need Love Remix (with Drake)" target="Summer Walker - No Love (ft. SZA) [Lyric Video]">
+  <data key="d0">0.8447962403297424</data>
+</edge>
+<edge source="Summer Walker - Girls Need Love Remix (with Drake)" target="The Weeknd, JENNIE &amp; Lily Rose Depp - One Of The Girls (Official Audio)">
+  <data key="d0">0.8721972107887268</data>
+</edge>
+<edge source="Summer Walker - No Love (ft. SZA) [Lyric Video]" target="Summer Walker - Over It [Official Audio]">
+  <data key="d0">0.8791086673736572</data>
+</edge>
+<edge source="Summer Walker - No Love (ft. SZA) [Lyric Video]" target="Summer Walker - Playing Games [Audio]">
+  <data key="d0">0.8351964354515076</data>
+</edge>
+<edge source="Summer Walker - Over It [Official Audio]" target="TheARTI$T - Soul On Fire (Official Lyric Video)">
+  <data key="d0">0.9093540906906128</data>
+</edge>
+<edge source="Summer Walker - Over It [Official Audio]" target="Summer Walker - Playing Games [Audio]">
+  <data key="d0">0.8853936195373535</data>
+</edge>
+<edge source="Summer Walker - Over It [Official Audio]" target="The Weeknd - Call Out My Name (Official Audio)">
+  <data key="d0">0.7873071432113647</data>
+</edge>
+<edge source="Summer Walker - Over It [Official Audio]" target="The Weeknd - Starboy (Audio) ft. Daft Punk">
+  <data key="d0">0.8107062578201294</data>
+</edge>
+<edge source="Summer Walker - Over It [Official Audio]" target="The Weeknd, JENNIE &amp; Lily Rose Depp - One Of The Girls (Official Audio)">
+  <data key="d0">0.8775409460067749</data>
+</edge>
+<edge source="Summer Walker - Playing Games [Audio]" target="TheARTI$T - Soul On Fire (Official Lyric Video)">
+  <data key="d0">0.8410683870315552</data>
+</edge>
+<edge source="SZA - The Weekend (Official Audio)" target="Tory Lanez - Teyana (Lost Tapes 2013)">
+  <data key="d0">0.8898468017578125</data>
+</edge>
+<edge source="SZA - The Weekend (Official Audio)" target="The Weeknd, JENNIE &amp; Lily Rose Depp - One Of The Girls (Official Audio)">
+  <data key="d0">0.8537771701812744</data>
+</edge>
+<edge source="SZA - The Weekend (Official Audio)" target="The Weeknd - Coming Down">
+  <data key="d0">0.8126643896102905</data>
+</edge>
+<edge source="SZA - The Weekend (Official Audio)" target="Use Your Heart (Interlude)">
+  <data key="d0">0.7966914772987366</data>
+</edge>
+<edge source="The Internet - Girl (Official Video) ft. KAYTRANADA" target="The Internet - Hold On (Official Audio)">
+  <data key="d0">0.8069011569023132</data>
+</edge>
+<edge source="The Internet - ＂Shadow Dance＂" target="Wasted">
+  <data key="d0">0.7945004105567932</data>
+</edge>
+<edge source="The Weeknd - Call Out My Name (Official Audio)" target="TheARTI$T - Soul On Fire (Official Lyric Video)">
+  <data key="d0">0.8287472724914551</data>
+</edge>
+<edge source="The Weeknd - Call Out My Name (Official Audio)" target="The Weeknd, JENNIE &amp; Lily Rose Depp - One Of The Girls (Official Audio)">
+  <data key="d0">0.8222324848175049</data>
+</edge>
+<edge source="The Weeknd - Call Out My Name (Official Audio)" target="The Weeknd - Thursday">
+  <data key="d0">0.8185752630233765</data>
+</edge>
+<edge source="The Weeknd - Coming Down" target="The Weeknd - House Of Balloons ⧸ Glass Table Girls">
+  <data key="d0">0.7716397643089294</data>
+</edge>
+<edge source="The Weeknd - Coming Down" target="The Weeknd - Wicked Games (Official Video - Explicit)">
+  <data key="d0">0.6382483243942261</data>
+</edge>
+<edge source="The Weeknd - Starboy (Audio) ft. Daft Punk" target="TheARTI$T - Soul On Fire (Official Lyric Video)">
+  <data key="d0">0.7911837100982666</data>
+</edge>
+<edge source="The Weeknd - Starboy (Audio) ft. Daft Punk" target="The Weeknd, JENNIE &amp; Lily Rose Depp - One Of The Girls (Official Audio)">
+  <data key="d0">0.7574480175971985</data>
+</edge>
+<edge source="The Weeknd - Wicked Games (Official Video - Explicit)" target="Use Your Heart (Interlude)">
+  <data key="d0">0.67744380235672</data>
+</edge>
+<edge source="The Weeknd - Wicked Games (Official Video - Explicit)" target="TMW">
+  <data key="d0">0.639957070350647</data>
+</edge>
+<edge source="The Weeknd, JENNIE &amp; Lily Rose Depp - One Of The Girls (Official Audio)" target="TheARTI$T - Soul On Fire (Official Lyric Video)">
+  <data key="d0">0.8969415426254272</data>
+</edge>
+<edge source="The Weeknd, JENNIE &amp; Lily Rose Depp - One Of The Girls (Official Audio)" target="True Colors">
+  <data key="d0">0.8566536903381348</data>
+</edge>
+<edge source="THINGS U DO" target="True Colors">
+  <data key="d0">0.7739454507827759</data>
+</edge>
+<edge source="Tory Lanez - Teyana (Lost Tapes 2013)" target="True Colors">
+  <data key="d0">0.8750146627426147</data>
+</edge>
+<edge source="True Colors" target="Wasted">
+  <data key="d0">0.811248779296875</data>
+</edge>
+</graph></graphml>

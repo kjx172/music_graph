@@ -1,0 +1,1438 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="double"/>
+<graph edgedefault="undirected"><node id="01.- The Girl From Ipanema - Getz ⧸ Gilberto - Stan Getz &amp; Joao Gilberto"/>
+<node id="4_00 A.M."/>
+<node id="Abu Ft. Yousra - 3 Daqat ｜ Official Music Video ｜ أبو و يسرا - ثلاث دقات"/>
+<node id="Agua De Beber"/>
+<node id="Ahmad Jamal Trio - Perfidia"/>
+<node id="Amtrak"/>
+<node id="Aos Pés da Santa Cruz — Gilberto Gil"/>
+<node id="Astrud Gilberto - AGUA DE BEBER - 1965 Stereo!"/>
+<node id="beabadoobee - the perfect pair (Official Audio)"/>
+<node id="Brasil"/>
+<node id="Chapter Six"/>
+<node id="Chega de Saudade"/>
+<node id="Chove Chuva"/>
+<node id="Clairo - Amoeba"/>
+<node id="Clarão Da Lua"/>
+<node id="Corcovado (Quiet Nights Of Quiet Stars) (Mono Version)"/>
+<node id="Cortex - Prélude à 'Go Round' (Out Of Phase Stereo)"/>
+<node id="Cry Me A River"/>
+<node id="Desafinado"/>
+<node id="Dripping"/>
+<node id="Ela È Carioca"/>
+<node id="Elis Regina &amp; Adoniran Barbosa - Tiro ao álvaro"/>
+<node id="Erykah Badu - Didn't Cha Know"/>
+<node id="Faye Webster - Kingston"/>
+<node id="Feitiço da Vila"/>
+<node id="Green Eyes"/>
+<node id="Guru - Lifesaver"/>
+<node id="Hatachi No Koi"/>
+<node id="I COULDN'T SLEEP A WINK LAST NIGHT (Original)"/>
+<node id="I Gotta Find Peace of Mind (Live)"/>
+<node id="I Know I'm Funny haha"/>
+<node id="I Know You"/>
+<node id="I-Wayne- Can't Satisfy Her"/>
+<node id="In Love With You"/>
+<node id="In love with you"/>
+<node id="In Your Eyes"/>
+<node id="J. Cole - Back To The Topic Freestyle (Official Audio)"/>
+<node id="Jeff Buckley - Lover, You Should've Come Over (Official Audio)"/>
+<node id="Jill Scott ｜ A Long Walk HD ｜ Who Is Jill Scott？"/>
+<node id="Kaoru Akimoto - Dress Down (Official Lyric Video)"/>
+<node id="Khruangbin - Friday Morning (Official Video)"/>
+<node id="kometostai.aintreallynootherwaytoputitro"/>
+<node id="La Noche Más Linda"/>
+<node id="Lamp - Amaashi Hayaku [ Album ： Soyokaze Apartment 201 ]"/>
+<node id="Laufey - Everything I Know About Love (Official Lyric Video)"/>
+<node id="Laufey - From The Start (Official Audio)"/>
+<node id="Laufey - I Wish You Love (Official Audio)"/>
+<node id="Laufey - Like The Movies (Official Audio)"/>
+<node id="Lauryn Hill - Can't Take My Eyes Off Of You (I Love You Baby - Audio)"/>
+<node id="Lauryn Hill - Tell Him (Official Audio)"/>
+<node id="Living In This World"/>
+<node id="London Samba"/>
+<node id="Los Retros - Friends"/>
+<node id="Mac DeMarco ⧸⧸ No Other Heart (Official Audio)"/>
+<node id="Manha de Carnaval"/>
+<node id="Manhã de Carnaval"/>
+<node id="Marcos Valle - Batuque (Batucada Surgiu)"/>
+<node id="Mas, Que Nada!"/>
+<node id="Mayonakano Joke"/>
+<node id="Meiko Nakahara - Fantasy (1982)"/>
+<node id="Men I Trust - Show Me How"/>
+<node id="Michael Bublé - Sway (Official Lyric Video)"/>
+<node id="Midnight Pretenders"/>
+<node id="Mitski - Me and My Husband (Lyric Video)"/>
+<node id="Morning Glory (Remastered)"/>
+<node id="My Way (2008 Remastered)"/>
+<node id="Natalia Lafourcade - El lugar correcto (Video Lyric)"/>
+<node id="Natalia Lafourcade - Mi manera de querer (Video Lyric)"/>
+<node id="Nothing Even Matters"/>
+<node id="O Cometa"/>
+<node id="Oh Qué Será？"/>
+<node id="On &amp; On"/>
+<node id="On the Cusp"/>
+<node id="Outra Vez"/>
+<node id="P.B.J."/>
+<node id="Phoebe Bridgers - Motion Sickness (Official Video)"/>
+<node id="Rio Soundtrack- 12 Samba de Orly"/>
+<node id="Rosa Passos - Rosa Morena"/>
+<node id="Samba Da Bencao"/>
+<node id="Samba Do Avião"/>
+<node id="Santana - Maria Maria (Official Video) ft. The Product G&amp;B"/>
+<node id="Say Anything"/>
+<node id="Seringueiro"/>
+<node id="Shiloh Dynasty Relax Music With Rain"/>
+<node id="SHIPS N LUV"/>
+<node id="Skeete - Tek Buddy (Official Music Video)"/>
+<node id="Somethin' Stupid"/>
+<node id="Something To Remember You By (Remastered 1995)"/>
+<node id="Stan Getz &amp; Joao Gilberto - Corcovado (Quiet Nights of Quiet Stars)"/>
+<node id="Stan Getz &amp; João Gilberto - Para Machuchar Meu Coração"/>
+<node id="Stan Getz feat. João Gilberto - Desafinado (Visualizer)"/>
+<node id="Street Dancer"/>
+<node id="Só"/>
+<node id="Taeko Ōnuki (大貫妙子) - Tokai (都会) [Lyrics Eng⧸Rom⧸Kan]"/>
+<node id="Takako Mamiya - Love Trip"/>
+<node id="Tempo De Amor (feat. Cèu)"/>
+<node id="Toshifumi Hinata – Reflections (Official Music Video)"/>
+<node id="Wave"/>
+<node id="Why Try To Change Me Now？ (Remastered)"/>
+<node id="YG Marley - Praise Jah in the Moonlight (Official Music Video)"/>
+<node id="Your Old Droog - SUSPECTS"/>
+<node id="喫茶aori"/>
+<node id="恋は月の蔭に"/>
+<edge source="01.- The Girl From Ipanema - Getz ⧸ Gilberto - Stan Getz &amp; Joao Gilberto" target="Stan Getz &amp; Joao Gilberto - Corcovado (Quiet Nights of Quiet Stars)">
+  <data key="d0">0.968744695186615</data>
+</edge>
+<edge source="01.- The Girl From Ipanema - Getz ⧸ Gilberto - Stan Getz &amp; Joao Gilberto" target="Stan Getz feat. João Gilberto - Desafinado (Visualizer)">
+  <data key="d0">0.9593402743339539</data>
+</edge>
+<edge source="01.- The Girl From Ipanema - Getz ⧸ Gilberto - Stan Getz &amp; Joao Gilberto" target="Corcovado (Quiet Nights Of Quiet Stars) (Mono Version)">
+  <data key="d0">0.9504902362823486</data>
+</edge>
+<edge source="01.- The Girl From Ipanema - Getz ⧸ Gilberto - Stan Getz &amp; Joao Gilberto" target="Stan Getz &amp; João Gilberto - Para Machuchar Meu Coração">
+  <data key="d0">0.9486961364746094</data>
+</edge>
+<edge source="01.- The Girl From Ipanema - Getz ⧸ Gilberto - Stan Getz &amp; Joao Gilberto" target="Agua De Beber">
+  <data key="d0">0.8853651285171509</data>
+</edge>
+<edge source="01.- The Girl From Ipanema - Getz ⧸ Gilberto - Stan Getz &amp; Joao Gilberto" target="Manha de Carnaval">
+  <data key="d0">0.8632949590682983</data>
+</edge>
+<edge source="01.- The Girl From Ipanema - Getz ⧸ Gilberto - Stan Getz &amp; Joao Gilberto" target="Chega de Saudade">
+  <data key="d0">0.7834157943725586</data>
+</edge>
+<edge source="01.- The Girl From Ipanema - Getz ⧸ Gilberto - Stan Getz &amp; Joao Gilberto" target="Chove Chuva">
+  <data key="d0">0.8238943219184875</data>
+</edge>
+<edge source="01.- The Girl From Ipanema - Getz ⧸ Gilberto - Stan Getz &amp; Joao Gilberto" target="London Samba">
+  <data key="d0">0.8348113298416138</data>
+</edge>
+<edge source="4_00 A.M." target="Street Dancer">
+  <data key="d0">0.7851496934890747</data>
+</edge>
+<edge source="4_00 A.M." target="Taeko Ōnuki (大貫妙子) - Tokai (都会) [Lyrics Eng⧸Rom⧸Kan]">
+  <data key="d0">0.7548606991767883</data>
+</edge>
+<edge source="4_00 A.M." target="Mayonakano Joke">
+  <data key="d0">0.7542911767959595</data>
+</edge>
+<edge source="4_00 A.M." target="Midnight Pretenders">
+  <data key="d0">0.6974371671676636</data>
+</edge>
+<edge source="4_00 A.M." target="Meiko Nakahara - Fantasy (1982)">
+  <data key="d0">0.6840644478797913</data>
+</edge>
+<edge source="4_00 A.M." target="In Your Eyes">
+  <data key="d0">0.6785467267036438</data>
+</edge>
+<edge source="4_00 A.M." target="Cortex - Prélude à 'Go Round' (Out Of Phase Stereo)">
+  <data key="d0">0.5776890516281128</data>
+</edge>
+<edge source="4_00 A.M." target="Kaoru Akimoto - Dress Down (Official Lyric Video)">
+  <data key="d0">0.5737611055374146</data>
+</edge>
+<edge source="4_00 A.M." target="Takako Mamiya - Love Trip">
+  <data key="d0">0.6032201051712036</data>
+</edge>
+<edge source="Abu Ft. Yousra - 3 Daqat ｜ Official Music Video ｜ أبو و يسرا - ثلاث دقات" target="Michael Bublé - Sway (Official Lyric Video)">
+  <data key="d0">0.7584946155548096</data>
+</edge>
+<edge source="Abu Ft. Yousra - 3 Daqat ｜ Official Music Video ｜ أبو و يسرا - ثلاث دقات" target="Laufey - I Wish You Love (Official Audio)">
+  <data key="d0">0.6183540225028992</data>
+</edge>
+<edge source="Abu Ft. Yousra - 3 Daqat ｜ Official Music Video ｜ أبو و يسرا - ثلاث دقات" target="YG Marley - Praise Jah in the Moonlight (Official Music Video)">
+  <data key="d0">0.6144510507583618</data>
+</edge>
+<edge source="Abu Ft. Yousra - 3 Daqat ｜ Official Music Video ｜ أبو و يسرا - ثلاث دقات" target="Ela È Carioca">
+  <data key="d0">0.5814745426177979</data>
+</edge>
+<edge source="Abu Ft. Yousra - 3 Daqat ｜ Official Music Video ｜ أبو و يسرا - ثلاث دقات" target="Aos Pés da Santa Cruz — Gilberto Gil">
+  <data key="d0">0.5807143449783325</data>
+</edge>
+<edge source="Abu Ft. Yousra - 3 Daqat ｜ Official Music Video ｜ أبو و يسرا - ثلاث دقات" target="In Love With You">
+  <data key="d0">0.5713955163955688</data>
+</edge>
+<edge source="Agua De Beber" target="Stan Getz &amp; Joao Gilberto - Corcovado (Quiet Nights of Quiet Stars)">
+  <data key="d0">0.8814199566841125</data>
+</edge>
+<edge source="Agua De Beber" target="Chove Chuva">
+  <data key="d0">0.8704521656036377</data>
+</edge>
+<edge source="Agua De Beber" target="Stan Getz feat. João Gilberto - Desafinado (Visualizer)">
+  <data key="d0">0.866779625415802</data>
+</edge>
+<edge source="Agua De Beber" target="Astrud Gilberto - AGUA DE BEBER - 1965 Stereo!">
+  <data key="d0">0.8653122186660767</data>
+</edge>
+<edge source="Agua De Beber" target="Manha de Carnaval">
+  <data key="d0">0.8595545887947083</data>
+</edge>
+<edge source="Agua De Beber" target="Chega de Saudade">
+  <data key="d0">0.8197936415672302</data>
+</edge>
+<edge source="Agua De Beber" target="Corcovado (Quiet Nights Of Quiet Stars) (Mono Version)">
+  <data key="d0">0.8423149585723877</data>
+</edge>
+<edge source="Agua De Beber" target="Lamp - Amaashi Hayaku [ Album ： Soyokaze Apartment 201 ]">
+  <data key="d0">0.7030791640281677</data>
+</edge>
+<edge source="Agua De Beber" target="Mas, Que Nada!">
+  <data key="d0">0.8395457863807678</data>
+</edge>
+<edge source="Agua De Beber" target="Samba Do Avião">
+  <data key="d0">0.7484781742095947</data>
+</edge>
+<edge source="Agua De Beber" target="Somethin' Stupid">
+  <data key="d0">0.6971001029014587</data>
+</edge>
+<edge source="Agua De Beber" target="Stan Getz &amp; João Gilberto - Para Machuchar Meu Coração">
+  <data key="d0">0.8430078029632568</data>
+</edge>
+<edge source="Agua De Beber" target="Wave">
+  <data key="d0">0.8511370420455933</data>
+</edge>
+<edge source="Ahmad Jamal Trio - Perfidia" target="Something To Remember You By (Remastered 1995)">
+  <data key="d0">0.7848010063171387</data>
+</edge>
+<edge source="Ahmad Jamal Trio - Perfidia" target="Cry Me A River">
+  <data key="d0">0.7699551582336426</data>
+</edge>
+<edge source="Ahmad Jamal Trio - Perfidia" target="Stan Getz &amp; João Gilberto - Para Machuchar Meu Coração">
+  <data key="d0">0.7584596276283264</data>
+</edge>
+<edge source="Ahmad Jamal Trio - Perfidia" target="Stan Getz &amp; Joao Gilberto - Corcovado (Quiet Nights of Quiet Stars)">
+  <data key="d0">0.7335091233253479</data>
+</edge>
+<edge source="Ahmad Jamal Trio - Perfidia" target="Why Try To Change Me Now？ (Remastered)">
+  <data key="d0">0.7328304648399353</data>
+</edge>
+<edge source="Ahmad Jamal Trio - Perfidia" target="Laufey - Like The Movies (Official Audio)">
+  <data key="d0">0.7266550660133362</data>
+</edge>
+<edge source="Ahmad Jamal Trio - Perfidia" target="I COULDN'T SLEEP A WINK LAST NIGHT (Original)">
+  <data key="d0">0.5540223717689514</data>
+</edge>
+<edge source="Ahmad Jamal Trio - Perfidia" target="Só">
+  <data key="d0">0.7009425163269043</data>
+</edge>
+<edge source="Amtrak" target="I Know You">
+  <data key="d0">0.6701691746711731</data>
+</edge>
+<edge source="Amtrak" target="I Know I'm Funny haha">
+  <data key="d0">0.6635396480560303</data>
+</edge>
+<edge source="Amtrak" target="Faye Webster - Kingston">
+  <data key="d0">0.6460558176040649</data>
+</edge>
+<edge source="Amtrak" target="O Cometa">
+  <data key="d0">0.6431183218955994</data>
+</edge>
+<edge source="Amtrak" target="Men I Trust - Show Me How">
+  <data key="d0">0.6256641149520874</data>
+</edge>
+<edge source="Amtrak" target="Hatachi No Koi">
+  <data key="d0">0.6205028891563416</data>
+</edge>
+<edge source="Amtrak" target="Mitski - Me and My Husband (Lyric Video)">
+  <data key="d0">0.6172699928283691</data>
+</edge>
+<edge source="Aos Pés da Santa Cruz — Gilberto Gil" target="Laufey - From The Start (Official Audio)">
+  <data key="d0">0.7972743511199951</data>
+</edge>
+<edge source="Aos Pés da Santa Cruz — Gilberto Gil" target="Rio Soundtrack- 12 Samba de Orly">
+  <data key="d0">0.7315752506256104</data>
+</edge>
+<edge source="Aos Pés da Santa Cruz — Gilberto Gil" target="London Samba">
+  <data key="d0">0.717523455619812</data>
+</edge>
+<edge source="Aos Pés da Santa Cruz — Gilberto Gil" target="喫茶aori">
+  <data key="d0">0.7171921730041504</data>
+</edge>
+<edge source="Aos Pés da Santa Cruz — Gilberto Gil" target="Laufey - I Wish You Love (Official Audio)">
+  <data key="d0">0.7157124280929565</data>
+</edge>
+<edge source="Aos Pés da Santa Cruz — Gilberto Gil" target="Feitiço da Vila">
+  <data key="d0">0.711617112159729</data>
+</edge>
+<edge source="Aos Pés da Santa Cruz — Gilberto Gil" target="Brasil">
+  <data key="d0">0.6938307881355286</data>
+</edge>
+<edge source="Aos Pés da Santa Cruz — Gilberto Gil" target="Ela È Carioca">
+  <data key="d0">0.708187997341156</data>
+</edge>
+<edge source="Aos Pés da Santa Cruz — Gilberto Gil" target="Elis Regina &amp; Adoniran Barbosa - Tiro ao álvaro">
+  <data key="d0">0.614199697971344</data>
+</edge>
+<edge source="Aos Pés da Santa Cruz — Gilberto Gil" target="I Gotta Find Peace of Mind (Live)">
+  <data key="d0">0.7071881890296936</data>
+</edge>
+<edge source="Aos Pés da Santa Cruz — Gilberto Gil" target="Natalia Lafourcade - Mi manera de querer (Video Lyric)">
+  <data key="d0">0.6429664492607117</data>
+</edge>
+<edge source="Aos Pés da Santa Cruz — Gilberto Gil" target="Tempo De Amor (feat. Cèu)">
+  <data key="d0">0.6849398016929626</data>
+</edge>
+<edge source="Astrud Gilberto - AGUA DE BEBER - 1965 Stereo!" target="Mas, Que Nada!">
+  <data key="d0">0.8489381670951843</data>
+</edge>
+<edge source="Astrud Gilberto - AGUA DE BEBER - 1965 Stereo!" target="Manha de Carnaval">
+  <data key="d0">0.841791033744812</data>
+</edge>
+<edge source="Astrud Gilberto - AGUA DE BEBER - 1965 Stereo!" target="Chove Chuva">
+  <data key="d0">0.840863049030304</data>
+</edge>
+<edge source="Astrud Gilberto - AGUA DE BEBER - 1965 Stereo!" target="Stan Getz feat. João Gilberto - Desafinado (Visualizer)">
+  <data key="d0">0.8334941864013672</data>
+</edge>
+<edge source="Astrud Gilberto - AGUA DE BEBER - 1965 Stereo!" target="London Samba">
+  <data key="d0">0.8312419652938843</data>
+</edge>
+<edge source="Astrud Gilberto - AGUA DE BEBER - 1965 Stereo!" target="Chega de Saudade">
+  <data key="d0">0.8050934076309204</data>
+</edge>
+<edge source="Astrud Gilberto - AGUA DE BEBER - 1965 Stereo!" target="Elis Regina &amp; Adoniran Barbosa - Tiro ao álvaro">
+  <data key="d0">0.6259160041809082</data>
+</edge>
+<edge source="Astrud Gilberto - AGUA DE BEBER - 1965 Stereo!" target="Rio Soundtrack- 12 Samba de Orly">
+  <data key="d0">0.7231850624084473</data>
+</edge>
+<edge source="Astrud Gilberto - AGUA DE BEBER - 1965 Stereo!" target="Samba Da Bencao">
+  <data key="d0">0.7293960452079773</data>
+</edge>
+<edge source="beabadoobee - the perfect pair (Official Audio)" target="Hatachi No Koi">
+  <data key="d0">0.7474238872528076</data>
+</edge>
+<edge source="beabadoobee - the perfect pair (Official Audio)" target="Clairo - Amoeba">
+  <data key="d0">0.7339431047439575</data>
+</edge>
+<edge source="beabadoobee - the perfect pair (Official Audio)" target="I Know You">
+  <data key="d0">0.7237225770950317</data>
+</edge>
+<edge source="beabadoobee - the perfect pair (Official Audio)" target="Phoebe Bridgers - Motion Sickness (Official Video)">
+  <data key="d0">0.6955595016479492</data>
+</edge>
+<edge source="beabadoobee - the perfect pair (Official Audio)" target="Faye Webster - Kingston">
+  <data key="d0">0.683581531047821</data>
+</edge>
+<edge source="beabadoobee - the perfect pair (Official Audio)" target="Ela È Carioca">
+  <data key="d0">0.6802903413772583</data>
+</edge>
+<edge source="beabadoobee - the perfect pair (Official Audio)" target="Morning Glory (Remastered)">
+  <data key="d0">0.5241672992706299</data>
+</edge>
+<edge source="Brasil" target="Feitiço da Vila">
+  <data key="d0">0.6808697581291199</data>
+</edge>
+<edge source="Brasil" target="Laufey - From The Start (Official Audio)">
+  <data key="d0">0.6762304306030273</data>
+</edge>
+<edge source="Brasil" target="恋は月の蔭に">
+  <data key="d0">0.6569100022315979</data>
+</edge>
+<edge source="Brasil" target="I Gotta Find Peace of Mind (Live)">
+  <data key="d0">0.652747631072998</data>
+</edge>
+<edge source="Brasil" target="Ela È Carioca">
+  <data key="d0">0.6478337049484253</data>
+</edge>
+<edge source="Chapter Six" target="Nothing Even Matters">
+  <data key="d0">0.7622755765914917</data>
+</edge>
+<edge source="Chapter Six" target="P.B.J.">
+  <data key="d0">0.7610193490982056</data>
+</edge>
+<edge source="Chapter Six" target="Dripping">
+  <data key="d0">0.7525039315223694</data>
+</edge>
+<edge source="Chapter Six" target="SHIPS N LUV">
+  <data key="d0">0.743870735168457</data>
+</edge>
+<edge source="Chapter Six" target="Lauryn Hill - Tell Him (Official Audio)">
+  <data key="d0">0.7280895113945007</data>
+</edge>
+<edge source="Chapter Six" target="On the Cusp">
+  <data key="d0">0.7202367186546326</data>
+</edge>
+<edge source="Chapter Six" target="J. Cole - Back To The Topic Freestyle (Official Audio)">
+  <data key="d0">0.6916539669036865</data>
+</edge>
+<edge source="Chapter Six" target="kometostai.aintreallynootherwaytoputitro">
+  <data key="d0">0.6671499609947205</data>
+</edge>
+<edge source="Chapter Six" target="Los Retros - Friends">
+  <data key="d0">0.6452388167381287</data>
+</edge>
+<edge source="Chapter Six" target="Shiloh Dynasty Relax Music With Rain">
+  <data key="d0">0.6773038506507874</data>
+</edge>
+<edge source="Chega de Saudade" target="Mas, Que Nada!">
+  <data key="d0">0.8170137405395508</data>
+</edge>
+<edge source="Chega de Saudade" target="Chove Chuva">
+  <data key="d0">0.8081809878349304</data>
+</edge>
+<edge source="Chega de Saudade" target="Samba Do Avião">
+  <data key="d0">0.79567950963974</data>
+</edge>
+<edge source="Chega de Saudade" target="La Noche Más Linda">
+  <data key="d0">0.46048736572265625</data>
+</edge>
+<edge source="Chega de Saudade" target="Lamp - Amaashi Hayaku [ Album ： Soyokaze Apartment 201 ]">
+  <data key="d0">0.7094860076904297</data>
+</edge>
+<edge source="Chega de Saudade" target="Oh Qué Será？">
+  <data key="d0">0.6371901631355286</data>
+</edge>
+<edge source="Chega de Saudade" target="Outra Vez">
+  <data key="d0">0.7659890055656433</data>
+</edge>
+<edge source="Chove Chuva" target="Mas, Que Nada!">
+  <data key="d0">0.8390003442764282</data>
+</edge>
+<edge source="Chove Chuva" target="Manha de Carnaval">
+  <data key="d0">0.8363741636276245</data>
+</edge>
+<edge source="Chove Chuva" target="Stan Getz feat. João Gilberto - Desafinado (Visualizer)">
+  <data key="d0">0.820220410823822</data>
+</edge>
+<edge source="Chove Chuva" target="La Noche Más Linda">
+  <data key="d0">0.45940130949020386</data>
+</edge>
+<edge source="Chove Chuva" target="Marcos Valle - Batuque (Batucada Surgiu)">
+  <data key="d0">0.71872878074646</data>
+</edge>
+<edge source="Chove Chuva" target="Samba Do Avião">
+  <data key="d0">0.7489672899246216</data>
+</edge>
+<edge source="Chove Chuva" target="Wave">
+  <data key="d0">0.8179909586906433</data>
+</edge>
+<edge source="Clairo - Amoeba" target="Hatachi No Koi">
+  <data key="d0">0.8247826099395752</data>
+</edge>
+<edge source="Clairo - Amoeba" target="Phoebe Bridgers - Motion Sickness (Official Video)">
+  <data key="d0">0.8159472346305847</data>
+</edge>
+<edge source="Clairo - Amoeba" target="Laufey - I Wish You Love (Official Audio)">
+  <data key="d0">0.747170090675354</data>
+</edge>
+<edge source="Clairo - Amoeba" target="Ela È Carioca">
+  <data key="d0">0.7414387464523315</data>
+</edge>
+<edge source="Clairo - Amoeba" target="I Know You">
+  <data key="d0">0.7079200744628906</data>
+</edge>
+<edge source="Clairo - Amoeba" target="Desafinado">
+  <data key="d0">0.6394782066345215</data>
+</edge>
+<edge source="Clairo - Amoeba" target="Mac DeMarco ⧸⧸ No Other Heart (Official Audio)">
+  <data key="d0">0.5655403137207031</data>
+</edge>
+<edge source="Clairo - Amoeba" target="Men I Trust - Show Me How">
+  <data key="d0">0.7035191059112549</data>
+</edge>
+<edge source="Clairo - Amoeba" target="Mitski - Me and My Husband (Lyric Video)">
+  <data key="d0">0.6374427080154419</data>
+</edge>
+<edge source="Clarão Da Lua" target="Toshifumi Hinata – Reflections (Official Music Video)">
+  <data key="d0">0.8019703030586243</data>
+</edge>
+<edge source="Clarão Da Lua" target="恋は月の蔭に">
+  <data key="d0">0.7621363997459412</data>
+</edge>
+<edge source="Clarão Da Lua" target="Laufey - Like The Movies (Official Audio)">
+  <data key="d0">0.7119194865226746</data>
+</edge>
+<edge source="Clarão Da Lua" target="Só">
+  <data key="d0">0.7079998850822449</data>
+</edge>
+<edge source="Clarão Da Lua" target="Seringueiro">
+  <data key="d0">0.7002632021903992</data>
+</edge>
+<edge source="Clarão Da Lua" target="Why Try To Change Me Now？ (Remastered)">
+  <data key="d0">0.6860544681549072</data>
+</edge>
+<edge source="Clarão Da Lua" target="Jeff Buckley - Lover, You Should've Come Over (Official Audio)">
+  <data key="d0">0.6437258720397949</data>
+</edge>
+<edge source="Corcovado (Quiet Nights Of Quiet Stars) (Mono Version)" target="Stan Getz &amp; Joao Gilberto - Corcovado (Quiet Nights of Quiet Stars)">
+  <data key="d0">0.9577168226242065</data>
+</edge>
+<edge source="Corcovado (Quiet Nights Of Quiet Stars) (Mono Version)" target="Stan Getz feat. João Gilberto - Desafinado (Visualizer)">
+  <data key="d0">0.9494065046310425</data>
+</edge>
+<edge source="Corcovado (Quiet Nights Of Quiet Stars) (Mono Version)" target="Stan Getz &amp; João Gilberto - Para Machuchar Meu Coração">
+  <data key="d0">0.9313353896141052</data>
+</edge>
+<edge source="Corcovado (Quiet Nights Of Quiet Stars) (Mono Version)" target="Manha de Carnaval">
+  <data key="d0">0.8438172936439514</data>
+</edge>
+<edge source="Corcovado (Quiet Nights Of Quiet Stars) (Mono Version)" target="London Samba">
+  <data key="d0">0.8420374393463135</data>
+</edge>
+<edge source="Cortex - Prélude à 'Go Round' (Out Of Phase Stereo)" target="In Your Eyes">
+  <data key="d0">0.6452838778495789</data>
+</edge>
+<edge source="Cortex - Prélude à 'Go Round' (Out Of Phase Stereo)" target="Khruangbin - Friday Morning (Official Video)">
+  <data key="d0">0.6125709414482117</data>
+</edge>
+<edge source="Cortex - Prélude à 'Go Round' (Out Of Phase Stereo)" target="Samba Do Avião">
+  <data key="d0">0.5782486200332642</data>
+</edge>
+<edge source="Cortex - Prélude à 'Go Round' (Out Of Phase Stereo)" target="Your Old Droog - SUSPECTS">
+  <data key="d0">0.5589931011199951</data>
+</edge>
+<edge source="Cortex - Prélude à 'Go Round' (Out Of Phase Stereo)" target="Samba Da Bencao">
+  <data key="d0">0.5528465509414673</data>
+</edge>
+<edge source="Cry Me A River" target="Laufey - Like The Movies (Official Audio)">
+  <data key="d0">0.8651589155197144</data>
+</edge>
+<edge source="Cry Me A River" target="Wave">
+  <data key="d0">0.8316733241081238</data>
+</edge>
+<edge source="Cry Me A River" target="Green Eyes">
+  <data key="d0">0.802675187587738</data>
+</edge>
+<edge source="Cry Me A River" target="Stan Getz &amp; João Gilberto - Para Machuchar Meu Coração">
+  <data key="d0">0.7627306580543518</data>
+</edge>
+<edge source="Cry Me A River" target="My Way (2008 Remastered)">
+  <data key="d0">0.7574588656425476</data>
+</edge>
+<edge source="Cry Me A River" target="Natalia Lafourcade - Mi manera de querer (Video Lyric)">
+  <data key="d0">0.6302965879440308</data>
+</edge>
+<edge source="Cry Me A River" target="Samba Da Bencao">
+  <data key="d0">0.7184770703315735</data>
+</edge>
+<edge source="Cry Me A River" target="Somethin' Stupid">
+  <data key="d0">0.6882081031799316</data>
+</edge>
+<edge source="Cry Me A River" target="Something To Remember You By (Remastered 1995)">
+  <data key="d0">0.7037099599838257</data>
+</edge>
+<edge source="Cry Me A River" target="Toshifumi Hinata – Reflections (Official Music Video)">
+  <data key="d0">0.6374696493148804</data>
+</edge>
+<edge source="Cry Me A River" target="Why Try To Change Me Now？ (Remastered)">
+  <data key="d0">0.7549648880958557</data>
+</edge>
+<edge source="Desafinado" target="Ela È Carioca">
+  <data key="d0">0.7079530954360962</data>
+</edge>
+<edge source="Desafinado" target="Samba Da Bencao">
+  <data key="d0">0.6976991295814514</data>
+</edge>
+<edge source="Desafinado" target="Laufey - I Wish You Love (Official Audio)">
+  <data key="d0">0.6731202006340027</data>
+</edge>
+<edge source="Desafinado" target="Rio Soundtrack- 12 Samba de Orly">
+  <data key="d0">0.6451164484024048</data>
+</edge>
+<edge source="Desafinado" target="Lamp - Amaashi Hayaku [ Album ： Soyokaze Apartment 201 ]">
+  <data key="d0">0.6437789797782898</data>
+</edge>
+<edge source="Dripping" target="On the Cusp">
+  <data key="d0">0.8452329635620117</data>
+</edge>
+<edge source="Dripping" target="P.B.J.">
+  <data key="d0">0.8180577754974365</data>
+</edge>
+<edge source="Dripping" target="On &amp; On">
+  <data key="d0">0.801651656627655</data>
+</edge>
+<edge source="Dripping" target="SHIPS N LUV">
+  <data key="d0">0.7640212774276733</data>
+</edge>
+<edge source="Dripping" target="Say Anything">
+  <data key="d0">0.7614023089408875</data>
+</edge>
+<edge source="Dripping" target="Skeete - Tek Buddy (Official Music Video)">
+  <data key="d0">0.7584565877914429</data>
+</edge>
+<edge source="Dripping" target="J. Cole - Back To The Topic Freestyle (Official Audio)">
+  <data key="d0">0.6711097955703735</data>
+</edge>
+<edge source="Dripping" target="kometostai.aintreallynootherwaytoputitro">
+  <data key="d0">0.7003763914108276</data>
+</edge>
+<edge source="Dripping" target="Living In This World">
+  <data key="d0">0.7255443930625916</data>
+</edge>
+<edge source="Dripping" target="Los Retros - Friends">
+  <data key="d0">0.6014527082443237</data>
+</edge>
+<edge source="Dripping" target="Shiloh Dynasty Relax Music With Rain">
+  <data key="d0">0.7115503549575806</data>
+</edge>
+<edge source="Dripping" target="YG Marley - Praise Jah in the Moonlight (Official Music Video)">
+  <data key="d0">0.6177175641059875</data>
+</edge>
+<edge source="Ela È Carioca" target="Laufey - From The Start (Official Audio)">
+  <data key="d0">0.7785040140151978</data>
+</edge>
+<edge source="Ela È Carioca" target="Lamp - Amaashi Hayaku [ Album ： Soyokaze Apartment 201 ]">
+  <data key="d0">0.7363573312759399</data>
+</edge>
+<edge source="Ela È Carioca" target="Laufey - I Wish You Love (Official Audio)">
+  <data key="d0">0.7349028587341309</data>
+</edge>
+<edge source="Ela È Carioca" target="Rio Soundtrack- 12 Samba de Orly">
+  <data key="d0">0.7134138941764832</data>
+</edge>
+<edge source="Ela È Carioca" target="Tempo De Amor (feat. Cèu)">
+  <data key="d0">0.7014365196228027</data>
+</edge>
+<edge source="Elis Regina &amp; Adoniran Barbosa - Tiro ao álvaro" target="Rio Soundtrack- 12 Samba de Orly">
+  <data key="d0">0.6985015869140625</data>
+</edge>
+<edge source="Elis Regina &amp; Adoniran Barbosa - Tiro ao álvaro" target="Rosa Passos - Rosa Morena">
+  <data key="d0">0.6623547673225403</data>
+</edge>
+<edge source="Elis Regina &amp; Adoniran Barbosa - Tiro ao álvaro" target="Mas, Que Nada!">
+  <data key="d0">0.6394405364990234</data>
+</edge>
+<edge source="Elis Regina &amp; Adoniran Barbosa - Tiro ao álvaro" target="London Samba">
+  <data key="d0">0.6120067834854126</data>
+</edge>
+<edge source="Elis Regina &amp; Adoniran Barbosa - Tiro ao álvaro" target="Michael Bublé - Sway (Official Lyric Video)">
+  <data key="d0">0.6046858429908752</data>
+</edge>
+<edge source="Erykah Badu - Didn't Cha Know" target="Jill Scott ｜ A Long Walk HD ｜ Who Is Jill Scott？">
+  <data key="d0">0.8891801834106445</data>
+</edge>
+<edge source="Erykah Badu - Didn't Cha Know" target="Nothing Even Matters">
+  <data key="d0">0.8850043416023254</data>
+</edge>
+<edge source="Erykah Badu - Didn't Cha Know" target="Lauryn Hill - Tell Him (Official Audio)">
+  <data key="d0">0.8414371013641357</data>
+</edge>
+<edge source="Erykah Badu - Didn't Cha Know" target="Green Eyes">
+  <data key="d0">0.799392819404602</data>
+</edge>
+<edge source="Erykah Badu - Didn't Cha Know" target="Santana - Maria Maria (Official Video) ft. The Product G&amp;B">
+  <data key="d0">0.7871956825256348</data>
+</edge>
+<edge source="Erykah Badu - Didn't Cha Know" target="Lauryn Hill - Can't Take My Eyes Off Of You (I Love You Baby - Audio)">
+  <data key="d0">0.7762005925178528</data>
+</edge>
+<edge source="Erykah Badu - Didn't Cha Know" target="On the Cusp">
+  <data key="d0">0.7751219868659973</data>
+</edge>
+<edge source="Faye Webster - Kingston" target="Laufey - Everything I Know About Love (Official Lyric Video)">
+  <data key="d0">0.7739577293395996</data>
+</edge>
+<edge source="Faye Webster - Kingston" target="I Know I'm Funny haha">
+  <data key="d0">0.7682790756225586</data>
+</edge>
+<edge source="Faye Webster - Kingston" target="I Know You">
+  <data key="d0">0.741369366645813</data>
+</edge>
+<edge source="Faye Webster - Kingston" target="Mitski - Me and My Husband (Lyric Video)">
+  <data key="d0">0.6921239495277405</data>
+</edge>
+<edge source="Faye Webster - Kingston" target="Men I Trust - Show Me How">
+  <data key="d0">0.6861438751220703</data>
+</edge>
+<edge source="Faye Webster - Kingston" target="Phoebe Bridgers - Motion Sickness (Official Video)">
+  <data key="d0">0.6645874381065369</data>
+</edge>
+<edge source="Feitiço da Vila" target="Rio Soundtrack- 12 Samba de Orly">
+  <data key="d0">0.7228455543518066</data>
+</edge>
+<edge source="Feitiço da Vila" target="London Samba">
+  <data key="d0">0.7148285508155823</data>
+</edge>
+<edge source="Feitiço da Vila" target="喫茶aori">
+  <data key="d0">0.7029438614845276</data>
+</edge>
+<edge source="Feitiço da Vila" target="Laufey - From The Start (Official Audio)">
+  <data key="d0">0.7014690637588501</data>
+</edge>
+<edge source="Feitiço da Vila" target="Lamp - Amaashi Hayaku [ Album ： Soyokaze Apartment 201 ]">
+  <data key="d0">0.698020875453949</data>
+</edge>
+<edge source="Feitiço da Vila" target="Rosa Passos - Rosa Morena">
+  <data key="d0">0.6777545809745789</data>
+</edge>
+<edge source="Green Eyes" target="Nothing Even Matters">
+  <data key="d0">0.8282426595687866</data>
+</edge>
+<edge source="Green Eyes" target="Jill Scott ｜ A Long Walk HD ｜ Who Is Jill Scott？">
+  <data key="d0">0.7763724327087402</data>
+</edge>
+<edge source="Green Eyes" target="Laufey - Like The Movies (Official Audio)">
+  <data key="d0">0.7710047364234924</data>
+</edge>
+<edge source="Green Eyes" target="Lauryn Hill - Tell Him (Official Audio)">
+  <data key="d0">0.7701528072357178</data>
+</edge>
+<edge source="Green Eyes" target="I Gotta Find Peace of Mind (Live)">
+  <data key="d0">0.6890339851379395</data>
+</edge>
+<edge source="Green Eyes" target="In Love With You">
+  <data key="d0">0.7379965782165527</data>
+</edge>
+<edge source="Green Eyes" target="In love with you">
+  <data key="d0">0.7403186559677124</data>
+</edge>
+<edge source="Green Eyes" target="Laufey - I Wish You Love (Official Audio)">
+  <data key="d0">0.7586374878883362</data>
+</edge>
+<edge source="Green Eyes" target="Taeko Ōnuki (大貫妙子) - Tokai (都会) [Lyrics Eng⧸Rom⧸Kan]">
+  <data key="d0">0.6228585243225098</data>
+</edge>
+<edge source="Green Eyes" target="Your Old Droog - SUSPECTS">
+  <data key="d0">0.6651738882064819</data>
+</edge>
+<edge source="Guru - Lifesaver" target="Living In This World">
+  <data key="d0">0.7730966806411743</data>
+</edge>
+<edge source="Guru - Lifesaver" target="P.B.J.">
+  <data key="d0">0.7093237638473511</data>
+</edge>
+<edge source="Guru - Lifesaver" target="On &amp; On">
+  <data key="d0">0.6978316307067871</data>
+</edge>
+<edge source="Guru - Lifesaver" target="J. Cole - Back To The Topic Freestyle (Official Audio)">
+  <data key="d0">0.6510732173919678</data>
+</edge>
+<edge source="Guru - Lifesaver" target="SHIPS N LUV">
+  <data key="d0">0.6340041756629944</data>
+</edge>
+<edge source="Guru - Lifesaver" target="Santana - Maria Maria (Official Video) ft. The Product G&amp;B">
+  <data key="d0">0.6272310614585876</data>
+</edge>
+<edge source="Hatachi No Koi" target="Phoebe Bridgers - Motion Sickness (Official Video)">
+  <data key="d0">0.778619647026062</data>
+</edge>
+<edge source="Hatachi No Koi" target="恋は月の蔭に">
+  <data key="d0">0.7674981355667114</data>
+</edge>
+<edge source="Hatachi No Koi" target="O Cometa">
+  <data key="d0">0.7574806213378906</data>
+</edge>
+<edge source="Hatachi No Koi" target="I Know You">
+  <data key="d0">0.7351007461547852</data>
+</edge>
+<edge source="Hatachi No Koi" target="Mac DeMarco ⧸⧸ No Other Heart (Official Audio)">
+  <data key="d0">0.5278294682502747</data>
+</edge>
+<edge source="Hatachi No Koi" target="Morning Glory (Remastered)">
+  <data key="d0">0.48527270555496216</data>
+</edge>
+<edge source="I COULDN'T SLEEP A WINK LAST NIGHT (Original)" target="Só">
+  <data key="d0">0.7128044366836548</data>
+</edge>
+<edge source="I COULDN'T SLEEP A WINK LAST NIGHT (Original)" target="Why Try To Change Me Now？ (Remastered)">
+  <data key="d0">0.6724575757980347</data>
+</edge>
+<edge source="I COULDN'T SLEEP A WINK LAST NIGHT (Original)" target="My Way (2008 Remastered)">
+  <data key="d0">0.5822040438652039</data>
+</edge>
+<edge source="I COULDN'T SLEEP A WINK LAST NIGHT (Original)" target="恋は月の蔭に">
+  <data key="d0">0.5764749050140381</data>
+</edge>
+<edge source="I COULDN'T SLEEP A WINK LAST NIGHT (Original)" target="Laufey - Like The Movies (Official Audio)">
+  <data key="d0">0.5635072588920593</data>
+</edge>
+<edge source="I Gotta Find Peace of Mind (Live)" target="In Love With You">
+  <data key="d0">0.8159102201461792</data>
+</edge>
+<edge source="I Gotta Find Peace of Mind (Live)" target="In love with you">
+  <data key="d0">0.8058677315711975</data>
+</edge>
+<edge source="I Gotta Find Peace of Mind (Live)" target="Laufey - Like The Movies (Official Audio)">
+  <data key="d0">0.7252391576766968</data>
+</edge>
+<edge source="I Gotta Find Peace of Mind (Live)" target="Laufey - I Wish You Love (Official Audio)">
+  <data key="d0">0.71724933385849</data>
+</edge>
+<edge source="I Gotta Find Peace of Mind (Live)" target="Jeff Buckley - Lover, You Should've Come Over (Official Audio)">
+  <data key="d0">0.648874819278717</data>
+</edge>
+<edge source="I Gotta Find Peace of Mind (Live)" target="O Cometa">
+  <data key="d0">0.6559616327285767</data>
+</edge>
+<edge source="I Gotta Find Peace of Mind (Live)" target="Tempo De Amor (feat. Cèu)">
+  <data key="d0">0.6828706860542297</data>
+</edge>
+<edge source="I Know I'm Funny haha" target="Laufey - Everything I Know About Love (Official Lyric Video)">
+  <data key="d0">0.7254583835601807</data>
+</edge>
+<edge source="I Know I'm Funny haha" target="Phoebe Bridgers - Motion Sickness (Official Video)">
+  <data key="d0">0.7052589058876038</data>
+</edge>
+<edge source="I Know I'm Funny haha" target="I Know You">
+  <data key="d0">0.6854853630065918</data>
+</edge>
+<edge source="I Know I'm Funny haha" target="Khruangbin - Friday Morning (Official Video)">
+  <data key="d0">0.677213191986084</data>
+</edge>
+<edge source="I Know I'm Funny haha" target="Say Anything">
+  <data key="d0">0.676774263381958</data>
+</edge>
+<edge source="I Know I'm Funny haha" target="Men I Trust - Show Me How">
+  <data key="d0">0.6396104097366333</data>
+</edge>
+<edge source="I Know You" target="Phoebe Bridgers - Motion Sickness (Official Video)">
+  <data key="d0">0.7661697268486023</data>
+</edge>
+<edge source="I Know You" target="Mitski - Me and My Husband (Lyric Video)">
+  <data key="d0">0.7379136085510254</data>
+</edge>
+<edge source="I Know You" target="Jeff Buckley - Lover, You Should've Come Over (Official Audio)">
+  <data key="d0">0.7281533479690552</data>
+</edge>
+<edge source="I Know You" target="Morning Glory (Remastered)">
+  <data key="d0">0.6126419305801392</data>
+</edge>
+<edge source="I Know You" target="O Cometa">
+  <data key="d0">0.6591913104057312</data>
+</edge>
+<edge source="I-Wayne- Can't Satisfy Her" target="YG Marley - Praise Jah in the Moonlight (Official Music Video)">
+  <data key="d0">0.6016806364059448</data>
+</edge>
+<edge source="I-Wayne- Can't Satisfy Her" target="Skeete - Tek Buddy (Official Music Video)">
+  <data key="d0">0.5682111978530884</data>
+</edge>
+<edge source="I-Wayne- Can't Satisfy Her" target="P.B.J.">
+  <data key="d0">0.5462912321090698</data>
+</edge>
+<edge source="I-Wayne- Can't Satisfy Her" target="In love with you">
+  <data key="d0">0.5289455652236938</data>
+</edge>
+<edge source="I-Wayne- Can't Satisfy Her" target="In Love With You">
+  <data key="d0">0.5213934183120728</data>
+</edge>
+<edge source="I-Wayne- Can't Satisfy Her" target="Living In This World">
+  <data key="d0">0.5110098123550415</data>
+</edge>
+<edge source="In Love With You" target="In love with you">
+  <data key="d0">0.9966788291931152</data>
+</edge>
+<edge source="In Love With You" target="Laufey - I Wish You Love (Official Audio)">
+  <data key="d0">0.7475519180297852</data>
+</edge>
+<edge source="In Love With You" target="Nothing Even Matters">
+  <data key="d0">0.7366104125976562</data>
+</edge>
+<edge source="In Love With You" target="Tempo De Amor (feat. Cèu)">
+  <data key="d0">0.7001098394393921</data>
+</edge>
+<edge source="In Love With You" target="Michael Bublé - Sway (Official Lyric Video)">
+  <data key="d0">0.5872060656547546</data>
+</edge>
+<edge source="In Love With You" target="Street Dancer">
+  <data key="d0">0.6322557926177979</data>
+</edge>
+<edge source="In love with you" target="Laufey - I Wish You Love (Official Audio)">
+  <data key="d0">0.7484217286109924</data>
+</edge>
+<edge source="In love with you" target="Nothing Even Matters">
+  <data key="d0">0.7447890639305115</data>
+</edge>
+<edge source="In love with you" target="Tempo De Amor (feat. Cèu)">
+  <data key="d0">0.6950739026069641</data>
+</edge>
+<edge source="In love with you" target="Michael Bublé - Sway (Official Lyric Video)">
+  <data key="d0">0.590244710445404</data>
+</edge>
+<edge source="In love with you" target="Street Dancer">
+  <data key="d0">0.6238998174667358</data>
+</edge>
+<edge source="In Your Eyes" target="Khruangbin - Friday Morning (Official Video)">
+  <data key="d0">0.7167197465896606</data>
+</edge>
+<edge source="In Your Eyes" target="My Way (2008 Remastered)">
+  <data key="d0">0.6821409463882446</data>
+</edge>
+<edge source="In Your Eyes" target="Natalia Lafourcade - El lugar correcto (Video Lyric)">
+  <data key="d0">0.6820176839828491</data>
+</edge>
+<edge source="In Your Eyes" target="Laufey - Like The Movies (Official Audio)">
+  <data key="d0">0.6783053278923035</data>
+</edge>
+<edge source="In Your Eyes" target="Your Old Droog - SUSPECTS">
+  <data key="d0">0.660034716129303</data>
+</edge>
+<edge source="J. Cole - Back To The Topic Freestyle (Official Audio)" target="Skeete - Tek Buddy (Official Music Video)">
+  <data key="d0">0.7393193244934082</data>
+</edge>
+<edge source="J. Cole - Back To The Topic Freestyle (Official Audio)" target="SHIPS N LUV">
+  <data key="d0">0.7352822422981262</data>
+</edge>
+<edge source="J. Cole - Back To The Topic Freestyle (Official Audio)" target="P.B.J.">
+  <data key="d0">0.7052661776542664</data>
+</edge>
+<edge source="J. Cole - Back To The Topic Freestyle (Official Audio)" target="On &amp; On">
+  <data key="d0">0.6979659795761108</data>
+</edge>
+<edge source="Jeff Buckley - Lover, You Should've Come Over (Official Audio)" target="Mitski - Me and My Husband (Lyric Video)">
+  <data key="d0">0.6756864190101624</data>
+</edge>
+<edge source="Jeff Buckley - Lover, You Should've Come Over (Official Audio)" target="My Way (2008 Remastered)">
+  <data key="d0">0.6458685994148254</data>
+</edge>
+<edge source="Jeff Buckley - Lover, You Should've Come Over (Official Audio)" target="Laufey - Like The Movies (Official Audio)">
+  <data key="d0">0.6153860092163086</data>
+</edge>
+<edge source="Jeff Buckley - Lover, You Should've Come Over (Official Audio)" target="Morning Glory (Remastered)">
+  <data key="d0">0.5440698862075806</data>
+</edge>
+<edge source="Jill Scott ｜ A Long Walk HD ｜ Who Is Jill Scott？" target="Nothing Even Matters">
+  <data key="d0">0.8835885524749756</data>
+</edge>
+<edge source="Jill Scott ｜ A Long Walk HD ｜ Who Is Jill Scott？" target="Lauryn Hill - Tell Him (Official Audio)">
+  <data key="d0">0.8160337805747986</data>
+</edge>
+<edge source="Jill Scott ｜ A Long Walk HD ｜ Who Is Jill Scott？" target="On the Cusp">
+  <data key="d0">0.7584853172302246</data>
+</edge>
+<edge source="Jill Scott ｜ A Long Walk HD ｜ Who Is Jill Scott？" target="P.B.J.">
+  <data key="d0">0.7318745851516724</data>
+</edge>
+<edge source="Kaoru Akimoto - Dress Down (Official Lyric Video)" target="Meiko Nakahara - Fantasy (1982)">
+  <data key="d0">0.6434106230735779</data>
+</edge>
+<edge source="Kaoru Akimoto - Dress Down (Official Lyric Video)" target="Midnight Pretenders">
+  <data key="d0">0.6105327606201172</data>
+</edge>
+<edge source="Kaoru Akimoto - Dress Down (Official Lyric Video)" target="Mayonakano Joke">
+  <data key="d0">0.5921284556388855</data>
+</edge>
+<edge source="Kaoru Akimoto - Dress Down (Official Lyric Video)" target="Los Retros - Friends">
+  <data key="d0">0.5618438720703125</data>
+</edge>
+<edge source="Kaoru Akimoto - Dress Down (Official Lyric Video)" target="Street Dancer">
+  <data key="d0">0.5468863844871521</data>
+</edge>
+<edge source="Khruangbin - Friday Morning (Official Video)" target="kometostai.aintreallynootherwaytoputitro">
+  <data key="d0">0.7563851475715637</data>
+</edge>
+<edge source="Khruangbin - Friday Morning (Official Video)" target="Men I Trust - Show Me How">
+  <data key="d0">0.7184348702430725</data>
+</edge>
+<edge source="Khruangbin - Friday Morning (Official Video)" target="Tempo De Amor (feat. Cèu)">
+  <data key="d0">0.6972147226333618</data>
+</edge>
+<edge source="Khruangbin - Friday Morning (Official Video)" target="Say Anything">
+  <data key="d0">0.6781662106513977</data>
+</edge>
+<edge source="Khruangbin - Friday Morning (Official Video)" target="Laufey - Everything I Know About Love (Official Lyric Video)">
+  <data key="d0">0.5996461510658264</data>
+</edge>
+<edge source="Khruangbin - Friday Morning (Official Video)" target="Mac DeMarco ⧸⧸ No Other Heart (Official Audio)">
+  <data key="d0">0.5490258932113647</data>
+</edge>
+<edge source="kometostai.aintreallynootherwaytoputitro" target="Say Anything">
+  <data key="d0">0.789379358291626</data>
+</edge>
+<edge source="kometostai.aintreallynootherwaytoputitro" target="Lauryn Hill - Tell Him (Official Audio)">
+  <data key="d0">0.6908308267593384</data>
+</edge>
+<edge source="kometostai.aintreallynootherwaytoputitro" target="P.B.J.">
+  <data key="d0">0.6726307272911072</data>
+</edge>
+<edge source="La Noche Más Linda" target="Oh Qué Será？">
+  <data key="d0">0.7048632502555847</data>
+</edge>
+<edge source="La Noche Más Linda" target="Marcos Valle - Batuque (Batucada Surgiu)">
+  <data key="d0">0.5091667175292969</data>
+</edge>
+<edge source="La Noche Más Linda" target="Samba Do Avião">
+  <data key="d0">0.4819625914096832</data>
+</edge>
+<edge source="La Noche Más Linda" target="Stan Getz feat. João Gilberto - Desafinado (Visualizer)">
+  <data key="d0">0.4533270299434662</data>
+</edge>
+<edge source="Lamp - Amaashi Hayaku [ Album ： Soyokaze Apartment 201 ]" target="Samba Do Avião">
+  <data key="d0">0.7159132957458496</data>
+</edge>
+<edge source="Lamp - Amaashi Hayaku [ Album ： Soyokaze Apartment 201 ]" target="London Samba">
+  <data key="d0">0.6875823736190796</data>
+</edge>
+<edge source="Lamp - Amaashi Hayaku [ Album ： Soyokaze Apartment 201 ]" target="Michael Bublé - Sway (Official Lyric Video)">
+  <data key="d0">0.6082092523574829</data>
+</edge>
+<edge source="Lamp - Amaashi Hayaku [ Album ： Soyokaze Apartment 201 ]" target="Natalia Lafourcade - Mi manera de querer (Video Lyric)">
+  <data key="d0">0.6433214545249939</data>
+</edge>
+<edge source="Laufey - Everything I Know About Love (Official Lyric Video)" target="Say Anything">
+  <data key="d0">0.6973651051521301</data>
+</edge>
+<edge source="Laufey - Everything I Know About Love (Official Lyric Video)" target="Men I Trust - Show Me How">
+  <data key="d0">0.6852105855941772</data>
+</edge>
+<edge source="Laufey - Everything I Know About Love (Official Lyric Video)" target="YG Marley - Praise Jah in the Moonlight (Official Music Video)">
+  <data key="d0">0.6060898900032043</data>
+</edge>
+<edge source="Laufey - From The Start (Official Audio)" target="Rio Soundtrack- 12 Samba de Orly">
+  <data key="d0">0.7729911804199219</data>
+</edge>
+<edge source="Laufey - From The Start (Official Audio)" target="Laufey - I Wish You Love (Official Audio)">
+  <data key="d0">0.7651442885398865</data>
+</edge>
+<edge source="Laufey - From The Start (Official Audio)" target="Rosa Passos - Rosa Morena">
+  <data key="d0">0.7459583282470703</data>
+</edge>
+<edge source="Laufey - From The Start (Official Audio)" target="Samba Da Bencao">
+  <data key="d0">0.7419793009757996</data>
+</edge>
+<edge source="Laufey - From The Start (Official Audio)" target="喫茶aori">
+  <data key="d0">0.6994738578796387</data>
+</edge>
+<edge source="Laufey - I Wish You Love (Official Audio)" target="Laufey - Like The Movies (Official Audio)">
+  <data key="d0">0.8050469160079956</data>
+</edge>
+<edge source="Laufey - I Wish You Love (Official Audio)" target="Michael Bublé - Sway (Official Lyric Video)">
+  <data key="d0">0.614249050617218</data>
+</edge>
+<edge source="Laufey - I Wish You Love (Official Audio)" target="Samba Da Bencao">
+  <data key="d0">0.7214516401290894</data>
+</edge>
+<edge source="Laufey - Like The Movies (Official Audio)" target="恋は月の蔭に">
+  <data key="d0">0.7905651926994324</data>
+</edge>
+<edge source="Laufey - Like The Movies (Official Audio)" target="Wave">
+  <data key="d0">0.7839723825454712</data>
+</edge>
+<edge source="Laufey - Like The Movies (Official Audio)" target="My Way (2008 Remastered)">
+  <data key="d0">0.7624202966690063</data>
+</edge>
+<edge source="Laufey - Like The Movies (Official Audio)" target="Manhã de Carnaval">
+  <data key="d0">0.6778932809829712</data>
+</edge>
+<edge source="Laufey - Like The Movies (Official Audio)" target="Natalia Lafourcade - El lugar correcto (Video Lyric)">
+  <data key="d0">0.6501752138137817</data>
+</edge>
+<edge source="Laufey - Like The Movies (Official Audio)" target="O Cometa">
+  <data key="d0">0.6762658357620239</data>
+</edge>
+<edge source="Laufey - Like The Movies (Official Audio)" target="Seringueiro">
+  <data key="d0">0.6861603856086731</data>
+</edge>
+<edge source="Laufey - Like The Movies (Official Audio)" target="Somethin' Stupid">
+  <data key="d0">0.6919316649436951</data>
+</edge>
+<edge source="Laufey - Like The Movies (Official Audio)" target="Taeko Ōnuki (大貫妙子) - Tokai (都会) [Lyrics Eng⧸Rom⧸Kan]">
+  <data key="d0">0.6278793215751648</data>
+</edge>
+<edge source="Laufey - Like The Movies (Official Audio)" target="Toshifumi Hinata – Reflections (Official Music Video)">
+  <data key="d0">0.6559250354766846</data>
+</edge>
+<edge source="Laufey - Like The Movies (Official Audio)" target="Why Try To Change Me Now？ (Remastered)">
+  <data key="d0">0.7499573826789856</data>
+</edge>
+<edge source="Laufey - Like The Movies (Official Audio)" target="Your Old Droog - SUSPECTS">
+  <data key="d0">0.6589674949645996</data>
+</edge>
+<edge source="Lauryn Hill - Can't Take My Eyes Off Of You (I Love You Baby - Audio)" target="Santana - Maria Maria (Official Video) ft. The Product G&amp;B">
+  <data key="d0">0.7858799695968628</data>
+</edge>
+<edge source="Lauryn Hill - Can't Take My Eyes Off Of You (I Love You Baby - Audio)" target="P.B.J.">
+  <data key="d0">0.7748174071311951</data>
+</edge>
+<edge source="Lauryn Hill - Can't Take My Eyes Off Of You (I Love You Baby - Audio)" target="Nothing Even Matters">
+  <data key="d0">0.7597223520278931</data>
+</edge>
+<edge source="Lauryn Hill - Can't Take My Eyes Off Of You (I Love You Baby - Audio)" target="Living In This World">
+  <data key="d0">0.7564675211906433</data>
+</edge>
+<edge source="Lauryn Hill - Can't Take My Eyes Off Of You (I Love You Baby - Audio)" target="Lauryn Hill - Tell Him (Official Audio)">
+  <data key="d0">0.7530444860458374</data>
+</edge>
+<edge source="Lauryn Hill - Tell Him (Official Audio)" target="On the Cusp">
+  <data key="d0">0.8588286638259888</data>
+</edge>
+<edge source="Lauryn Hill - Tell Him (Official Audio)" target="Nothing Even Matters">
+  <data key="d0">0.8279093503952026</data>
+</edge>
+<edge source="Lauryn Hill - Tell Him (Official Audio)" target="P.B.J.">
+  <data key="d0">0.7998335957527161</data>
+</edge>
+<edge source="Lauryn Hill - Tell Him (Official Audio)" target="On &amp; On">
+  <data key="d0">0.7630566954612732</data>
+</edge>
+<edge source="Lauryn Hill - Tell Him (Official Audio)" target="Santana - Maria Maria (Official Video) ft. The Product G&amp;B">
+  <data key="d0">0.7297289371490479</data>
+</edge>
+<edge source="Living In This World" target="P.B.J.">
+  <data key="d0">0.7538735270500183</data>
+</edge>
+<edge source="Living In This World" target="Santana - Maria Maria (Official Video) ft. The Product G&amp;B">
+  <data key="d0">0.7294591665267944</data>
+</edge>
+<edge source="Living In This World" target="On &amp; On">
+  <data key="d0">0.6981202363967896</data>
+</edge>
+<edge source="London Samba" target="Manha de Carnaval">
+  <data key="d0">0.8421681523323059</data>
+</edge>
+<edge source="London Samba" target="Stan Getz feat. João Gilberto - Desafinado (Visualizer)">
+  <data key="d0">0.8347054123878479</data>
+</edge>
+<edge source="London Samba" target="Stan Getz &amp; Joao Gilberto - Corcovado (Quiet Nights of Quiet Stars)">
+  <data key="d0">0.8276726603507996</data>
+</edge>
+<edge source="London Samba" target="Manhã de Carnaval">
+  <data key="d0">0.6830794811248779</data>
+</edge>
+<edge source="London Samba" target="Marcos Valle - Batuque (Batucada Surgiu)">
+  <data key="d0">0.7410469055175781</data>
+</edge>
+<edge source="London Samba" target="Mas, Que Nada!">
+  <data key="d0">0.8195400238037109</data>
+</edge>
+<edge source="London Samba" target="Outra Vez">
+  <data key="d0">0.7204996347427368</data>
+</edge>
+<edge source="London Samba" target="Rio Soundtrack- 12 Samba de Orly">
+  <data key="d0">0.7718409299850464</data>
+</edge>
+<edge source="London Samba" target="Rosa Passos - Rosa Morena">
+  <data key="d0">0.688650369644165</data>
+</edge>
+<edge source="London Samba" target="Samba Do Avião">
+  <data key="d0">0.768402636051178</data>
+</edge>
+<edge source="London Samba" target="喫茶aori">
+  <data key="d0">0.7673245668411255</data>
+</edge>
+<edge source="Los Retros - Friends" target="P.B.J.">
+  <data key="d0">0.5993746519088745</data>
+</edge>
+<edge source="Los Retros - Friends" target="Shiloh Dynasty Relax Music With Rain">
+  <data key="d0">0.5844077467918396</data>
+</edge>
+<edge source="Los Retros - Friends" target="Say Anything">
+  <data key="d0">0.5841871500015259</data>
+</edge>
+<edge source="Mac DeMarco ⧸⧸ No Other Heart (Official Audio)" target="Natalia Lafourcade - El lugar correcto (Video Lyric)">
+  <data key="d0">0.6693436503410339</data>
+</edge>
+<edge source="Mac DeMarco ⧸⧸ No Other Heart (Official Audio)" target="Men I Trust - Show Me How">
+  <data key="d0">0.5646713972091675</data>
+</edge>
+<edge source="Mac DeMarco ⧸⧸ No Other Heart (Official Audio)" target="Samba Do Avião">
+  <data key="d0">0.5398796796798706</data>
+</edge>
+<edge source="Manha de Carnaval" target="Stan Getz &amp; Joao Gilberto - Corcovado (Quiet Nights of Quiet Stars)">
+  <data key="d0">0.8925426602363586</data>
+</edge>
+<edge source="Manha de Carnaval" target="Stan Getz &amp; João Gilberto - Para Machuchar Meu Coração">
+  <data key="d0">0.8684345483779907</data>
+</edge>
+<edge source="Manha de Carnaval" target="Stan Getz feat. João Gilberto - Desafinado (Visualizer)">
+  <data key="d0">0.8682072162628174</data>
+</edge>
+<edge source="Manha de Carnaval" target="Wave">
+  <data key="d0">0.8611268997192383</data>
+</edge>
+<edge source="Manha de Carnaval" target="Marcos Valle - Batuque (Batucada Surgiu)">
+  <data key="d0">0.7416359186172485</data>
+</edge>
+<edge source="Manha de Carnaval" target="Mas, Que Nada!">
+  <data key="d0">0.7874941825866699</data>
+</edge>
+<edge source="Manhã de Carnaval" target="Seringueiro">
+  <data key="d0">0.8832582235336304</data>
+</edge>
+<edge source="Manhã de Carnaval" target="Outra Vez">
+  <data key="d0">0.7580697536468506</data>
+</edge>
+<edge source="Manhã de Carnaval" target="恋は月の蔭に">
+  <data key="d0">0.7229939699172974</data>
+</edge>
+<edge source="Manhã de Carnaval" target="Samba Do Avião">
+  <data key="d0">0.6859703063964844</data>
+</edge>
+<edge source="Marcos Valle - Batuque (Batucada Surgiu)" target="Stan Getz feat. João Gilberto - Desafinado (Visualizer)">
+  <data key="d0">0.7535668611526489</data>
+</edge>
+<edge source="Marcos Valle - Batuque (Batucada Surgiu)" target="Stan Getz &amp; João Gilberto - Para Machuchar Meu Coração">
+  <data key="d0">0.7431568503379822</data>
+</edge>
+<edge source="Marcos Valle - Batuque (Batucada Surgiu)" target="Stan Getz &amp; Joao Gilberto - Corcovado (Quiet Nights of Quiet Stars)">
+  <data key="d0">0.7224776148796082</data>
+</edge>
+<edge source="Marcos Valle - Batuque (Batucada Surgiu)" target="Oh Qué Será？">
+  <data key="d0">0.6535311341285706</data>
+</edge>
+<edge source="Mayonakano Joke" target="Takako Mamiya - Love Trip">
+  <data key="d0">0.8635622262954712</data>
+</edge>
+<edge source="Mayonakano Joke" target="Street Dancer">
+  <data key="d0">0.776534378528595</data>
+</edge>
+<edge source="Mayonakano Joke" target="Taeko Ōnuki (大貫妙子) - Tokai (都会) [Lyrics Eng⧸Rom⧸Kan]">
+  <data key="d0">0.7367135286331177</data>
+</edge>
+<edge source="Mayonakano Joke" target="Midnight Pretenders">
+  <data key="d0">0.6981279253959656</data>
+</edge>
+<edge source="Mayonakano Joke" target="Meiko Nakahara - Fantasy (1982)">
+  <data key="d0">0.6036139130592346</data>
+</edge>
+<edge source="Meiko Nakahara - Fantasy (1982)" target="Street Dancer">
+  <data key="d0">0.600969672203064</data>
+</edge>
+<edge source="Meiko Nakahara - Fantasy (1982)" target="Midnight Pretenders">
+  <data key="d0">0.5651040077209473</data>
+</edge>
+<edge source="Meiko Nakahara - Fantasy (1982)" target="Taeko Ōnuki (大貫妙子) - Tokai (都会) [Lyrics Eng⧸Rom⧸Kan]">
+  <data key="d0">0.5641628503799438</data>
+</edge>
+<edge source="Meiko Nakahara - Fantasy (1982)" target="Takako Mamiya - Love Trip">
+  <data key="d0">0.5227033495903015</data>
+</edge>
+<edge source="Men I Trust - Show Me How" target="Phoebe Bridgers - Motion Sickness (Official Video)">
+  <data key="d0">0.6360586881637573</data>
+</edge>
+<edge source="Midnight Pretenders" target="Street Dancer">
+  <data key="d0">0.6520987749099731</data>
+</edge>
+<edge source="Midnight Pretenders" target="Takako Mamiya - Love Trip">
+  <data key="d0">0.5947201251983643</data>
+</edge>
+<edge source="Mitski - Me and My Husband (Lyric Video)" target="Phoebe Bridgers - Motion Sickness (Official Video)">
+  <data key="d0">0.6270826458930969</data>
+</edge>
+<edge source="Morning Glory (Remastered)" target="Phoebe Bridgers - Motion Sickness (Official Video)">
+  <data key="d0">0.5330969095230103</data>
+</edge>
+<edge source="Morning Glory (Remastered)" target="Shiloh Dynasty Relax Music With Rain">
+  <data key="d0">0.4765423536300659</data>
+</edge>
+<edge source="My Way (2008 Remastered)" target="Somethin' Stupid">
+  <data key="d0">0.8675393462181091</data>
+</edge>
+<edge source="My Way (2008 Remastered)" target="Why Try To Change Me Now？ (Remastered)">
+  <data key="d0">0.8160703778266907</data>
+</edge>
+<edge source="My Way (2008 Remastered)" target="Wave">
+  <data key="d0">0.81390380859375</data>
+</edge>
+<edge source="My Way (2008 Remastered)" target="Oh Qué Será？">
+  <data key="d0">0.6105235815048218</data>
+</edge>
+<edge source="My Way (2008 Remastered)" target="Your Old Droog - SUSPECTS">
+  <data key="d0">0.6729094386100769</data>
+</edge>
+<edge source="Natalia Lafourcade - El lugar correcto (Video Lyric)" target="Natalia Lafourcade - Mi manera de querer (Video Lyric)">
+  <data key="d0">0.6650832295417786</data>
+</edge>
+<edge source="Natalia Lafourcade - El lugar correcto (Video Lyric)" target="Samba Do Avião">
+  <data key="d0">0.6647200584411621</data>
+</edge>
+<edge source="Natalia Lafourcade - El lugar correcto (Video Lyric)" target="Your Old Droog - SUSPECTS">
+  <data key="d0">0.6381246447563171</data>
+</edge>
+<edge source="Natalia Lafourcade - Mi manera de querer (Video Lyric)" target="Samba Da Bencao">
+  <data key="d0">0.6646275520324707</data>
+</edge>
+<edge source="Natalia Lafourcade - Mi manera de querer (Video Lyric)" target="Wave">
+  <data key="d0">0.6455693244934082</data>
+</edge>
+<edge source="Nothing Even Matters" target="On the Cusp">
+  <data key="d0">0.7972373962402344</data>
+</edge>
+<edge source="Nothing Even Matters" target="P.B.J.">
+  <data key="d0">0.7889187335968018</data>
+</edge>
+<edge source="Nothing Even Matters" target="Santana - Maria Maria (Official Video) ft. The Product G&amp;B">
+  <data key="d0">0.7877676486968994</data>
+</edge>
+<edge source="O Cometa" target="恋は月の蔭に">
+  <data key="d0">0.7378652095794678</data>
+</edge>
+<edge source="Oh Qué Será？" target="Outra Vez">
+  <data key="d0">0.6178451776504517</data>
+</edge>
+<edge source="Oh Qué Será？" target="Samba Do Avião">
+  <data key="d0">0.6173574924468994</data>
+</edge>
+<edge source="On &amp; On" target="P.B.J.">
+  <data key="d0">0.8279366493225098</data>
+</edge>
+<edge source="On &amp; On" target="On the Cusp">
+  <data key="d0">0.7915474772453308</data>
+</edge>
+<edge source="On &amp; On" target="SHIPS N LUV">
+  <data key="d0">0.7547891736030579</data>
+</edge>
+<edge source="On &amp; On" target="Skeete - Tek Buddy (Official Music Video)">
+  <data key="d0">0.7427558302879333</data>
+</edge>
+<edge source="On the Cusp" target="P.B.J.">
+  <data key="d0">0.7871330976486206</data>
+</edge>
+<edge source="On the Cusp" target="Say Anything">
+  <data key="d0">0.728023886680603</data>
+</edge>
+<edge source="Outra Vez" target="恋は月の蔭に">
+  <data key="d0">0.7946577072143555</data>
+</edge>
+<edge source="Outra Vez" target="Samba Do Avião">
+  <data key="d0">0.7492168545722961</data>
+</edge>
+<edge source="Outra Vez" target="Seringueiro">
+  <data key="d0">0.7411317825317383</data>
+</edge>
+<edge source="P.B.J." target="Santana - Maria Maria (Official Video) ft. The Product G&amp;B">
+  <data key="d0">0.7662778496742249</data>
+</edge>
+<edge source="P.B.J." target="Say Anything">
+  <data key="d0">0.7198314070701599</data>
+</edge>
+<edge source="P.B.J." target="SHIPS N LUV">
+  <data key="d0">0.725824773311615</data>
+</edge>
+<edge source="P.B.J." target="Skeete - Tek Buddy (Official Music Video)">
+  <data key="d0">0.750707745552063</data>
+</edge>
+<edge source="P.B.J." target="YG Marley - Praise Jah in the Moonlight (Official Music Video)">
+  <data key="d0">0.6291829943656921</data>
+</edge>
+<edge source="Rio Soundtrack- 12 Samba de Orly" target="Rosa Passos - Rosa Morena">
+  <data key="d0">0.8117108345031738</data>
+</edge>
+<edge source="Rio Soundtrack- 12 Samba de Orly" target="Samba Da Bencao">
+  <data key="d0">0.7286057472229004</data>
+</edge>
+<edge source="Rio Soundtrack- 12 Samba de Orly" target="喫茶aori">
+  <data key="d0">0.7100101709365845</data>
+</edge>
+<edge source="Rosa Passos - Rosa Morena" target="Samba Da Bencao">
+  <data key="d0">0.6594222784042358</data>
+</edge>
+<edge source="Samba Da Bencao" target="喫茶aori">
+  <data key="d0">0.6863657832145691</data>
+</edge>
+<edge source="Samba Do Avião" target="Wave">
+  <data key="d0">0.7448546290397644</data>
+</edge>
+<edge source="Samba Do Avião" target="Seringueiro">
+  <data key="d0">0.6786929368972778</data>
+</edge>
+<edge source="Say Anything" target="Skeete - Tek Buddy (Official Music Video)">
+  <data key="d0">0.7721953392028809</data>
+</edge>
+<edge source="Say Anything" target="Shiloh Dynasty Relax Music With Rain">
+  <data key="d0">0.7327836155891418</data>
+</edge>
+<edge source="Say Anything" target="YG Marley - Praise Jah in the Moonlight (Official Music Video)">
+  <data key="d0">0.6636353731155396</data>
+</edge>
+<edge source="Seringueiro" target="恋は月の蔭に">
+  <data key="d0">0.7511788606643677</data>
+</edge>
+<edge source="Shiloh Dynasty Relax Music With Rain" target="Skeete - Tek Buddy (Official Music Video)">
+  <data key="d0">0.8059897422790527</data>
+</edge>
+<edge source="Shiloh Dynasty Relax Music With Rain" target="SHIPS N LUV">
+  <data key="d0">0.7198681235313416</data>
+</edge>
+<edge source="Shiloh Dynasty Relax Music With Rain" target="YG Marley - Praise Jah in the Moonlight (Official Music Video)">
+  <data key="d0">0.7033975720405579</data>
+</edge>
+<edge source="SHIPS N LUV" target="Skeete - Tek Buddy (Official Music Video)">
+  <data key="d0">0.8082323670387268</data>
+</edge>
+<edge source="SHIPS N LUV" target="YG Marley - Praise Jah in the Moonlight (Official Music Video)">
+  <data key="d0">0.6319187879562378</data>
+</edge>
+<edge source="Skeete - Tek Buddy (Official Music Video)" target="YG Marley - Praise Jah in the Moonlight (Official Music Video)">
+  <data key="d0">0.739924967288971</data>
+</edge>
+<edge source="Skeete - Tek Buddy (Official Music Video)" target="Your Old Droog - SUSPECTS">
+  <data key="d0">0.6505350470542908</data>
+</edge>
+<edge source="Somethin' Stupid" target="Wave">
+  <data key="d0">0.7860784530639648</data>
+</edge>
+<edge source="Somethin' Stupid" target="Why Try To Change Me Now？ (Remastered)">
+  <data key="d0">0.7421364188194275</data>
+</edge>
+<edge source="Somethin' Stupid" target="Your Old Droog - SUSPECTS">
+  <data key="d0">0.6395549774169922</data>
+</edge>
+<edge source="Something To Remember You By (Remastered 1995)" target="Stan Getz &amp; João Gilberto - Para Machuchar Meu Coração">
+  <data key="d0">0.7169630527496338</data>
+</edge>
+<edge source="Something To Remember You By (Remastered 1995)" target="Stan Getz feat. João Gilberto - Desafinado (Visualizer)">
+  <data key="d0">0.6869932413101196</data>
+</edge>
+<edge source="Something To Remember You By (Remastered 1995)" target="Stan Getz &amp; Joao Gilberto - Corcovado (Quiet Nights of Quiet Stars)">
+  <data key="d0">0.6856269836425781</data>
+</edge>
+<edge source="Something To Remember You By (Remastered 1995)" target="Why Try To Change Me Now？ (Remastered)">
+  <data key="d0">0.6735540628433228</data>
+</edge>
+<edge source="Stan Getz &amp; Joao Gilberto - Corcovado (Quiet Nights of Quiet Stars)" target="Stan Getz &amp; João Gilberto - Para Machuchar Meu Coração">
+  <data key="d0">0.9788182973861694</data>
+</edge>
+<edge source="Stan Getz &amp; Joao Gilberto - Corcovado (Quiet Nights of Quiet Stars)" target="Stan Getz feat. João Gilberto - Desafinado (Visualizer)">
+  <data key="d0">0.9666470289230347</data>
+</edge>
+<edge source="Stan Getz &amp; Joao Gilberto - Corcovado (Quiet Nights of Quiet Stars)" target="Wave">
+  <data key="d0">0.8245341181755066</data>
+</edge>
+<edge source="Stan Getz &amp; João Gilberto - Para Machuchar Meu Coração" target="Stan Getz feat. João Gilberto - Desafinado (Visualizer)">
+  <data key="d0">0.9647234678268433</data>
+</edge>
+<edge source="Stan Getz &amp; João Gilberto - Para Machuchar Meu Coração" target="Wave">
+  <data key="d0">0.8159393072128296</data>
+</edge>
+<edge source="Street Dancer" target="Taeko Ōnuki (大貫妙子) - Tokai (都会) [Lyrics Eng⧸Rom⧸Kan]">
+  <data key="d0">0.8466339111328125</data>
+</edge>
+<edge source="Street Dancer" target="Takako Mamiya - Love Trip">
+  <data key="d0">0.6095914244651794</data>
+</edge>
+<edge source="Só" target="Toshifumi Hinata – Reflections (Official Music Video)">
+  <data key="d0">0.8157865405082703</data>
+</edge>
+<edge source="Só" target="Why Try To Change Me Now？ (Remastered)">
+  <data key="d0">0.8124330639839172</data>
+</edge>
+<edge source="Só" target="恋は月の蔭に">
+  <data key="d0">0.7072551846504211</data>
+</edge>
+<edge source="Taeko Ōnuki (大貫妙子) - Tokai (都会) [Lyrics Eng⧸Rom⧸Kan]" target="Takako Mamiya - Love Trip">
+  <data key="d0">0.6414483785629272</data>
+</edge>
+<edge source="Toshifumi Hinata – Reflections (Official Music Video)" target="Why Try To Change Me Now？ (Remastered)">
+  <data key="d0">0.7087153196334839</data>
+</edge>
+<edge source="Toshifumi Hinata – Reflections (Official Music Video)" target="恋は月の蔭に">
+  <data key="d0">0.6949293613433838</data>
+</edge>
+<edge source="Wave" target="Why Try To Change Me Now？ (Remastered)">
+  <data key="d0">0.7826377749443054</data>
+</edge>
+</graph></graphml>

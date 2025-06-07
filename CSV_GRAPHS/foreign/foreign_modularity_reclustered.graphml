@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="double"/>
+<graph edgedefault="undirected"><node id="01.- The Girl From Ipanema - Getz ⧸ Gilberto - Stan Getz &amp; Joao Gilberto"/>
+<node id="Wave"/>
+<node id="Agua De Beber"/>
+<node id="Chove Chuva"/>
+<node id="Cry Me A River"/>
+<node id="Green Eyes"/>
+<node id="Laufey - I Wish You Love (Official Audio)"/>
+<node id="Laufey - Like The Movies (Official Audio)"/>
+<node id="Manha de Carnaval"/>
+<node id="Stan Getz &amp; Joao Gilberto - Corcovado (Quiet Nights of Quiet Stars)"/>
+<node id="Stan Getz &amp; João Gilberto - Para Machuchar Meu Coração"/>
+<node id="Stan Getz feat. João Gilberto - Desafinado (Visualizer)"/>
+<edge source="01.- The Girl From Ipanema - Getz ⧸ Gilberto - Stan Getz &amp; Joao Gilberto" target="Wave">
+  <data key="d0">0.8111560215357319</data>
+</edge>
+<edge source="Wave" target="Agua De Beber">
+  <data key="d0">0.8511370909098618</data>
+</edge>
+<edge source="Wave" target="Chove Chuva">
+  <data key="d0">0.8179912260557269</data>
+</edge>
+<edge source="Wave" target="Manha de Carnaval">
+  <data key="d0">0.8611264005002388</data>
+</edge>
+<edge source="Wave" target="Stan Getz &amp; Joao Gilberto - Corcovado (Quiet Nights of Quiet Stars)">
+  <data key="d0">0.8245336800444575</data>
+</edge>
+<edge source="Wave" target="Stan Getz &amp; João Gilberto - Para Machuchar Meu Coração">
+  <data key="d0">0.8159391349902894</data>
+</edge>
+<edge source="Wave" target="Stan Getz feat. João Gilberto - Desafinado (Visualizer)">
+  <data key="d0">0.800811117770958</data>
+</edge>
+<edge source="Cry Me A River" target="Green Eyes">
+  <data key="d0">0.8026744606033519</data>
+</edge>
+<edge source="Laufey - I Wish You Love (Official Audio)" target="Laufey - Like The Movies (Official Audio)">
+  <data key="d0">0.8050468025162297</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,1957 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="double"/>
+<graph edgedefault="undirected"><node id="A Foggy Day (Live)"/>
+<node id="A Kiss To Build A Dream On"/>
+<node id="A Night In Tunisia"/>
+<node id="A Taste of Honey"/>
+<node id="Ain't Misbehavin'"/>
+<node id="All Blues"/>
+<node id="all killer, no filler"/>
+<node id="Art Tatum - Tea for Two (1933 - 1939 - 1953)"/>
+<node id="Art Tatum "/>
+<node id="Atomic Vomit"/>
+<node id="Autumn Leaves"/>
+<node id="Barry Harris Trio - Embraceable You"/>
+<node id="Bee Gees - More Than A Woman (Lyric Video)"/>
+<node id="Begin the Beguine (From the Musical Comedy ＂Jubilee＂)"/>
+<node id="Better Git It in Your Soul"/>
+<node id="Bill Evans-My Foolish Heart"/>
+<node id="Billie Holiday - Blue Moon (Audio)"/>
+<node id="Billie Holiday - God Bless The Child (Audio)"/>
+<node id="Billie Holiday - I'll Be Seeing You (Audio)"/>
+<node id="Billie Holiday - Solitude (Audio)"/>
+<node id="Billie's Bounce (Original)"/>
+<node id="Blue Bossa (Remastered)"/>
+<node id="Blue Nile"/>
+<node id="Blue Rondo à la Turk"/>
+<node id="Blue Train (Remastered 2003⧸Rudy Van Gelder Edition)"/>
+<node id="Blues for Alice - Charlie Parker"/>
+<node id="Bud Powell ＂Polka Dots And Moonbeams ＂ Piano Transcription"/>
+<node id="But Beautiful"/>
+<node id="Cab Calloway - Minnie the Moocher ( Remastered 720p )"/>
+<node id="Cannonball Adderley Quintet - ＂Mercy, Mercy, Mercy＂ (1966)"/>
+<node id="Cantaloupe Island (Remastered 1999⧸Rudy Van Gelder Edition)"/>
+<node id="Chapter Six"/>
+<node id="Charles Mingus - Fables of Faubus"/>
+<node id="Charlie Parker - Scrapple From The Apple - The Complete Savoy &amp; Dial Master Takes"/>
+<node id="Chet Baker - I fall in love too easily"/>
+<node id="Chick Corea：Crystal Silence"/>
+<node id="Clifford Brown &amp; Max Roach - Joy Spring"/>
+<node id="Coleman Hawkins-Body and Soul"/>
+<node id="Cortex - Prélude à 'Go Round' (Out Of Phase Stereo)"/>
+<node id="Count Basie - Splanky - The Atomic Mr. Basie [1957]"/>
+<node id="Dana and Alden Dragonfly ｜ Slowed&amp;Reverb ｜ 𝖙𝖔 𝖕𝖊𝖗𝖋𝖊𝖈𝖙𝖎𝖔𝖓"/>
+<node id="Dizzy's Business (2005 Digital Remaster⧸Live At International Jazz Festival, Comblain-La-Tour,..."/>
+<node id="Duke Ellington &amp; John Coltrane - In a sentimental mood"/>
+<node id="Duke Ellington - Take the a Train"/>
+<node id="Ella Fitzgerald Let No Man Write My Epitaph - Verve Acoustic Sounds Series"/>
+<node id="Erroll Garner Sunny"/>
+<node id="Erykah Badu - Didn't Cha Know"/>
+<node id="Fly Me To The Moon (2008 Remastered)"/>
+<node id="Food"/>
+<node id="Footprints (Remastered)"/>
+<node id="Frank Sinatra - The world we knew (over and over)"/>
+<node id="F・L・Y"/>
+<node id="Glenn Miller - In The Mood ｜ Colorized (1941) 4K"/>
+<node id="Hank Mobley - Remember"/>
+<node id="Have you heard"/>
+<node id="Honeysuckle Rose"/>
+<node id="Horace Silver - Song for My Father"/>
+<node id="I Ain't Got Nobody"/>
+<node id="I Can't Give You Anything But Love"/>
+<node id="I Got It Bad (And That Ain't Good) (Live)"/>
+<node id="I Got Rhythm"/>
+<node id="I Remember Clifford (Rudy Van Gelder Edition ⧸ Remastered 2007)"/>
+<node id="I'll Never Smile Again"/>
+<node id="I'm In The Mood For Love"/>
+<node id="Idle Moments (Rudy Van Gelder Edition ⧸ Remastered 1999)"/>
+<node id="It Don't Mean A Thing   Louis Armstrong &amp; Duke Ellington"/>
+<node id="J Dilla - Don't Cry"/>
+<node id="John Coltrane - Giant Steps (2020 Remaster) [Official Audio]"/>
+<node id="John McLaughlin"/>
+<node id="KENNY DORHAM - Alone Together [Vinyl Version]"/>
+<node id="Khruangbin - Friday Morning (Official Video)"/>
+<node id="Larry June, 2 Chainz &amp; The Alchemist - Life Is Beautiful (Official Video)"/>
+<node id="Lester Leaps In"/>
+<node id="Leven Kali - My Offer (Audio)"/>
+<node id="Loose Change (feat. Earl Sweatshirt)"/>
+<node id="Mac Demarco - Some Other Ones (FULL ALBUM)"/>
+<node id="Makin' Whoopee (1998 Digital Remaster)"/>
+<node id="Manhã de Carnaval"/>
+<node id="Memory Lane Music"/>
+<node id="Miles Davis   Kind Of Blue Full Album 1959"/>
+<node id="Miles Davis - Flamenco Sketches (Official Audio)"/>
+<node id="Miles Davis - Freddie Freeloader (Official Audio)"/>
+<node id="My Baby Just Cares for Me (2013 - Remaster)"/>
+<node id="My Favorite Things (Stereo) (2022 Remaster)"/>
+<node id="My Funny Valentine"/>
+<node id="My Lova"/>
+<node id="Now Please Don't You Cry, Beautiful Edith"/>
+<node id="Nutty"/>
+<node id="On &amp; On"/>
+<node id="Ooo Baby Baby"/>
+<node id="Orange Moon"/>
+<node id="Ornithology"/>
+<node id="Patti LaBelle - If Only You Knew (Audio)"/>
+<node id="Paul Desmond and Gerry Mulligan – Two Of A Mind – 1962 (Reel-to-Reel, 7½ ips)"/>
+<node id="Paul Desmond ⧸ Bossa Antigua"/>
+<node id="Perdido"/>
+<node id="Prelude to a Kiss"/>
+<node id="Questar"/>
+<node id="Red Garland - Almost Like Being In Love (Official Audio)"/>
+<node id="Rock With You"/>
+<node id="Royal Blue (1995 Remastered)"/>
+<node id="Ruby My Dear (Remastered 2013)"/>
+<node id="Sarah Vaughan's Golden Hits - Misty ⧸ Mercury  1961"/>
+<node id="Say It (Over And Over Again)"/>
+<node id="Second Line"/>
+<node id="Selfish"/>
+<node id="Senor Blues"/>
+<node id="So What"/>
+<node id="Someone to Watch Over Me"/>
+<node id="Sonny Rollins Quartet - Tenor Madness (Official Audio)"/>
+<node id="Speak No Evil (Remastered1998⧸Rudy Van Gelder Edition)"/>
+<node id="St. Thomas from Sonny Rollins, Now's the Time, RCA Stereo, 1st Vinyl"/>
+<node id="Stark's Reality"/>
+<node id="Stompin At The Savoy"/>
+<node id="Straight, No Chaser"/>
+<node id="Take Five"/>
+<node id="The Five Stairsteps - Come Back"/>
+<node id="The Girl From Ipanema (Mono Version)"/>
+<node id="The Tattooed Bride"/>
+<node id="Turiya &amp; Ramakrishna"/>
+<node id="Vince Guaraldi Trio - Moon River (Official Audio)"/>
+<node id="Wake The Baby"/>
+<node id="Walkin' Shoes"/>
+<node id="Watermelon Man"/>
+<node id="Weather Report - Birdland  (Heavy Weather - Legacy Project Official)"/>
+<node id="Wes Montgomery - Days Of Wine And Roses (Official Audio)"/>
+<node id="Wes Montgomery - In Your Own Sweet Way (Official Audio)"/>
+<node id="When Sunny Gets Blue  McCoy Tyner"/>
+<node id="Willow Weep For Me"/>
+<node id="＂Lenore＂ Chick Corea's The Leprechaun 1976 album."/>
+<edge source="A Foggy Day (Live)" target="Idle Moments (Rudy Van Gelder Edition ⧸ Remastered 1999)">
+  <data key="d0">0.9474266767501831</data>
+</edge>
+<edge source="A Foggy Day (Live)" target="Say It (Over And Over Again)">
+  <data key="d0">0.9132853746414185</data>
+</edge>
+<edge source="A Foggy Day (Live)" target="Duke Ellington &amp; John Coltrane - In a sentimental mood">
+  <data key="d0">0.9109560251235962</data>
+</edge>
+<edge source="A Foggy Day (Live)" target="Straight, No Chaser">
+  <data key="d0">0.9086711406707764</data>
+</edge>
+<edge source="A Foggy Day (Live)" target="Clifford Brown &amp; Max Roach - Joy Spring">
+  <data key="d0">0.9079130291938782</data>
+</edge>
+<edge source="A Foggy Day (Live)" target="Charles Mingus - Fables of Faubus">
+  <data key="d0">0.9076382517814636</data>
+</edge>
+<edge source="A Foggy Day (Live)" target="Bud Powell ＂Polka Dots And Moonbeams ＂ Piano Transcription">
+  <data key="d0">0.8934611082077026</data>
+</edge>
+<edge source="A Foggy Day (Live)" target="Erroll Garner Sunny">
+  <data key="d0">0.8782800436019897</data>
+</edge>
+<edge source="A Foggy Day (Live)" target="Red Garland - Almost Like Being In Love (Official Audio)">
+  <data key="d0">0.9032407999038696</data>
+</edge>
+<edge source="A Kiss To Build A Dream On" target="Willow Weep For Me">
+  <data key="d0">0.8666518330574036</data>
+</edge>
+<edge source="A Kiss To Build A Dream On" target="Count Basie - Splanky - The Atomic Mr. Basie [1957]">
+  <data key="d0">0.8518784046173096</data>
+</edge>
+<edge source="A Kiss To Build A Dream On" target="Royal Blue (1995 Remastered)">
+  <data key="d0">0.845200777053833</data>
+</edge>
+<edge source="A Kiss To Build A Dream On" target="The Tattooed Bride">
+  <data key="d0">0.8433305025100708</data>
+</edge>
+<edge source="A Kiss To Build A Dream On" target="Stompin At The Savoy">
+  <data key="d0">0.836711049079895</data>
+</edge>
+<edge source="A Kiss To Build A Dream On" target="Billie Holiday - God Bless The Child (Audio)">
+  <data key="d0">0.8354753255844116</data>
+</edge>
+<edge source="A Kiss To Build A Dream On" target="Billie Holiday - I'll Be Seeing You (Audio)">
+  <data key="d0">0.8261927962303162</data>
+</edge>
+<edge source="A Kiss To Build A Dream On" target="Cab Calloway - Minnie the Moocher ( Remastered 720p )">
+  <data key="d0">0.7733744382858276</data>
+</edge>
+<edge source="A Kiss To Build A Dream On" target="Fly Me To The Moon (2008 Remastered)">
+  <data key="d0">0.8012787103652954</data>
+</edge>
+<edge source="A Kiss To Build A Dream On" target="Frank Sinatra - The world we knew (over and over)">
+  <data key="d0">0.7800527811050415</data>
+</edge>
+<edge source="A Kiss To Build A Dream On" target="Memory Lane Music">
+  <data key="d0">0.772158682346344</data>
+</edge>
+<edge source="A Kiss To Build A Dream On" target="Ooo Baby Baby">
+  <data key="d0">0.6730469465255737</data>
+</edge>
+<edge source="A Kiss To Build A Dream On" target="Sarah Vaughan's Golden Hits - Misty ⧸ Mercury  1961">
+  <data key="d0">0.633070170879364</data>
+</edge>
+<edge source="A Kiss To Build A Dream On" target="The Five Stairsteps - Come Back">
+  <data key="d0">0.7109981775283813</data>
+</edge>
+<edge source="A Night In Tunisia" target="The Tattooed Bride">
+  <data key="d0">0.9517112970352173</data>
+</edge>
+<edge source="A Night In Tunisia" target="Charles Mingus - Fables of Faubus">
+  <data key="d0">0.9467171430587769</data>
+</edge>
+<edge source="A Night In Tunisia" target="Better Git It in Your Soul">
+  <data key="d0">0.9355297088623047</data>
+</edge>
+<edge source="A Night In Tunisia" target="Miles Davis   Kind Of Blue Full Album 1959">
+  <data key="d0">0.934731125831604</data>
+</edge>
+<edge source="A Night In Tunisia" target="So What">
+  <data key="d0">0.928905725479126</data>
+</edge>
+<edge source="A Night In Tunisia" target="Clifford Brown &amp; Max Roach - Joy Spring">
+  <data key="d0">0.9217051267623901</data>
+</edge>
+<edge source="A Night In Tunisia" target="Art Tatum ">
+  <data key="d0">0.8230303525924683</data>
+</edge>
+<edge source="A Night In Tunisia" target="Billie's Bounce (Original)">
+  <data key="d0">0.8227000832557678</data>
+</edge>
+<edge source="A Night In Tunisia" target="Blues for Alice - Charlie Parker">
+  <data key="d0">0.8542227745056152</data>
+</edge>
+<edge source="A Night In Tunisia" target="Cab Calloway - Minnie the Moocher ( Remastered 720p )">
+  <data key="d0">0.7611653208732605</data>
+</edge>
+<edge source="A Night In Tunisia" target="Cannonball Adderley Quintet - ＂Mercy, Mercy, Mercy＂ (1966)">
+  <data key="d0">0.8738300800323486</data>
+</edge>
+<edge source="A Night In Tunisia" target="Charlie Parker - Scrapple From The Apple - The Complete Savoy &amp; Dial Master Takes">
+  <data key="d0">0.8173989057540894</data>
+</edge>
+<edge source="A Night In Tunisia" target="Count Basie - Splanky - The Atomic Mr. Basie [1957]">
+  <data key="d0">0.8712192177772522</data>
+</edge>
+<edge source="A Night In Tunisia" target="Glenn Miller - In The Mood ｜ Colorized (1941) 4K">
+  <data key="d0">0.7390636801719666</data>
+</edge>
+<edge source="A Night In Tunisia" target="I Ain't Got Nobody">
+  <data key="d0">0.875029444694519</data>
+</edge>
+<edge source="A Night In Tunisia" target="It Don't Mean A Thing   Louis Armstrong &amp; Duke Ellington">
+  <data key="d0">0.9123501777648926</data>
+</edge>
+<edge source="A Night In Tunisia" target="Lester Leaps In">
+  <data key="d0">0.8599823117256165</data>
+</edge>
+<edge source="A Night In Tunisia" target="Makin' Whoopee (1998 Digital Remaster)">
+  <data key="d0">0.9208380579948425</data>
+</edge>
+<edge source="A Night In Tunisia" target="Perdido">
+  <data key="d0">0.7613980174064636</data>
+</edge>
+<edge source="A Night In Tunisia" target="Prelude to a Kiss">
+  <data key="d0">0.9199908375740051</data>
+</edge>
+<edge source="A Night In Tunisia" target="Second Line">
+  <data key="d0">0.8954957723617554</data>
+</edge>
+<edge source="A Night In Tunisia" target="Senor Blues">
+  <data key="d0">0.9007412195205688</data>
+</edge>
+<edge source="A Night In Tunisia" target="Someone to Watch Over Me">
+  <data key="d0">0.8564779758453369</data>
+</edge>
+<edge source="A Night In Tunisia" target="St. Thomas from Sonny Rollins, Now's the Time, RCA Stereo, 1st Vinyl">
+  <data key="d0">0.8839554786682129</data>
+</edge>
+<edge source="A Night In Tunisia" target="Stompin At The Savoy">
+  <data key="d0">0.8507997393608093</data>
+</edge>
+<edge source="A Night In Tunisia" target="Take Five">
+  <data key="d0">0.907139241695404</data>
+</edge>
+<edge source="A Night In Tunisia" target="The Girl From Ipanema (Mono Version)">
+  <data key="d0">0.6997323036193848</data>
+</edge>
+<edge source="A Taste of Honey" target="But Beautiful">
+  <data key="d0">0.9219025373458862</data>
+</edge>
+<edge source="A Taste of Honey" target="Duke Ellington &amp; John Coltrane - In a sentimental mood">
+  <data key="d0">0.9129089117050171</data>
+</edge>
+<edge source="A Taste of Honey" target="Now Please Don't You Cry, Beautiful Edith">
+  <data key="d0">0.9080864191055298</data>
+</edge>
+<edge source="A Taste of Honey" target="Idle Moments (Rudy Van Gelder Edition ⧸ Remastered 1999)">
+  <data key="d0">0.9032459855079651</data>
+</edge>
+<edge source="A Taste of Honey" target="Paul Desmond and Gerry Mulligan – Two Of A Mind – 1962 (Reel-to-Reel, 7½ ips)">
+  <data key="d0">0.9025861620903015</data>
+</edge>
+<edge source="A Taste of Honey" target="Miles Davis   Kind Of Blue Full Album 1959">
+  <data key="d0">0.9025089740753174</data>
+</edge>
+<edge source="A Taste of Honey" target="Paul Desmond ⧸ Bossa Antigua">
+  <data key="d0">0.8395361304283142</data>
+</edge>
+<edge source="A Taste of Honey" target="The Girl From Ipanema (Mono Version)">
+  <data key="d0">0.7593894600868225</data>
+</edge>
+<edge source="A Taste of Honey" target="Wes Montgomery - Days Of Wine And Roses (Official Audio)">
+  <data key="d0">0.7725704908370972</data>
+</edge>
+<edge source="Ain't Misbehavin'" target="Coleman Hawkins-Body and Soul">
+  <data key="d0">0.8198894262313843</data>
+</edge>
+<edge source="Ain't Misbehavin'" target="I'm In The Mood For Love">
+  <data key="d0">0.8123915791511536</data>
+</edge>
+<edge source="Ain't Misbehavin'" target="Ornithology">
+  <data key="d0">0.7979360818862915</data>
+</edge>
+<edge source="Ain't Misbehavin'" target="Billie's Bounce (Original)">
+  <data key="d0">0.7882842421531677</data>
+</edge>
+<edge source="Ain't Misbehavin'" target="Begin the Beguine (From the Musical Comedy ＂Jubilee＂)">
+  <data key="d0">0.7794350385665894</data>
+</edge>
+<edge source="Ain't Misbehavin'" target="I Ain't Got Nobody">
+  <data key="d0">0.7766119241714478</data>
+</edge>
+<edge source="Ain't Misbehavin'" target="I'll Never Smile Again">
+  <data key="d0">0.7503770589828491</data>
+</edge>
+<edge source="All Blues" target="Miles Davis   Kind Of Blue Full Album 1959">
+  <data key="d0">0.9730942845344543</data>
+</edge>
+<edge source="All Blues" target="So What">
+  <data key="d0">0.9624606370925903</data>
+</edge>
+<edge source="All Blues" target="Miles Davis - Freddie Freeloader (Official Audio)">
+  <data key="d0">0.9572339057922363</data>
+</edge>
+<edge source="All Blues" target="Charles Mingus - Fables of Faubus">
+  <data key="d0">0.9537464380264282</data>
+</edge>
+<edge source="All Blues" target="Duke Ellington &amp; John Coltrane - In a sentimental mood">
+  <data key="d0">0.9531279802322388</data>
+</edge>
+<edge source="All Blues" target="Miles Davis - Flamenco Sketches (Official Audio)">
+  <data key="d0">0.9412845373153687</data>
+</edge>
+<edge source="All Blues" target="Better Git It in Your Soul">
+  <data key="d0">0.9305756092071533</data>
+</edge>
+<edge source="All Blues" target="Footprints (Remastered)">
+  <data key="d0">0.920991063117981</data>
+</edge>
+<edge source="All Blues" target="I Got Rhythm">
+  <data key="d0">0.8945223093032837</data>
+</edge>
+<edge source="All Blues" target="John Coltrane - Giant Steps (2020 Remaster) [Official Audio]">
+  <data key="d0">0.9104949235916138</data>
+</edge>
+<edge source="All Blues" target="Now Please Don't You Cry, Beautiful Edith">
+  <data key="d0">0.9334385395050049</data>
+</edge>
+<edge source="All Blues" target="Questar">
+  <data key="d0">0.8997704982757568</data>
+</edge>
+<edge source="All Blues" target="Speak No Evil (Remastered1998⧸Rudy Van Gelder Edition)">
+  <data key="d0">0.9150090217590332</data>
+</edge>
+<edge source="All Blues" target="St. Thomas from Sonny Rollins, Now's the Time, RCA Stereo, 1st Vinyl">
+  <data key="d0">0.8931587934494019</data>
+</edge>
+<edge source="All Blues" target="Straight, No Chaser">
+  <data key="d0">0.9387123584747314</data>
+</edge>
+<edge source="all killer, no filler" target="Atomic Vomit">
+  <data key="d0">0.7827656865119934</data>
+</edge>
+<edge source="all killer, no filler" target="On &amp; On">
+  <data key="d0">0.7685235738754272</data>
+</edge>
+<edge source="all killer, no filler" target="J Dilla - Don't Cry">
+  <data key="d0">0.7660768628120422</data>
+</edge>
+<edge source="all killer, no filler" target="My Lova">
+  <data key="d0">0.7635560631752014</data>
+</edge>
+<edge source="all killer, no filler" target="Food">
+  <data key="d0">0.7353758811950684</data>
+</edge>
+<edge source="all killer, no filler" target="Larry June, 2 Chainz &amp; The Alchemist - Life Is Beautiful (Official Video)">
+  <data key="d0">0.6972451210021973</data>
+</edge>
+<edge source="all killer, no filler" target="Erykah Badu - Didn't Cha Know">
+  <data key="d0">0.6625036001205444</data>
+</edge>
+<edge source="Art Tatum - Tea for Two (1933 - 1939 - 1953)" target="Art Tatum ">
+  <data key="d0">0.8516565561294556</data>
+</edge>
+<edge source="Art Tatum - Tea for Two (1933 - 1939 - 1953)" target="I Got It Bad (And That Ain't Good) (Live)">
+  <data key="d0">0.844240665435791</data>
+</edge>
+<edge source="Art Tatum - Tea for Two (1933 - 1939 - 1953)" target="I'm In The Mood For Love">
+  <data key="d0">0.8329543471336365</data>
+</edge>
+<edge source="Art Tatum - Tea for Two (1933 - 1939 - 1953)" target="Barry Harris Trio - Embraceable You">
+  <data key="d0">0.804057240486145</data>
+</edge>
+<edge source="Art Tatum - Tea for Two (1933 - 1939 - 1953)" target="Wes Montgomery - In Your Own Sweet Way (Official Audio)">
+  <data key="d0">0.8024251461029053</data>
+</edge>
+<edge source="Art Tatum - Tea for Two (1933 - 1939 - 1953)" target="The Tattooed Bride">
+  <data key="d0">0.793056309223175</data>
+</edge>
+<edge source="Art Tatum - Tea for Two (1933 - 1939 - 1953)" target="Duke Ellington - Take the a Train">
+  <data key="d0">0.7626119256019592</data>
+</edge>
+<edge source="Art Tatum " target="Charlie Parker - Scrapple From The Apple - The Complete Savoy &amp; Dial Master Takes">
+  <data key="d0">0.8598822355270386</data>
+</edge>
+<edge source="Art Tatum " target="Vince Guaraldi Trio - Moon River (Official Audio)">
+  <data key="d0">0.8539943099021912</data>
+</edge>
+<edge source="Art Tatum " target="The Tattooed Bride">
+  <data key="d0">0.8224811553955078</data>
+</edge>
+<edge source="Art Tatum " target="I Got It Bad (And That Ain't Good) (Live)">
+  <data key="d0">0.8213582038879395</data>
+</edge>
+<edge source="Atomic Vomit" target="J Dilla - Don't Cry">
+  <data key="d0">0.7720985412597656</data>
+</edge>
+<edge source="Atomic Vomit" target="Larry June, 2 Chainz &amp; The Alchemist - Life Is Beautiful (Official Video)">
+  <data key="d0">0.7411186099052429</data>
+</edge>
+<edge source="Atomic Vomit" target="Selfish">
+  <data key="d0">0.7065393924713135</data>
+</edge>
+<edge source="Atomic Vomit" target="On &amp; On">
+  <data key="d0">0.6932265162467957</data>
+</edge>
+<edge source="Atomic Vomit" target="My Lova">
+  <data key="d0">0.6708219051361084</data>
+</edge>
+<edge source="Autumn Leaves" target="I Can't Give You Anything But Love">
+  <data key="d0">0.936492919921875</data>
+</edge>
+<edge source="Autumn Leaves" target="Blue Train (Remastered 2003⧸Rudy Van Gelder Edition)">
+  <data key="d0">0.932929277420044</data>
+</edge>
+<edge source="Autumn Leaves" target="I Remember Clifford (Rudy Van Gelder Edition ⧸ Remastered 2007)">
+  <data key="d0">0.929646909236908</data>
+</edge>
+<edge source="Autumn Leaves" target="Hank Mobley - Remember">
+  <data key="d0">0.9267618656158447</data>
+</edge>
+<edge source="Autumn Leaves" target="Idle Moments (Rudy Van Gelder Edition ⧸ Remastered 1999)">
+  <data key="d0">0.9267416596412659</data>
+</edge>
+<edge source="Autumn Leaves" target="Say It (Over And Over Again)">
+  <data key="d0">0.9142827987670898</data>
+</edge>
+<edge source="Autumn Leaves" target="Nutty">
+  <data key="d0">0.8552715182304382</data>
+</edge>
+<edge source="Autumn Leaves" target="Red Garland - Almost Like Being In Love (Official Audio)">
+  <data key="d0">0.8810378313064575</data>
+</edge>
+<edge source="Autumn Leaves" target="Sonny Rollins Quartet - Tenor Madness (Official Audio)">
+  <data key="d0">0.9119141697883606</data>
+</edge>
+<edge source="Barry Harris Trio - Embraceable You" target="Clifford Brown &amp; Max Roach - Joy Spring">
+  <data key="d0">0.9270370006561279</data>
+</edge>
+<edge source="Barry Harris Trio - Embraceable You" target="Bud Powell ＂Polka Dots And Moonbeams ＂ Piano Transcription">
+  <data key="d0">0.9145464897155762</data>
+</edge>
+<edge source="Barry Harris Trio - Embraceable You" target="Wes Montgomery - In Your Own Sweet Way (Official Audio)">
+  <data key="d0">0.9132734537124634</data>
+</edge>
+<edge source="Barry Harris Trio - Embraceable You" target="Makin' Whoopee (1998 Digital Remaster)">
+  <data key="d0">0.9046601057052612</data>
+</edge>
+<edge source="Barry Harris Trio - Embraceable You" target="Miles Davis   Kind Of Blue Full Album 1959">
+  <data key="d0">0.9025946855545044</data>
+</edge>
+<edge source="Barry Harris Trio - Embraceable You" target="Charles Mingus - Fables of Faubus">
+  <data key="d0">0.9005857706069946</data>
+</edge>
+<edge source="Barry Harris Trio - Embraceable You" target="I Ain't Got Nobody">
+  <data key="d0">0.8433830142021179</data>
+</edge>
+<edge source="Barry Harris Trio - Embraceable You" target="I Got It Bad (And That Ain't Good) (Live)">
+  <data key="d0">0.8567667007446289</data>
+</edge>
+<edge source="Barry Harris Trio - Embraceable You" target="I Got Rhythm">
+  <data key="d0">0.8944045305252075</data>
+</edge>
+<edge source="Barry Harris Trio - Embraceable You" target="I'm In The Mood For Love">
+  <data key="d0">0.8138920664787292</data>
+</edge>
+<edge source="Barry Harris Trio - Embraceable You" target="Lester Leaps In">
+  <data key="d0">0.8609972596168518</data>
+</edge>
+<edge source="Barry Harris Trio - Embraceable You" target="Vince Guaraldi Trio - Moon River (Official Audio)">
+  <data key="d0">0.858318567276001</data>
+</edge>
+<edge source="Bee Gees - More Than A Woman (Lyric Video)" target="Rock With You">
+  <data key="d0">0.7390676736831665</data>
+</edge>
+<edge source="Bee Gees - More Than A Woman (Lyric Video)" target="Patti LaBelle - If Only You Knew (Audio)">
+  <data key="d0">0.615897536277771</data>
+</edge>
+<edge source="Bee Gees - More Than A Woman (Lyric Video)" target="Khruangbin - Friday Morning (Official Video)">
+  <data key="d0">0.603793203830719</data>
+</edge>
+<edge source="Bee Gees - More Than A Woman (Lyric Video)" target="Watermelon Man">
+  <data key="d0">0.58327716588974</data>
+</edge>
+<edge source="Bee Gees - More Than A Woman (Lyric Video)" target="F・L・Y">
+  <data key="d0">0.5627688765525818</data>
+</edge>
+<edge source="Bee Gees - More Than A Woman (Lyric Video)" target="Memory Lane Music">
+  <data key="d0">0.5574395060539246</data>
+</edge>
+<edge source="Begin the Beguine (From the Musical Comedy ＂Jubilee＂)" target="Stompin At The Savoy">
+  <data key="d0">0.8188941478729248</data>
+</edge>
+<edge source="Begin the Beguine (From the Musical Comedy ＂Jubilee＂)" target="Coleman Hawkins-Body and Soul">
+  <data key="d0">0.8039945363998413</data>
+</edge>
+<edge source="Begin the Beguine (From the Musical Comedy ＂Jubilee＂)" target="Ornithology">
+  <data key="d0">0.7969566583633423</data>
+</edge>
+<edge source="Begin the Beguine (From the Musical Comedy ＂Jubilee＂)" target="Duke Ellington - Take the a Train">
+  <data key="d0">0.7877622842788696</data>
+</edge>
+<edge source="Begin the Beguine (From the Musical Comedy ＂Jubilee＂)" target="I'm In The Mood For Love">
+  <data key="d0">0.7877412438392639</data>
+</edge>
+<edge source="Begin the Beguine (From the Musical Comedy ＂Jubilee＂)" target="Honeysuckle Rose">
+  <data key="d0">0.7867937088012695</data>
+</edge>
+<edge source="Better Git It in Your Soul" target="Charles Mingus - Fables of Faubus">
+  <data key="d0">0.9529258012771606</data>
+</edge>
+<edge source="Better Git It in Your Soul" target="Miles Davis   Kind Of Blue Full Album 1959">
+  <data key="d0">0.9419788122177124</data>
+</edge>
+<edge source="Better Git It in Your Soul" target="So What">
+  <data key="d0">0.9358506202697754</data>
+</edge>
+<edge source="Better Git It in Your Soul" target="Take Five">
+  <data key="d0">0.922806978225708</data>
+</edge>
+<edge source="Better Git It in Your Soul" target="Blue Rondo à la Turk">
+  <data key="d0">0.9152944087982178</data>
+</edge>
+<edge source="Better Git It in Your Soul" target="Blues for Alice - Charlie Parker">
+  <data key="d0">0.8237057328224182</data>
+</edge>
+<edge source="Better Git It in Your Soul" target="Cannonball Adderley Quintet - ＂Mercy, Mercy, Mercy＂ (1966)">
+  <data key="d0">0.8827639222145081</data>
+</edge>
+<edge source="Better Git It in Your Soul" target="Dizzy's Business (2005 Digital Remaster⧸Live At International Jazz Festival, Comblain-La-Tour,...">
+  <data key="d0">0.9098957180976868</data>
+</edge>
+<edge source="Better Git It in Your Soul" target="It Don't Mean A Thing   Louis Armstrong &amp; Duke Ellington">
+  <data key="d0">0.8694096207618713</data>
+</edge>
+<edge source="Better Git It in Your Soul" target="Perdido">
+  <data key="d0">0.7609023451805115</data>
+</edge>
+<edge source="Better Git It in Your Soul" target="Second Line">
+  <data key="d0">0.8711438775062561</data>
+</edge>
+<edge source="Better Git It in Your Soul" target="St. Thomas from Sonny Rollins, Now's the Time, RCA Stereo, 1st Vinyl">
+  <data key="d0">0.903996467590332</data>
+</edge>
+<edge source="Better Git It in Your Soul" target="Weather Report - Birdland  (Heavy Weather - Legacy Project Official)">
+  <data key="d0">0.7513750195503235</data>
+</edge>
+<edge source="Bill Evans-My Foolish Heart" target="When Sunny Gets Blue  McCoy Tyner">
+  <data key="d0">0.9426133632659912</data>
+</edge>
+<edge source="Bill Evans-My Foolish Heart" target="Turiya &amp; Ramakrishna">
+  <data key="d0">0.9295175075531006</data>
+</edge>
+<edge source="Bill Evans-My Foolish Heart" target="But Beautiful">
+  <data key="d0">0.9055259227752686</data>
+</edge>
+<edge source="Bill Evans-My Foolish Heart" target="My Funny Valentine">
+  <data key="d0">0.8985188007354736</data>
+</edge>
+<edge source="Bill Evans-My Foolish Heart" target="KENNY DORHAM - Alone Together [Vinyl Version]">
+  <data key="d0">0.8871790766716003</data>
+</edge>
+<edge source="Bill Evans-My Foolish Heart" target="Say It (Over And Over Again)">
+  <data key="d0">0.8815922141075134</data>
+</edge>
+<edge source="Bill Evans-My Foolish Heart" target="My Favorite Things (Stereo) (2022 Remaster)">
+  <data key="d0">0.840329647064209</data>
+</edge>
+<edge source="Bill Evans-My Foolish Heart" target="Ruby My Dear (Remastered 2013)">
+  <data key="d0">0.8708409070968628</data>
+</edge>
+<edge source="Bill Evans-My Foolish Heart" target="Wake The Baby">
+  <data key="d0">0.723854660987854</data>
+</edge>
+<edge source="Billie Holiday - Blue Moon (Audio)" target="Billie Holiday - Solitude (Audio)">
+  <data key="d0">0.9092543125152588</data>
+</edge>
+<edge source="Billie Holiday - Blue Moon (Audio)" target="Billie Holiday - God Bless The Child (Audio)">
+  <data key="d0">0.8431882858276367</data>
+</edge>
+<edge source="Billie Holiday - Blue Moon (Audio)" target="Wes Montgomery - In Your Own Sweet Way (Official Audio)">
+  <data key="d0">0.8236114978790283</data>
+</edge>
+<edge source="Billie Holiday - Blue Moon (Audio)" target="I Ain't Got Nobody">
+  <data key="d0">0.8218402862548828</data>
+</edge>
+<edge source="Billie Holiday - Blue Moon (Audio)" target="Coleman Hawkins-Body and Soul">
+  <data key="d0">0.82124924659729</data>
+</edge>
+<edge source="Billie Holiday - Blue Moon (Audio)" target="Billie Holiday - I'll Be Seeing You (Audio)">
+  <data key="d0">0.8104990720748901</data>
+</edge>
+<edge source="Billie Holiday - Blue Moon (Audio)" target="I'll Never Smile Again">
+  <data key="d0">0.748663067817688</data>
+</edge>
+<edge source="Billie Holiday - God Bless The Child (Audio)" target="Billie Holiday - Solitude (Audio)">
+  <data key="d0">0.885521650314331</data>
+</edge>
+<edge source="Billie Holiday - God Bless The Child (Audio)" target="Billie Holiday - I'll Be Seeing You (Audio)">
+  <data key="d0">0.8700894117355347</data>
+</edge>
+<edge source="Billie Holiday - God Bless The Child (Audio)" target="Willow Weep For Me">
+  <data key="d0">0.8257434368133545</data>
+</edge>
+<edge source="Billie Holiday - God Bless The Child (Audio)" target="I Ain't Got Nobody">
+  <data key="d0">0.8222963809967041</data>
+</edge>
+<edge source="Billie Holiday - God Bless The Child (Audio)" target="Cab Calloway - Minnie the Moocher ( Remastered 720p )">
+  <data key="d0">0.7523885369300842</data>
+</edge>
+<edge source="Billie Holiday - God Bless The Child (Audio)" target="My Baby Just Cares for Me (2013 - Remaster)">
+  <data key="d0">0.7732160091400146</data>
+</edge>
+<edge source="Billie Holiday - I'll Be Seeing You (Audio)" target="Billie Holiday - Solitude (Audio)">
+  <data key="d0">0.8463269472122192</data>
+</edge>
+<edge source="Billie Holiday - I'll Be Seeing You (Audio)" target="The Tattooed Bride">
+  <data key="d0">0.8408038020133972</data>
+</edge>
+<edge source="Billie Holiday - I'll Be Seeing You (Audio)" target="Willow Weep For Me">
+  <data key="d0">0.8396422863006592</data>
+</edge>
+<edge source="Billie Holiday - I'll Be Seeing You (Audio)" target="Cab Calloway - Minnie the Moocher ( Remastered 720p )">
+  <data key="d0">0.8313320875167847</data>
+</edge>
+<edge source="Billie Holiday - I'll Be Seeing You (Audio)" target="I'll Never Smile Again">
+  <data key="d0">0.7719170451164246</data>
+</edge>
+<edge source="Billie Holiday - I'll Be Seeing You (Audio)" target="Sarah Vaughan's Golden Hits - Misty ⧸ Mercury  1961">
+  <data key="d0">0.6959818601608276</data>
+</edge>
+<edge source="Billie Holiday - Solitude (Audio)" target="Wes Montgomery - In Your Own Sweet Way (Official Audio)">
+  <data key="d0">0.8587319850921631</data>
+</edge>
+<edge source="Billie Holiday - Solitude (Audio)" target="Chet Baker - I fall in love too easily">
+  <data key="d0">0.8095890283584595</data>
+</edge>
+<edge source="Billie Holiday - Solitude (Audio)" target="The Tattooed Bride">
+  <data key="d0">0.7985804080963135</data>
+</edge>
+<edge source="Billie Holiday - Solitude (Audio)" target="I'll Never Smile Again">
+  <data key="d0">0.773712158203125</data>
+</edge>
+<edge source="Billie Holiday - Solitude (Audio)" target="Sarah Vaughan's Golden Hits - Misty ⧸ Mercury  1961">
+  <data key="d0">0.6303495168685913</data>
+</edge>
+<edge source="Billie's Bounce (Original)" target="Charlie Parker - Scrapple From The Apple - The Complete Savoy &amp; Dial Master Takes">
+  <data key="d0">0.8506770730018616</data>
+</edge>
+<edge source="Billie's Bounce (Original)" target="Ornithology">
+  <data key="d0">0.8469544649124146</data>
+</edge>
+<edge source="Billie's Bounce (Original)" target="Clifford Brown &amp; Max Roach - Joy Spring">
+  <data key="d0">0.8422630429267883</data>
+</edge>
+<edge source="Billie's Bounce (Original)" target="I Got Rhythm">
+  <data key="d0">0.8353286981582642</data>
+</edge>
+<edge source="Billie's Bounce (Original)" target="Walkin' Shoes">
+  <data key="d0">0.8235388994216919</data>
+</edge>
+<edge source="Billie's Bounce (Original)" target="Perdido">
+  <data key="d0">0.7708101272583008</data>
+</edge>
+<edge source="Blue Bossa (Remastered)" target="Senor Blues">
+  <data key="d0">0.9158583879470825</data>
+</edge>
+<edge source="Blue Bossa (Remastered)" target="Now Please Don't You Cry, Beautiful Edith">
+  <data key="d0">0.9037618637084961</data>
+</edge>
+<edge source="Blue Bossa (Remastered)" target="Duke Ellington &amp; John Coltrane - In a sentimental mood">
+  <data key="d0">0.9020087122917175</data>
+</edge>
+<edge source="Blue Bossa (Remastered)" target="Hank Mobley - Remember">
+  <data key="d0">0.8857560157775879</data>
+</edge>
+<edge source="Blue Bossa (Remastered)" target="Say It (Over And Over Again)">
+  <data key="d0">0.8793735504150391</data>
+</edge>
+<edge source="Blue Bossa (Remastered)" target="Blue Train (Remastered 2003⧸Rudy Van Gelder Edition)">
+  <data key="d0">0.8743810057640076</data>
+</edge>
+<edge source="Blue Bossa (Remastered)" target="Erroll Garner Sunny">
+  <data key="d0">0.8672950267791748</data>
+</edge>
+<edge source="Blue Bossa (Remastered)" target="Horace Silver - Song for My Father">
+  <data key="d0">0.860103964805603</data>
+</edge>
+<edge source="Blue Bossa (Remastered)" target="Paul Desmond ⧸ Bossa Antigua">
+  <data key="d0">0.824920654296875</data>
+</edge>
+<edge source="Blue Nile" target="My Favorite Things (Stereo) (2022 Remaster)">
+  <data key="d0">0.8139342069625854</data>
+</edge>
+<edge source="Blue Nile" target="John McLaughlin">
+  <data key="d0">0.811506986618042</data>
+</edge>
+<edge source="Blue Nile" target="Dana and Alden Dragonfly ｜ Slowed&amp;Reverb ｜ 𝖙𝖔 𝖕𝖊𝖗𝖋𝖊𝖈𝖙𝖎𝖔𝖓">
+  <data key="d0">0.8109402656555176</data>
+</edge>
+<edge source="Blue Nile" target="Turiya &amp; Ramakrishna">
+  <data key="d0">0.8078837394714355</data>
+</edge>
+<edge source="Blue Nile" target="Leven Kali - My Offer (Audio)">
+  <data key="d0">0.8072302937507629</data>
+</edge>
+<edge source="Blue Nile" target="Chick Corea：Crystal Silence">
+  <data key="d0">0.8002630472183228</data>
+</edge>
+<edge source="Blue Nile" target="Have you heard">
+  <data key="d0">0.7719659805297852</data>
+</edge>
+<edge source="Blue Nile" target="Stark's Reality">
+  <data key="d0">0.6919569969177246</data>
+</edge>
+<edge source="Blue Nile" target="Wake The Baby">
+  <data key="d0">0.6982866525650024</data>
+</edge>
+<edge source="Blue Nile" target="Watermelon Man">
+  <data key="d0">0.7662372589111328</data>
+</edge>
+<edge source="Blue Nile" target="＂Lenore＂ Chick Corea's The Leprechaun 1976 album.">
+  <data key="d0">0.7562723159790039</data>
+</edge>
+<edge source="Blue Rondo à la Turk" target="Charles Mingus - Fables of Faubus">
+  <data key="d0">0.9212296009063721</data>
+</edge>
+<edge source="Blue Rondo à la Turk" target="Miles Davis   Kind Of Blue Full Album 1959">
+  <data key="d0">0.9186121821403503</data>
+</edge>
+<edge source="Blue Rondo à la Turk" target="So What">
+  <data key="d0">0.9169820547103882</data>
+</edge>
+<edge source="Blue Rondo à la Turk" target="Take Five">
+  <data key="d0">0.9154455661773682</data>
+</edge>
+<edge source="Blue Rondo à la Turk" target="Idle Moments (Rudy Van Gelder Edition ⧸ Remastered 1999)">
+  <data key="d0">0.9115593433380127</data>
+</edge>
+<edge source="Blue Rondo à la Turk" target="Erroll Garner Sunny">
+  <data key="d0">0.8671597242355347</data>
+</edge>
+<edge source="Blue Rondo à la Turk" target="Senor Blues">
+  <data key="d0">0.9010637998580933</data>
+</edge>
+<edge source="Blue Train (Remastered 2003⧸Rudy Van Gelder Edition)" target="Hank Mobley - Remember">
+  <data key="d0">0.9593407511711121</data>
+</edge>
+<edge source="Blue Train (Remastered 2003⧸Rudy Van Gelder Edition)" target="Sonny Rollins Quartet - Tenor Madness (Official Audio)">
+  <data key="d0">0.951474130153656</data>
+</edge>
+<edge source="Blue Train (Remastered 2003⧸Rudy Van Gelder Edition)" target="Dizzy's Business (2005 Digital Remaster⧸Live At International Jazz Festival, Comblain-La-Tour,...">
+  <data key="d0">0.9258160591125488</data>
+</edge>
+<edge source="Blue Train (Remastered 2003⧸Rudy Van Gelder Edition)" target="I Remember Clifford (Rudy Van Gelder Edition ⧸ Remastered 2007)">
+  <data key="d0">0.9151209592819214</data>
+</edge>
+<edge source="Blue Train (Remastered 2003⧸Rudy Van Gelder Edition)" target="Speak No Evil (Remastered1998⧸Rudy Van Gelder Edition)">
+  <data key="d0">0.9139014482498169</data>
+</edge>
+<edge source="Blue Train (Remastered 2003⧸Rudy Van Gelder Edition)" target="Horace Silver - Song for My Father">
+  <data key="d0">0.8599679470062256</data>
+</edge>
+<edge source="Blue Train (Remastered 2003⧸Rudy Van Gelder Edition)" target="Nutty">
+  <data key="d0">0.8636069297790527</data>
+</edge>
+<edge source="Blue Train (Remastered 2003⧸Rudy Van Gelder Edition)" target="Red Garland - Almost Like Being In Love (Official Audio)">
+  <data key="d0">0.8776140809059143</data>
+</edge>
+<edge source="Blues for Alice - Charlie Parker" target="St. Thomas from Sonny Rollins, Now's the Time, RCA Stereo, 1st Vinyl">
+  <data key="d0">0.8756223917007446</data>
+</edge>
+<edge source="Blues for Alice - Charlie Parker" target="Charles Mingus - Fables of Faubus">
+  <data key="d0">0.8295162916183472</data>
+</edge>
+<edge source="Blues for Alice - Charlie Parker" target="The Tattooed Bride">
+  <data key="d0">0.8234013319015503</data>
+</edge>
+<edge source="Blues for Alice - Charlie Parker" target="Senor Blues">
+  <data key="d0">0.81224125623703</data>
+</edge>
+<edge source="Bud Powell ＂Polka Dots And Moonbeams ＂ Piano Transcription" target="Idle Moments (Rudy Van Gelder Edition ⧸ Remastered 1999)">
+  <data key="d0">0.9242408275604248</data>
+</edge>
+<edge source="Bud Powell ＂Polka Dots And Moonbeams ＂ Piano Transcription" target="Clifford Brown &amp; Max Roach - Joy Spring">
+  <data key="d0">0.9071600437164307</data>
+</edge>
+<edge source="Bud Powell ＂Polka Dots And Moonbeams ＂ Piano Transcription" target="Say It (Over And Over Again)">
+  <data key="d0">0.9021193385124207</data>
+</edge>
+<edge source="Bud Powell ＂Polka Dots And Moonbeams ＂ Piano Transcription" target="But Beautiful">
+  <data key="d0">0.8869917392730713</data>
+</edge>
+<edge source="Bud Powell ＂Polka Dots And Moonbeams ＂ Piano Transcription" target="Nutty">
+  <data key="d0">0.8200081586837769</data>
+</edge>
+<edge source="But Beautiful" target="Idle Moments (Rudy Van Gelder Edition ⧸ Remastered 1999)">
+  <data key="d0">0.9385163187980652</data>
+</edge>
+<edge source="But Beautiful" target="Say It (Over And Over Again)">
+  <data key="d0">0.9381058216094971</data>
+</edge>
+<edge source="But Beautiful" target="Now Please Don't You Cry, Beautiful Edith">
+  <data key="d0">0.9368559718132019</data>
+</edge>
+<edge source="But Beautiful" target="Duke Ellington &amp; John Coltrane - In a sentimental mood">
+  <data key="d0">0.925751805305481</data>
+</edge>
+<edge source="But Beautiful" target="Miles Davis   Kind Of Blue Full Album 1959">
+  <data key="d0">0.924964189529419</data>
+</edge>
+<edge source="But Beautiful" target="Miles Davis - Flamenco Sketches (Official Audio)">
+  <data key="d0">0.9234045147895813</data>
+</edge>
+<edge source="But Beautiful" target="Chet Baker - I fall in love too easily">
+  <data key="d0">0.8453673124313354</data>
+</edge>
+<edge source="But Beautiful" target="KENNY DORHAM - Alone Together [Vinyl Version]">
+  <data key="d0">0.9086136817932129</data>
+</edge>
+<edge source="But Beautiful" target="My Funny Valentine">
+  <data key="d0">0.8780746459960938</data>
+</edge>
+<edge source="But Beautiful" target="Turiya &amp; Ramakrishna">
+  <data key="d0">0.8980337977409363</data>
+</edge>
+<edge source="But Beautiful" target="Wes Montgomery - Days Of Wine And Roses (Official Audio)">
+  <data key="d0">0.757386326789856</data>
+</edge>
+<edge source="But Beautiful" target="When Sunny Gets Blue  McCoy Tyner">
+  <data key="d0">0.8874373435974121</data>
+</edge>
+<edge source="Cab Calloway - Minnie the Moocher ( Remastered 720p )" target="The Tattooed Bride">
+  <data key="d0">0.775061845779419</data>
+</edge>
+<edge source="Cab Calloway - Minnie the Moocher ( Remastered 720p )" target="Count Basie - Splanky - The Atomic Mr. Basie [1957]">
+  <data key="d0">0.7556688785552979</data>
+</edge>
+<edge source="Cab Calloway - Minnie the Moocher ( Remastered 720p )" target="Ella Fitzgerald Let No Man Write My Epitaph - Verve Acoustic Sounds Series">
+  <data key="d0">0.4091871976852417</data>
+</edge>
+<edge source="Cannonball Adderley Quintet - ＂Mercy, Mercy, Mercy＂ (1966)" target="Charles Mingus - Fables of Faubus">
+  <data key="d0">0.8683642745018005</data>
+</edge>
+<edge source="Cannonball Adderley Quintet - ＂Mercy, Mercy, Mercy＂ (1966)" target="Miles Davis   Kind Of Blue Full Album 1959">
+  <data key="d0">0.8572840690612793</data>
+</edge>
+<edge source="Cannonball Adderley Quintet - ＂Mercy, Mercy, Mercy＂ (1966)" target="Take Five">
+  <data key="d0">0.8523848652839661</data>
+</edge>
+<edge source="Cannonball Adderley Quintet - ＂Mercy, Mercy, Mercy＂ (1966)" target="Second Line">
+  <data key="d0">0.8470965623855591</data>
+</edge>
+<edge source="Cannonball Adderley Quintet - ＂Mercy, Mercy, Mercy＂ (1966)" target="Fly Me To The Moon (2008 Remastered)">
+  <data key="d0">0.8156663179397583</data>
+</edge>
+<edge source="Cannonball Adderley Quintet - ＂Mercy, Mercy, Mercy＂ (1966)" target="Memory Lane Music">
+  <data key="d0">0.7609987258911133</data>
+</edge>
+<edge source="Cannonball Adderley Quintet - ＂Mercy, Mercy, Mercy＂ (1966)" target="My Baby Just Cares for Me (2013 - Remaster)">
+  <data key="d0">0.8120931386947632</data>
+</edge>
+<edge source="Cannonball Adderley Quintet - ＂Mercy, Mercy, Mercy＂ (1966)" target="Ooo Baby Baby">
+  <data key="d0">0.6607205867767334</data>
+</edge>
+<edge source="Cannonball Adderley Quintet - ＂Mercy, Mercy, Mercy＂ (1966)" target="The Five Stairsteps - Come Back">
+  <data key="d0">0.6862269639968872</data>
+</edge>
+<edge source="Cannonball Adderley Quintet - ＂Mercy, Mercy, Mercy＂ (1966)" target="Weather Report - Birdland  (Heavy Weather - Legacy Project Official)">
+  <data key="d0">0.7469359636306763</data>
+</edge>
+<edge source="Cantaloupe Island (Remastered 1999⧸Rudy Van Gelder Edition)" target="Speak No Evil (Remastered1998⧸Rudy Van Gelder Edition)">
+  <data key="d0">0.9426504373550415</data>
+</edge>
+<edge source="Cantaloupe Island (Remastered 1999⧸Rudy Van Gelder Edition)" target="Footprints (Remastered)">
+  <data key="d0">0.9251748919487</data>
+</edge>
+<edge source="Cantaloupe Island (Remastered 1999⧸Rudy Van Gelder Edition)" target="Horace Silver - Song for My Father">
+  <data key="d0">0.9007826447486877</data>
+</edge>
+<edge source="Cantaloupe Island (Remastered 1999⧸Rudy Van Gelder Edition)" target="Duke Ellington &amp; John Coltrane - In a sentimental mood">
+  <data key="d0">0.8866456747055054</data>
+</edge>
+<edge source="Cantaloupe Island (Remastered 1999⧸Rudy Van Gelder Edition)" target="Questar">
+  <data key="d0">0.8808403015136719</data>
+</edge>
+<edge source="Cantaloupe Island (Remastered 1999⧸Rudy Van Gelder Edition)" target="Now Please Don't You Cry, Beautiful Edith">
+  <data key="d0">0.8760652542114258</data>
+</edge>
+<edge source="Chapter Six" target="My Lova">
+  <data key="d0">0.823643147945404</data>
+</edge>
+<edge source="Chapter Six" target="Larry June, 2 Chainz &amp; The Alchemist - Life Is Beautiful (Official Video)">
+  <data key="d0">0.763903021812439</data>
+</edge>
+<edge source="Chapter Six" target="J Dilla - Don't Cry">
+  <data key="d0">0.7520396709442139</data>
+</edge>
+<edge source="Chapter Six" target="On &amp; On">
+  <data key="d0">0.7190598249435425</data>
+</edge>
+<edge source="Chapter Six" target="Erykah Badu - Didn't Cha Know">
+  <data key="d0">0.7069115042686462</data>
+</edge>
+<edge source="Chapter Six" target="Selfish">
+  <data key="d0">0.7048975825309753</data>
+</edge>
+<edge source="Chapter Six" target="Ella Fitzgerald Let No Man Write My Epitaph - Verve Acoustic Sounds Series">
+  <data key="d0">0.3977104425430298</data>
+</edge>
+<edge source="Chapter Six" target="Loose Change (feat. Earl Sweatshirt)">
+  <data key="d0">0.6500123739242554</data>
+</edge>
+<edge source="Charles Mingus - Fables of Faubus" target="Miles Davis   Kind Of Blue Full Album 1959">
+  <data key="d0">0.969840407371521</data>
+</edge>
+<edge source="Charles Mingus - Fables of Faubus" target="So What">
+  <data key="d0">0.9591730237007141</data>
+</edge>
+<edge source="Charles Mingus - Fables of Faubus" target="Miles Davis - Freddie Freeloader (Official Audio)">
+  <data key="d0">0.958926796913147</data>
+</edge>
+<edge source="Charles Mingus - Fables of Faubus" target="Clifford Brown &amp; Max Roach - Joy Spring">
+  <data key="d0">0.9493598937988281</data>
+</edge>
+<edge source="Charles Mingus - Fables of Faubus" target="Count Basie - Splanky - The Atomic Mr. Basie [1957]">
+  <data key="d0">0.8486686944961548</data>
+</edge>
+<edge source="Charles Mingus - Fables of Faubus" target="I Ain't Got Nobody">
+  <data key="d0">0.8519691228866577</data>
+</edge>
+<edge source="Charles Mingus - Fables of Faubus" target="I Got Rhythm">
+  <data key="d0">0.90635085105896</data>
+</edge>
+<edge source="Charles Mingus - Fables of Faubus" target="It Don't Mean A Thing   Louis Armstrong &amp; Duke Ellington">
+  <data key="d0">0.8906368017196655</data>
+</edge>
+<edge source="Charles Mingus - Fables of Faubus" target="Makin' Whoopee (1998 Digital Remaster)">
+  <data key="d0">0.9387764930725098</data>
+</edge>
+<edge source="Charles Mingus - Fables of Faubus" target="Miles Davis - Flamenco Sketches (Official Audio)">
+  <data key="d0">0.9430855512619019</data>
+</edge>
+<edge source="Charles Mingus - Fables of Faubus" target="Prelude to a Kiss">
+  <data key="d0">0.9145536422729492</data>
+</edge>
+<edge source="Charles Mingus - Fables of Faubus" target="Second Line">
+  <data key="d0">0.8710005283355713</data>
+</edge>
+<edge source="Charles Mingus - Fables of Faubus" target="Someone to Watch Over Me">
+  <data key="d0">0.8548622131347656</data>
+</edge>
+<edge source="Charles Mingus - Fables of Faubus" target="St. Thomas from Sonny Rollins, Now's the Time, RCA Stereo, 1st Vinyl">
+  <data key="d0">0.8981987237930298</data>
+</edge>
+<edge source="Charles Mingus - Fables of Faubus" target="Straight, No Chaser">
+  <data key="d0">0.9345734119415283</data>
+</edge>
+<edge source="Charles Mingus - Fables of Faubus" target="Take Five">
+  <data key="d0">0.9120129346847534</data>
+</edge>
+<edge source="Charles Mingus - Fables of Faubus" target="The Tattooed Bride">
+  <data key="d0">0.9051413536071777</data>
+</edge>
+<edge source="Charles Mingus - Fables of Faubus" target="Walkin' Shoes">
+  <data key="d0">0.8643147349357605</data>
+</edge>
+<edge source="Charlie Parker - Scrapple From The Apple - The Complete Savoy &amp; Dial Master Takes" target="Clifford Brown &amp; Max Roach - Joy Spring">
+  <data key="d0">0.8448657989501953</data>
+</edge>
+<edge source="Charlie Parker - Scrapple From The Apple - The Complete Savoy &amp; Dial Master Takes" target="Ornithology">
+  <data key="d0">0.8252999782562256</data>
+</edge>
+<edge source="Charlie Parker - Scrapple From The Apple - The Complete Savoy &amp; Dial Master Takes" target="I Got Rhythm">
+  <data key="d0">0.8248521089553833</data>
+</edge>
+<edge source="Charlie Parker - Scrapple From The Apple - The Complete Savoy &amp; Dial Master Takes" target="Coleman Hawkins-Body and Soul">
+  <data key="d0">0.8026068806648254</data>
+</edge>
+<edge source="Charlie Parker - Scrapple From The Apple - The Complete Savoy &amp; Dial Master Takes" target="Duke Ellington - Take the a Train">
+  <data key="d0">0.7212792634963989</data>
+</edge>
+<edge source="Charlie Parker - Scrapple From The Apple - The Complete Savoy &amp; Dial Master Takes" target="Honeysuckle Rose">
+  <data key="d0">0.6926285624504089</data>
+</edge>
+<edge source="Charlie Parker - Scrapple From The Apple - The Complete Savoy &amp; Dial Master Takes" target="Perdido">
+  <data key="d0">0.7731525301933289</data>
+</edge>
+<edge source="Chet Baker - I fall in love too easily" target="Paul Desmond and Gerry Mulligan – Two Of A Mind – 1962 (Reel-to-Reel, 7½ ips)">
+  <data key="d0">0.8709506392478943</data>
+</edge>
+<edge source="Chet Baker - I fall in love too easily" target="I Remember Clifford (Rudy Van Gelder Edition ⧸ Remastered 2007)">
+  <data key="d0">0.8647764921188354</data>
+</edge>
+<edge source="Chet Baker - I fall in love too easily" target="Ruby My Dear (Remastered 2013)">
+  <data key="d0">0.8544014692306519</data>
+</edge>
+<edge source="Chet Baker - I fall in love too easily" target="KENNY DORHAM - Alone Together [Vinyl Version]">
+  <data key="d0">0.853468120098114</data>
+</edge>
+<edge source="Chet Baker - I fall in love too easily" target="Makin' Whoopee (1998 Digital Remaster)">
+  <data key="d0">0.8464756608009338</data>
+</edge>
+<edge source="Chick Corea：Crystal Silence" target="Dana and Alden Dragonfly ｜ Slowed&amp;Reverb ｜ 𝖙𝖔 𝖕𝖊𝖗𝖋𝖊𝖈𝖙𝖎𝖔𝖓">
+  <data key="d0">0.8093104362487793</data>
+</edge>
+<edge source="Chick Corea：Crystal Silence" target="Turiya &amp; Ramakrishna">
+  <data key="d0">0.764049768447876</data>
+</edge>
+<edge source="Chick Corea：Crystal Silence" target="Leven Kali - My Offer (Audio)">
+  <data key="d0">0.7629069089889526</data>
+</edge>
+<edge source="Chick Corea：Crystal Silence" target="Weather Report - Birdland  (Heavy Weather - Legacy Project Official)">
+  <data key="d0">0.7367464900016785</data>
+</edge>
+<edge source="Chick Corea：Crystal Silence" target="My Funny Valentine">
+  <data key="d0">0.7232143878936768</data>
+</edge>
+<edge source="Chick Corea：Crystal Silence" target="Cortex - Prélude à 'Go Round' (Out Of Phase Stereo)">
+  <data key="d0">0.5780209302902222</data>
+</edge>
+<edge source="Chick Corea：Crystal Silence" target="Mac Demarco - Some Other Ones (FULL ALBUM)">
+  <data key="d0">0.6349092721939087</data>
+</edge>
+<edge source="Chick Corea：Crystal Silence" target="Watermelon Man">
+  <data key="d0">0.7224539518356323</data>
+</edge>
+<edge source="Chick Corea：Crystal Silence" target="＂Lenore＂ Chick Corea's The Leprechaun 1976 album.">
+  <data key="d0">0.7112773060798645</data>
+</edge>
+<edge source="Clifford Brown &amp; Max Roach - Joy Spring" target="Makin' Whoopee (1998 Digital Remaster)">
+  <data key="d0">0.9337074160575867</data>
+</edge>
+<edge source="Clifford Brown &amp; Max Roach - Joy Spring" target="Miles Davis   Kind Of Blue Full Album 1959">
+  <data key="d0">0.9317793846130371</data>
+</edge>
+<edge source="Clifford Brown &amp; Max Roach - Joy Spring" target="Straight, No Chaser">
+  <data key="d0">0.9287057518959045</data>
+</edge>
+<edge source="Clifford Brown &amp; Max Roach - Joy Spring" target="I Got Rhythm">
+  <data key="d0">0.9250045418739319</data>
+</edge>
+<edge source="Clifford Brown &amp; Max Roach - Joy Spring" target="I Can't Give You Anything But Love">
+  <data key="d0">0.9044384956359863</data>
+</edge>
+<edge source="Clifford Brown &amp; Max Roach - Joy Spring" target="Lester Leaps In">
+  <data key="d0">0.8411953449249268</data>
+</edge>
+<edge source="Clifford Brown &amp; Max Roach - Joy Spring" target="Paul Desmond and Gerry Mulligan – Two Of A Mind – 1962 (Reel-to-Reel, 7½ ips)">
+  <data key="d0">0.9090121984481812</data>
+</edge>
+<edge source="Clifford Brown &amp; Max Roach - Joy Spring" target="Perdido">
+  <data key="d0">0.7582905292510986</data>
+</edge>
+<edge source="Clifford Brown &amp; Max Roach - Joy Spring" target="Walkin' Shoes">
+  <data key="d0">0.9216196537017822</data>
+</edge>
+<edge source="Clifford Brown &amp; Max Roach - Joy Spring" target="Wes Montgomery - In Your Own Sweet Way (Official Audio)">
+  <data key="d0">0.8851950168609619</data>
+</edge>
+<edge source="Coleman Hawkins-Body and Soul" target="Ornithology">
+  <data key="d0">0.8123140931129456</data>
+</edge>
+<edge source="Coleman Hawkins-Body and Soul" target="I'm In The Mood For Love">
+  <data key="d0">0.8026441335678101</data>
+</edge>
+<edge source="Coleman Hawkins-Body and Soul" target="Duke Ellington - Take the a Train">
+  <data key="d0">0.7194257974624634</data>
+</edge>
+<edge source="Coleman Hawkins-Body and Soul" target="I'll Never Smile Again">
+  <data key="d0">0.7277417778968811</data>
+</edge>
+<edge source="Cortex - Prélude à 'Go Round' (Out Of Phase Stereo)" target="Watermelon Man">
+  <data key="d0">0.7022403478622437</data>
+</edge>
+<edge source="Cortex - Prélude à 'Go Round' (Out Of Phase Stereo)" target="Weather Report - Birdland  (Heavy Weather - Legacy Project Official)">
+  <data key="d0">0.6826727986335754</data>
+</edge>
+<edge source="Cortex - Prélude à 'Go Round' (Out Of Phase Stereo)" target="Stark's Reality">
+  <data key="d0">0.6766559481620789</data>
+</edge>
+<edge source="Cortex - Prélude à 'Go Round' (Out Of Phase Stereo)" target="Khruangbin - Friday Morning (Official Video)">
+  <data key="d0">0.6125709414482117</data>
+</edge>
+<edge source="Cortex - Prélude à 'Go Round' (Out Of Phase Stereo)" target="Mac Demarco - Some Other Ones (FULL ALBUM)">
+  <data key="d0">0.6100184917449951</data>
+</edge>
+<edge source="Count Basie - Splanky - The Atomic Mr. Basie [1957]" target="The Tattooed Bride">
+  <data key="d0">0.8834714293479919</data>
+</edge>
+<edge source="Count Basie - Splanky - The Atomic Mr. Basie [1957]" target="It Don't Mean A Thing   Louis Armstrong &amp; Duke Ellington">
+  <data key="d0">0.860280454158783</data>
+</edge>
+<edge source="Count Basie - Splanky - The Atomic Mr. Basie [1957]" target="Makin' Whoopee (1998 Digital Remaster)">
+  <data key="d0">0.8493918180465698</data>
+</edge>
+<edge source="Count Basie - Splanky - The Atomic Mr. Basie [1957]" target="Fly Me To The Moon (2008 Remastered)">
+  <data key="d0">0.8145557641983032</data>
+</edge>
+<edge source="Count Basie - Splanky - The Atomic Mr. Basie [1957]" target="Glenn Miller - In The Mood ｜ Colorized (1941) 4K">
+  <data key="d0">0.7386459708213806</data>
+</edge>
+<edge source="Count Basie - Splanky - The Atomic Mr. Basie [1957]" target="My Baby Just Cares for Me (2013 - Remaster)">
+  <data key="d0">0.7713830471038818</data>
+</edge>
+<edge source="Count Basie - Splanky - The Atomic Mr. Basie [1957]" target="Stompin At The Savoy">
+  <data key="d0">0.8356974124908447</data>
+</edge>
+<edge source="Dana and Alden Dragonfly ｜ Slowed&amp;Reverb ｜ 𝖙𝖔 𝖕𝖊𝖗𝖋𝖊𝖈𝖙𝖎𝖔𝖓" target="Leven Kali - My Offer (Audio)">
+  <data key="d0">0.7358151078224182</data>
+</edge>
+<edge source="Dana and Alden Dragonfly ｜ Slowed&amp;Reverb ｜ 𝖙𝖔 𝖕𝖊𝖗𝖋𝖊𝖈𝖙𝖎𝖔𝖓" target="Turiya &amp; Ramakrishna">
+  <data key="d0">0.720466136932373</data>
+</edge>
+<edge source="Dana and Alden Dragonfly ｜ Slowed&amp;Reverb ｜ 𝖙𝖔 𝖕𝖊𝖗𝖋𝖊𝖈𝖙𝖎𝖔𝖓" target="My Funny Valentine">
+  <data key="d0">0.689875602722168</data>
+</edge>
+<edge source="Dana and Alden Dragonfly ｜ Slowed&amp;Reverb ｜ 𝖙𝖔 𝖕𝖊𝖗𝖋𝖊𝖈𝖙𝖎𝖔𝖓" target="＂Lenore＂ Chick Corea's The Leprechaun 1976 album.">
+  <data key="d0">0.6592812538146973</data>
+</edge>
+<edge source="Dana and Alden Dragonfly ｜ Slowed&amp;Reverb ｜ 𝖙𝖔 𝖕𝖊𝖗𝖋𝖊𝖈𝖙𝖎𝖔𝖓" target="Mac Demarco - Some Other Ones (FULL ALBUM)">
+  <data key="d0">0.6135023832321167</data>
+</edge>
+<edge source="Dizzy's Business (2005 Digital Remaster⧸Live At International Jazz Festival, Comblain-La-Tour,..." target="Sonny Rollins Quartet - Tenor Madness (Official Audio)">
+  <data key="d0">0.9349316358566284</data>
+</edge>
+<edge source="Dizzy's Business (2005 Digital Remaster⧸Live At International Jazz Festival, Comblain-La-Tour,..." target="Miles Davis - Freddie Freeloader (Official Audio)">
+  <data key="d0">0.908776044845581</data>
+</edge>
+<edge source="Dizzy's Business (2005 Digital Remaster⧸Live At International Jazz Festival, Comblain-La-Tour,..." target="So What">
+  <data key="d0">0.904895544052124</data>
+</edge>
+<edge source="Dizzy's Business (2005 Digital Remaster⧸Live At International Jazz Festival, Comblain-La-Tour,..." target="Straight, No Chaser">
+  <data key="d0">0.9037965536117554</data>
+</edge>
+<edge source="Duke Ellington &amp; John Coltrane - In a sentimental mood" target="Now Please Don't You Cry, Beautiful Edith">
+  <data key="d0">0.9720573425292969</data>
+</edge>
+<edge source="Duke Ellington &amp; John Coltrane - In a sentimental mood" target="Miles Davis   Kind Of Blue Full Album 1959">
+  <data key="d0">0.9600076079368591</data>
+</edge>
+<edge source="Duke Ellington &amp; John Coltrane - In a sentimental mood" target="So What">
+  <data key="d0">0.9480737447738647</data>
+</edge>
+<edge source="Duke Ellington &amp; John Coltrane - In a sentimental mood" target="Miles Davis - Flamenco Sketches (Official Audio)">
+  <data key="d0">0.9416379928588867</data>
+</edge>
+<edge source="Duke Ellington &amp; John Coltrane - In a sentimental mood" target="Miles Davis - Freddie Freeloader (Official Audio)">
+  <data key="d0">0.9394741058349609</data>
+</edge>
+<edge source="Duke Ellington &amp; John Coltrane - In a sentimental mood" target="Footprints (Remastered)">
+  <data key="d0">0.9314883351325989</data>
+</edge>
+<edge source="Duke Ellington &amp; John Coltrane - In a sentimental mood" target="Have you heard">
+  <data key="d0">0.7281703352928162</data>
+</edge>
+<edge source="Duke Ellington &amp; John Coltrane - In a sentimental mood" target="Horace Silver - Song for My Father">
+  <data key="d0">0.8649450540542603</data>
+</edge>
+<edge source="Duke Ellington &amp; John Coltrane - In a sentimental mood" target="Idle Moments (Rudy Van Gelder Edition ⧸ Remastered 1999)">
+  <data key="d0">0.9301121234893799</data>
+</edge>
+<edge source="Duke Ellington &amp; John Coltrane - In a sentimental mood" target="Manhã de Carnaval">
+  <data key="d0">0.6148885488510132</data>
+</edge>
+<edge source="Duke Ellington &amp; John Coltrane - In a sentimental mood" target="Paul Desmond ⧸ Bossa Antigua">
+  <data key="d0">0.8060520887374878</data>
+</edge>
+<edge source="Duke Ellington &amp; John Coltrane - In a sentimental mood" target="Questar">
+  <data key="d0">0.8956650495529175</data>
+</edge>
+<edge source="Duke Ellington &amp; John Coltrane - In a sentimental mood" target="Say It (Over And Over Again)">
+  <data key="d0">0.9335106611251831</data>
+</edge>
+<edge source="Duke Ellington &amp; John Coltrane - In a sentimental mood" target="Senor Blues">
+  <data key="d0">0.9200021624565125</data>
+</edge>
+<edge source="Duke Ellington &amp; John Coltrane - In a sentimental mood" target="Speak No Evil (Remastered1998⧸Rudy Van Gelder Edition)">
+  <data key="d0">0.913163959980011</data>
+</edge>
+<edge source="Duke Ellington &amp; John Coltrane - In a sentimental mood" target="St. Thomas from Sonny Rollins, Now's the Time, RCA Stereo, 1st Vinyl">
+  <data key="d0">0.8970850110054016</data>
+</edge>
+<edge source="Duke Ellington &amp; John Coltrane - In a sentimental mood" target="The Girl From Ipanema (Mono Version)">
+  <data key="d0">0.7012842893600464</data>
+</edge>
+<edge source="Duke Ellington - Take the a Train" target="Honeysuckle Rose">
+  <data key="d0">0.7260833978652954</data>
+</edge>
+<edge source="Duke Ellington - Take the a Train" target="The Tattooed Bride">
+  <data key="d0">0.7228736281394958</data>
+</edge>
+<edge source="Ella Fitzgerald Let No Man Write My Epitaph - Verve Acoustic Sounds Series" target="Larry June, 2 Chainz &amp; The Alchemist - Life Is Beautiful (Official Video)">
+  <data key="d0">0.4527750611305237</data>
+</edge>
+<edge source="Ella Fitzgerald Let No Man Write My Epitaph - Verve Acoustic Sounds Series" target="Leven Kali - My Offer (Audio)">
+  <data key="d0">0.40853214263916016</data>
+</edge>
+<edge source="Ella Fitzgerald Let No Man Write My Epitaph - Verve Acoustic Sounds Series" target="Food">
+  <data key="d0">0.4083002209663391</data>
+</edge>
+<edge source="Ella Fitzgerald Let No Man Write My Epitaph - Verve Acoustic Sounds Series" target="Selfish">
+  <data key="d0">0.3979845643043518</data>
+</edge>
+<edge source="Erroll Garner Sunny" target="Horace Silver - Song for My Father">
+  <data key="d0">0.8916856050491333</data>
+</edge>
+<edge source="Erroll Garner Sunny" target="Senor Blues">
+  <data key="d0">0.8801133036613464</data>
+</edge>
+<edge source="Erroll Garner Sunny" target="Idle Moments (Rudy Van Gelder Edition ⧸ Remastered 1999)">
+  <data key="d0">0.866779088973999</data>
+</edge>
+<edge source="Erroll Garner Sunny" target="Paul Desmond ⧸ Bossa Antigua">
+  <data key="d0">0.8534692525863647</data>
+</edge>
+<edge source="Erroll Garner Sunny" target="The Girl From Ipanema (Mono Version)">
+  <data key="d0">0.7693455815315247</data>
+</edge>
+<edge source="Erykah Badu - Didn't Cha Know" target="My Lova">
+  <data key="d0">0.8253849744796753</data>
+</edge>
+<edge source="Erykah Badu - Didn't Cha Know" target="Orange Moon">
+  <data key="d0">0.8200923800468445</data>
+</edge>
+<edge source="Erykah Badu - Didn't Cha Know" target="On &amp; On">
+  <data key="d0">0.7325586080551147</data>
+</edge>
+<edge source="Erykah Badu - Didn't Cha Know" target="J Dilla - Don't Cry">
+  <data key="d0">0.6412123441696167</data>
+</edge>
+<edge source="Fly Me To The Moon (2008 Remastered)" target="My Baby Just Cares for Me (2013 - Remaster)">
+  <data key="d0">0.8274571895599365</data>
+</edge>
+<edge source="Fly Me To The Moon (2008 Remastered)" target="It Don't Mean A Thing   Louis Armstrong &amp; Duke Ellington">
+  <data key="d0">0.7803667187690735</data>
+</edge>
+<edge source="Fly Me To The Moon (2008 Remastered)" target="The Tattooed Bride">
+  <data key="d0">0.776329755783081</data>
+</edge>
+<edge source="Food" target="Stark's Reality">
+  <data key="d0">0.6852293610572815</data>
+</edge>
+<edge source="Food" target="Loose Change (feat. Earl Sweatshirt)">
+  <data key="d0">0.6757566928863525</data>
+</edge>
+<edge source="Food" target="Selfish">
+  <data key="d0">0.6755006313323975</data>
+</edge>
+<edge source="Food" target="Watermelon Man">
+  <data key="d0">0.6716142892837524</data>
+</edge>
+<edge source="Food" target="Larry June, 2 Chainz &amp; The Alchemist - Life Is Beautiful (Official Video)">
+  <data key="d0">0.6650083065032959</data>
+</edge>
+<edge source="Food" target="Khruangbin - Friday Morning (Official Video)">
+  <data key="d0">0.6642342805862427</data>
+</edge>
+<edge source="Footprints (Remastered)" target="Speak No Evil (Remastered1998⧸Rudy Van Gelder Edition)">
+  <data key="d0">0.9673154950141907</data>
+</edge>
+<edge source="Footprints (Remastered)" target="Now Please Don't You Cry, Beautiful Edith">
+  <data key="d0">0.9282405972480774</data>
+</edge>
+<edge source="Footprints (Remastered)" target="Questar">
+  <data key="d0">0.9231462478637695</data>
+</edge>
+<edge source="Footprints (Remastered)" target="John Coltrane - Giant Steps (2020 Remaster) [Official Audio]">
+  <data key="d0">0.9060039520263672</data>
+</edge>
+<edge source="Footprints (Remastered)" target="John McLaughlin">
+  <data key="d0">0.8219337463378906</data>
+</edge>
+<edge source="Footprints (Remastered)" target="My Favorite Things (Stereo) (2022 Remaster)">
+  <data key="d0">0.8464375734329224</data>
+</edge>
+<edge source="Frank Sinatra - The world we knew (over and over)" target="The Five Stairsteps - Come Back">
+  <data key="d0">0.8175323605537415</data>
+</edge>
+<edge source="Frank Sinatra - The world we knew (over and over)" target="Memory Lane Music">
+  <data key="d0">0.8102153539657593</data>
+</edge>
+<edge source="Frank Sinatra - The world we knew (over and over)" target="Ooo Baby Baby">
+  <data key="d0">0.7900410890579224</data>
+</edge>
+<edge source="Frank Sinatra - The world we knew (over and over)" target="Willow Weep For Me">
+  <data key="d0">0.7775682210922241</data>
+</edge>
+<edge source="Frank Sinatra - The world we knew (over and over)" target="Royal Blue (1995 Remastered)">
+  <data key="d0">0.7367197275161743</data>
+</edge>
+<edge source="F・L・Y" target="Rock With You">
+  <data key="d0">0.671097457408905</data>
+</edge>
+<edge source="F・L・Y" target="Patti LaBelle - If Only You Knew (Audio)">
+  <data key="d0">0.6458218097686768</data>
+</edge>
+<edge source="F・L・Y" target="Weather Report - Birdland  (Heavy Weather - Legacy Project Official)">
+  <data key="d0">0.558323085308075</data>
+</edge>
+<edge source="F・L・Y" target="Memory Lane Music">
+  <data key="d0">0.5277999043464661</data>
+</edge>
+<edge source="F・L・Y" target="Watermelon Man">
+  <data key="d0">0.5118700265884399</data>
+</edge>
+<edge source="Glenn Miller - In The Mood ｜ Colorized (1941) 4K" target="The Tattooed Bride">
+  <data key="d0">0.7687098979949951</data>
+</edge>
+<edge source="Glenn Miller - In The Mood ｜ Colorized (1941) 4K" target="Royal Blue (1995 Remastered)">
+  <data key="d0">0.7310003638267517</data>
+</edge>
+<edge source="Glenn Miller - In The Mood ｜ Colorized (1941) 4K" target="Prelude to a Kiss">
+  <data key="d0">0.7304596900939941</data>
+</edge>
+<edge source="Glenn Miller - In The Mood ｜ Colorized (1941) 4K" target="It Don't Mean A Thing   Louis Armstrong &amp; Duke Ellington">
+  <data key="d0">0.7254056930541992</data>
+</edge>
+<edge source="Hank Mobley - Remember" target="Sonny Rollins Quartet - Tenor Madness (Official Audio)">
+  <data key="d0">0.9449458718299866</data>
+</edge>
+<edge source="Hank Mobley - Remember" target="I Remember Clifford (Rudy Van Gelder Edition ⧸ Remastered 2007)">
+  <data key="d0">0.9074618220329285</data>
+</edge>
+<edge source="Hank Mobley - Remember" target="I Can't Give You Anything But Love">
+  <data key="d0">0.9027829170227051</data>
+</edge>
+<edge source="Hank Mobley - Remember" target="Now Please Don't You Cry, Beautiful Edith">
+  <data key="d0">0.9024021625518799</data>
+</edge>
+<edge source="Hank Mobley - Remember" target="Nutty">
+  <data key="d0">0.8527528643608093</data>
+</edge>
+<edge source="Hank Mobley - Remember" target="Red Garland - Almost Like Being In Love (Official Audio)">
+  <data key="d0">0.9007725119590759</data>
+</edge>
+<edge source="Have you heard" target="Weather Report - Birdland  (Heavy Weather - Legacy Project Official)">
+  <data key="d0">0.7698022723197937</data>
+</edge>
+<edge source="Have you heard" target="My Favorite Things (Stereo) (2022 Remaster)">
+  <data key="d0">0.7611809372901917</data>
+</edge>
+<edge source="Have you heard" target="Paul Desmond ⧸ Bossa Antigua">
+  <data key="d0">0.7475495338439941</data>
+</edge>
+<edge source="Have you heard" target="My Funny Valentine">
+  <data key="d0">0.7427926659584045</data>
+</edge>
+<edge source="Honeysuckle Rose" target="I'm In The Mood For Love">
+  <data key="d0">0.7071702480316162</data>
+</edge>
+<edge source="Honeysuckle Rose" target="Ornithology">
+  <data key="d0">0.7064656019210815</data>
+</edge>
+<edge source="Honeysuckle Rose" target="Lester Leaps In">
+  <data key="d0">0.6985301971435547</data>
+</edge>
+<edge source="Horace Silver - Song for My Father" target="Speak No Evil (Remastered1998⧸Rudy Van Gelder Edition)">
+  <data key="d0">0.8771975040435791</data>
+</edge>
+<edge source="I Ain't Got Nobody" target="The Tattooed Bride">
+  <data key="d0">0.889317512512207</data>
+</edge>
+<edge source="I Ain't Got Nobody" target="Makin' Whoopee (1998 Digital Remaster)">
+  <data key="d0">0.8759124875068665</data>
+</edge>
+<edge source="I Ain't Got Nobody" target="It Don't Mean A Thing   Louis Armstrong &amp; Duke Ellington">
+  <data key="d0">0.8600220084190369</data>
+</edge>
+<edge source="I Ain't Got Nobody" target="I'm In The Mood For Love">
+  <data key="d0">0.801926851272583</data>
+</edge>
+<edge source="I Ain't Got Nobody" target="Stompin At The Savoy">
+  <data key="d0">0.8414792418479919</data>
+</edge>
+<edge source="I Can't Give You Anything But Love" target="Idle Moments (Rudy Van Gelder Edition ⧸ Remastered 1999)">
+  <data key="d0">0.9279659390449524</data>
+</edge>
+<edge source="I Can't Give You Anything But Love" target="Miles Davis - Freddie Freeloader (Official Audio)">
+  <data key="d0">0.9084826707839966</data>
+</edge>
+<edge source="I Can't Give You Anything But Love" target="Paul Desmond and Gerry Mulligan – Two Of A Mind – 1962 (Reel-to-Reel, 7½ ips)">
+  <data key="d0">0.9031016230583191</data>
+</edge>
+<edge source="I Can't Give You Anything But Love" target="My Baby Just Cares for Me (2013 - Remaster)">
+  <data key="d0">0.7922561168670654</data>
+</edge>
+<edge source="I Got It Bad (And That Ain't Good) (Live)" target="Wes Montgomery - In Your Own Sweet Way (Official Audio)">
+  <data key="d0">0.889723539352417</data>
+</edge>
+<edge source="I Got It Bad (And That Ain't Good) (Live)" target="Miles Davis - Flamenco Sketches (Official Audio)">
+  <data key="d0">0.8787127137184143</data>
+</edge>
+<edge source="I Got It Bad (And That Ain't Good) (Live)" target="Miles Davis   Kind Of Blue Full Album 1959">
+  <data key="d0">0.856657862663269</data>
+</edge>
+<edge source="I Got It Bad (And That Ain't Good) (Live)" target="Someone to Watch Over Me">
+  <data key="d0">0.8547102212905884</data>
+</edge>
+<edge source="I Got It Bad (And That Ain't Good) (Live)" target="Prelude to a Kiss">
+  <data key="d0">0.8518252372741699</data>
+</edge>
+<edge source="I Got Rhythm" target="Miles Davis   Kind Of Blue Full Album 1959">
+  <data key="d0">0.904567539691925</data>
+</edge>
+<edge source="I Got Rhythm" target="Straight, No Chaser">
+  <data key="d0">0.8920950293540955</data>
+</edge>
+<edge source="I Got Rhythm" target="Walkin' Shoes">
+  <data key="d0">0.8739837408065796</data>
+</edge>
+<edge source="I Remember Clifford (Rudy Van Gelder Edition ⧸ Remastered 2007)" target="Say It (Over And Over Again)">
+  <data key="d0">0.9240622520446777</data>
+</edge>
+<edge source="I Remember Clifford (Rudy Van Gelder Edition ⧸ Remastered 2007)" target="Now Please Don't You Cry, Beautiful Edith">
+  <data key="d0">0.921725869178772</data>
+</edge>
+<edge source="I Remember Clifford (Rudy Van Gelder Edition ⧸ Remastered 2007)" target="KENNY DORHAM - Alone Together [Vinyl Version]">
+  <data key="d0">0.9143732786178589</data>
+</edge>
+<edge source="I Remember Clifford (Rudy Van Gelder Edition ⧸ Remastered 2007)" target="Makin' Whoopee (1998 Digital Remaster)">
+  <data key="d0">0.908943772315979</data>
+</edge>
+<edge source="I Remember Clifford (Rudy Van Gelder Edition ⧸ Remastered 2007)" target="Paul Desmond and Gerry Mulligan – Two Of A Mind – 1962 (Reel-to-Reel, 7½ ips)">
+  <data key="d0">0.9086271524429321</data>
+</edge>
+<edge source="I Remember Clifford (Rudy Van Gelder Edition ⧸ Remastered 2007)" target="Walkin' Shoes">
+  <data key="d0">0.8913359045982361</data>
+</edge>
+<edge source="I'll Never Smile Again" target="I'm In The Mood For Love">
+  <data key="d0">0.7234868407249451</data>
+</edge>
+<edge source="I'll Never Smile Again" target="Sarah Vaughan's Golden Hits - Misty ⧸ Mercury  1961">
+  <data key="d0">0.6260452270507812</data>
+</edge>
+<edge source="I'm In The Mood For Love" target="Ornithology">
+  <data key="d0">0.82061767578125</data>
+</edge>
+<edge source="Idle Moments (Rudy Van Gelder Edition ⧸ Remastered 1999)" target="Say It (Over And Over Again)">
+  <data key="d0">0.9549229741096497</data>
+</edge>
+<edge source="Idle Moments (Rudy Van Gelder Edition ⧸ Remastered 1999)" target="KENNY DORHAM - Alone Together [Vinyl Version]">
+  <data key="d0">0.9082022905349731</data>
+</edge>
+<edge source="Idle Moments (Rudy Van Gelder Edition ⧸ Remastered 1999)" target="Paul Desmond and Gerry Mulligan – Two Of A Mind – 1962 (Reel-to-Reel, 7½ ips)">
+  <data key="d0">0.9172796010971069</data>
+</edge>
+<edge source="Idle Moments (Rudy Van Gelder Edition ⧸ Remastered 1999)" target="Red Garland - Almost Like Being In Love (Official Audio)">
+  <data key="d0">0.8870459198951721</data>
+</edge>
+<edge source="Idle Moments (Rudy Van Gelder Edition ⧸ Remastered 1999)" target="When Sunny Gets Blue  McCoy Tyner">
+  <data key="d0">0.9072344303131104</data>
+</edge>
+<edge source="It Don't Mean A Thing   Louis Armstrong &amp; Duke Ellington" target="Second Line">
+  <data key="d0">0.8923656940460205</data>
+</edge>
+<edge source="It Don't Mean A Thing   Louis Armstrong &amp; Duke Ellington" target="The Tattooed Bride">
+  <data key="d0">0.8862839937210083</data>
+</edge>
+<edge source="J Dilla - Don't Cry" target="Larry June, 2 Chainz &amp; The Alchemist - Life Is Beautiful (Official Video)">
+  <data key="d0">0.8177053928375244</data>
+</edge>
+<edge source="J Dilla - Don't Cry" target="On &amp; On">
+  <data key="d0">0.7575370669364929</data>
+</edge>
+<edge source="J Dilla - Don't Cry" target="Selfish">
+  <data key="d0">0.7428252696990967</data>
+</edge>
+<edge source="J Dilla - Don't Cry" target="Loose Change (feat. Earl Sweatshirt)">
+  <data key="d0">0.7089464664459229</data>
+</edge>
+<edge source="J Dilla - Don't Cry" target="My Lova">
+  <data key="d0">0.7314229011535645</data>
+</edge>
+<edge source="John Coltrane - Giant Steps (2020 Remaster) [Official Audio]" target="Straight, No Chaser">
+  <data key="d0">0.9157927632331848</data>
+</edge>
+<edge source="John Coltrane - Giant Steps (2020 Remaster) [Official Audio]" target="So What">
+  <data key="d0">0.9035701155662537</data>
+</edge>
+<edge source="John Coltrane - Giant Steps (2020 Remaster) [Official Audio]" target="Miles Davis   Kind Of Blue Full Album 1959">
+  <data key="d0">0.8972286581993103</data>
+</edge>
+<edge source="John Coltrane - Giant Steps (2020 Remaster) [Official Audio]" target="Speak No Evil (Remastered1998⧸Rudy Van Gelder Edition)">
+  <data key="d0">0.8959202766418457</data>
+</edge>
+<edge source="John Coltrane - Giant Steps (2020 Remaster) [Official Audio]" target="My Favorite Things (Stereo) (2022 Remaster)">
+  <data key="d0">0.8582000732421875</data>
+</edge>
+<edge source="John McLaughlin" target="Questar">
+  <data key="d0">0.8364206552505493</data>
+</edge>
+<edge source="John McLaughlin" target="My Favorite Things (Stereo) (2022 Remaster)">
+  <data key="d0">0.8351531028747559</data>
+</edge>
+<edge source="John McLaughlin" target="Straight, No Chaser">
+  <data key="d0">0.811662495136261</data>
+</edge>
+<edge source="John McLaughlin" target="Speak No Evil (Remastered1998⧸Rudy Van Gelder Edition)">
+  <data key="d0">0.8013362288475037</data>
+</edge>
+<edge source="John McLaughlin" target="＂Lenore＂ Chick Corea's The Leprechaun 1976 album.">
+  <data key="d0">0.6837107539176941</data>
+</edge>
+<edge source="KENNY DORHAM - Alone Together [Vinyl Version]" target="Say It (Over And Over Again)">
+  <data key="d0">0.9291483163833618</data>
+</edge>
+<edge source="KENNY DORHAM - Alone Together [Vinyl Version]" target="Paul Desmond and Gerry Mulligan – Two Of A Mind – 1962 (Reel-to-Reel, 7½ ips)">
+  <data key="d0">0.9249411225318909</data>
+</edge>
+<edge source="KENNY DORHAM - Alone Together [Vinyl Version]" target="Miles Davis - Flamenco Sketches (Official Audio)">
+  <data key="d0">0.9067001342773438</data>
+</edge>
+<edge source="KENNY DORHAM - Alone Together [Vinyl Version]" target="My Funny Valentine">
+  <data key="d0">0.847928524017334</data>
+</edge>
+<edge source="KENNY DORHAM - Alone Together [Vinyl Version]" target="Ruby My Dear (Remastered 2013)">
+  <data key="d0">0.8610033988952637</data>
+</edge>
+<edge source="KENNY DORHAM - Alone Together [Vinyl Version]" target="Turiya &amp; Ramakrishna">
+  <data key="d0">0.8640472292900085</data>
+</edge>
+<edge source="KENNY DORHAM - Alone Together [Vinyl Version]" target="Vince Guaraldi Trio - Moon River (Official Audio)">
+  <data key="d0">0.8642282485961914</data>
+</edge>
+<edge source="KENNY DORHAM - Alone Together [Vinyl Version]" target="Wes Montgomery - Days Of Wine And Roses (Official Audio)">
+  <data key="d0">0.7680045366287231</data>
+</edge>
+<edge source="KENNY DORHAM - Alone Together [Vinyl Version]" target="When Sunny Gets Blue  McCoy Tyner">
+  <data key="d0">0.8811581134796143</data>
+</edge>
+<edge source="Khruangbin - Friday Morning (Official Video)" target="Mac Demarco - Some Other Ones (FULL ALBUM)">
+  <data key="d0">0.7575206756591797</data>
+</edge>
+<edge source="Khruangbin - Friday Morning (Official Video)" target="Watermelon Man">
+  <data key="d0">0.7073515057563782</data>
+</edge>
+<edge source="Khruangbin - Friday Morning (Official Video)" target="Stark's Reality">
+  <data key="d0">0.7013938426971436</data>
+</edge>
+<edge source="Khruangbin - Friday Morning (Official Video)" target="Orange Moon">
+  <data key="d0">0.6313852667808533</data>
+</edge>
+<edge source="Khruangbin - Friday Morning (Official Video)" target="Leven Kali - My Offer (Audio)">
+  <data key="d0">0.6283142566680908</data>
+</edge>
+<edge source="Larry June, 2 Chainz &amp; The Alchemist - Life Is Beautiful (Official Video)" target="Selfish">
+  <data key="d0">0.7629228234291077</data>
+</edge>
+<edge source="Larry June, 2 Chainz &amp; The Alchemist - Life Is Beautiful (Official Video)" target="On &amp; On">
+  <data key="d0">0.7380288243293762</data>
+</edge>
+<edge source="Larry June, 2 Chainz &amp; The Alchemist - Life Is Beautiful (Official Video)" target="Loose Change (feat. Earl Sweatshirt)">
+  <data key="d0">0.7291997671127319</data>
+</edge>
+<edge source="Lester Leaps In" target="The Tattooed Bride">
+  <data key="d0">0.8910309672355652</data>
+</edge>
+<edge source="Lester Leaps In" target="Stompin At The Savoy">
+  <data key="d0">0.8590682744979858</data>
+</edge>
+<edge source="Lester Leaps In" target="Makin' Whoopee (1998 Digital Remaster)">
+  <data key="d0">0.8556067943572998</data>
+</edge>
+<edge source="Leven Kali - My Offer (Audio)" target="My Funny Valentine">
+  <data key="d0">0.8015433549880981</data>
+</edge>
+<edge source="Leven Kali - My Offer (Audio)" target="Wake The Baby">
+  <data key="d0">0.7903673648834229</data>
+</edge>
+<edge source="Leven Kali - My Offer (Audio)" target="Turiya &amp; Ramakrishna">
+  <data key="d0">0.7717698812484741</data>
+</edge>
+<edge source="Leven Kali - My Offer (Audio)" target="Orange Moon">
+  <data key="d0">0.7676518559455872</data>
+</edge>
+<edge source="Leven Kali - My Offer (Audio)" target="My Favorite Things (Stereo) (2022 Remaster)">
+  <data key="d0">0.7654197216033936</data>
+</edge>
+<edge source="Leven Kali - My Offer (Audio)" target="Mac Demarco - Some Other Ones (FULL ALBUM)">
+  <data key="d0">0.6158875823020935</data>
+</edge>
+<edge source="Leven Kali - My Offer (Audio)" target="Manhã de Carnaval">
+  <data key="d0">0.614251971244812</data>
+</edge>
+<edge source="Leven Kali - My Offer (Audio)" target="Patti LaBelle - If Only You Knew (Audio)">
+  <data key="d0">0.6147271990776062</data>
+</edge>
+<edge source="Leven Kali - My Offer (Audio)" target="Stark's Reality">
+  <data key="d0">0.7067695260047913</data>
+</edge>
+<edge source="Leven Kali - My Offer (Audio)" target="Watermelon Man">
+  <data key="d0">0.7402326464653015</data>
+</edge>
+<edge source="Leven Kali - My Offer (Audio)" target="＂Lenore＂ Chick Corea's The Leprechaun 1976 album.">
+  <data key="d0">0.7160066366195679</data>
+</edge>
+<edge source="Loose Change (feat. Earl Sweatshirt)" target="Selfish">
+  <data key="d0">0.6899082660675049</data>
+</edge>
+<edge source="Loose Change (feat. Earl Sweatshirt)" target="Watermelon Man">
+  <data key="d0">0.6783472895622253</data>
+</edge>
+<edge source="Mac Demarco - Some Other Ones (FULL ALBUM)" target="Watermelon Man">
+  <data key="d0">0.628142237663269</data>
+</edge>
+<edge source="Mac Demarco - Some Other Ones (FULL ALBUM)" target="Weather Report - Birdland  (Heavy Weather - Legacy Project Official)">
+  <data key="d0">0.6238810420036316</data>
+</edge>
+<edge source="Makin' Whoopee (1998 Digital Remaster)" target="Prelude to a Kiss">
+  <data key="d0">0.9317629933357239</data>
+</edge>
+<edge source="Makin' Whoopee (1998 Digital Remaster)" target="The Tattooed Bride">
+  <data key="d0">0.9287923574447632</data>
+</edge>
+<edge source="Makin' Whoopee (1998 Digital Remaster)" target="Miles Davis   Kind Of Blue Full Album 1959">
+  <data key="d0">0.925999641418457</data>
+</edge>
+<edge source="Makin' Whoopee (1998 Digital Remaster)" target="Paul Desmond and Gerry Mulligan – Two Of A Mind – 1962 (Reel-to-Reel, 7½ ips)">
+  <data key="d0">0.9155545234680176</data>
+</edge>
+<edge source="Makin' Whoopee (1998 Digital Remaster)" target="Someone to Watch Over Me">
+  <data key="d0">0.8523679971694946</data>
+</edge>
+<edge source="Makin' Whoopee (1998 Digital Remaster)" target="Vince Guaraldi Trio - Moon River (Official Audio)">
+  <data key="d0">0.8706696033477783</data>
+</edge>
+<edge source="Makin' Whoopee (1998 Digital Remaster)" target="Walkin' Shoes">
+  <data key="d0">0.8806722164154053</data>
+</edge>
+<edge source="Manhã de Carnaval" target="Paul Desmond ⧸ Bossa Antigua">
+  <data key="d0">0.6418254971504211</data>
+</edge>
+<edge source="Manhã de Carnaval" target="The Girl From Ipanema (Mono Version)">
+  <data key="d0">0.6377797722816467</data>
+</edge>
+<edge source="Manhã de Carnaval" target="Miles Davis - Flamenco Sketches (Official Audio)">
+  <data key="d0">0.6189082264900208</data>
+</edge>
+<edge source="Manhã de Carnaval" target="Questar">
+  <data key="d0">0.6151075959205627</data>
+</edge>
+<edge source="Memory Lane Music" target="Ooo Baby Baby">
+  <data key="d0">0.9138375520706177</data>
+</edge>
+<edge source="Memory Lane Music" target="The Five Stairsteps - Come Back">
+  <data key="d0">0.8970028758049011</data>
+</edge>
+<edge source="Memory Lane Music" target="My Baby Just Cares for Me (2013 - Remaster)">
+  <data key="d0">0.7376158237457275</data>
+</edge>
+<edge source="Miles Davis   Kind Of Blue Full Album 1959" target="Miles Davis - Flamenco Sketches (Official Audio)">
+  <data key="d0">0.9836075305938721</data>
+</edge>
+<edge source="Miles Davis   Kind Of Blue Full Album 1959" target="So What">
+  <data key="d0">0.9819823503494263</data>
+</edge>
+<edge source="Miles Davis   Kind Of Blue Full Album 1959" target="Miles Davis - Freddie Freeloader (Official Audio)">
+  <data key="d0">0.9672478437423706</data>
+</edge>
+<edge source="Miles Davis   Kind Of Blue Full Album 1959" target="Now Please Don't You Cry, Beautiful Edith">
+  <data key="d0">0.9310812950134277</data>
+</edge>
+<edge source="Miles Davis   Kind Of Blue Full Album 1959" target="Prelude to a Kiss">
+  <data key="d0">0.9219300746917725</data>
+</edge>
+<edge source="Miles Davis   Kind Of Blue Full Album 1959" target="Senor Blues">
+  <data key="d0">0.9016605615615845</data>
+</edge>
+<edge source="Miles Davis   Kind Of Blue Full Album 1959" target="Someone to Watch Over Me">
+  <data key="d0">0.8703480958938599</data>
+</edge>
+<edge source="Miles Davis   Kind Of Blue Full Album 1959" target="St. Thomas from Sonny Rollins, Now's the Time, RCA Stereo, 1st Vinyl">
+  <data key="d0">0.887365996837616</data>
+</edge>
+<edge source="Miles Davis   Kind Of Blue Full Album 1959" target="Straight, No Chaser">
+  <data key="d0">0.9411044716835022</data>
+</edge>
+<edge source="Miles Davis   Kind Of Blue Full Album 1959" target="Take Five">
+  <data key="d0">0.9151307940483093</data>
+</edge>
+<edge source="Miles Davis   Kind Of Blue Full Album 1959" target="Wes Montgomery - In Your Own Sweet Way (Official Audio)">
+  <data key="d0">0.8865667581558228</data>
+</edge>
+<edge source="Miles Davis - Flamenco Sketches (Official Audio)" target="So What">
+  <data key="d0">0.9492766857147217</data>
+</edge>
+<edge source="Miles Davis - Flamenco Sketches (Official Audio)" target="Miles Davis - Freddie Freeloader (Official Audio)">
+  <data key="d0">0.9270285964012146</data>
+</edge>
+<edge source="Miles Davis - Flamenco Sketches (Official Audio)" target="Prelude to a Kiss">
+  <data key="d0">0.9237195253372192</data>
+</edge>
+<edge source="Miles Davis - Flamenco Sketches (Official Audio)" target="Royal Blue (1995 Remastered)">
+  <data key="d0">0.8435333371162415</data>
+</edge>
+<edge source="Miles Davis - Flamenco Sketches (Official Audio)" target="Someone to Watch Over Me">
+  <data key="d0">0.8740714192390442</data>
+</edge>
+<edge source="Miles Davis - Flamenco Sketches (Official Audio)" target="Turiya &amp; Ramakrishna">
+  <data key="d0">0.8657104969024658</data>
+</edge>
+<edge source="Miles Davis - Flamenco Sketches (Official Audio)" target="Wes Montgomery - In Your Own Sweet Way (Official Audio)">
+  <data key="d0">0.8989488482475281</data>
+</edge>
+<edge source="Miles Davis - Freddie Freeloader (Official Audio)" target="So What">
+  <data key="d0">0.9837459325790405</data>
+</edge>
+<edge source="Miles Davis - Freddie Freeloader (Official Audio)" target="Straight, No Chaser">
+  <data key="d0">0.9555984735488892</data>
+</edge>
+<edge source="Miles Davis - Freddie Freeloader (Official Audio)" target="Sonny Rollins Quartet - Tenor Madness (Official Audio)">
+  <data key="d0">0.8969343900680542</data>
+</edge>
+<edge source="My Baby Just Cares for Me (2013 - Remaster)" target="Second Line">
+  <data key="d0">0.7761135101318359</data>
+</edge>
+<edge source="My Baby Just Cares for Me (2013 - Remaster)" target="Ooo Baby Baby">
+  <data key="d0">0.6506518721580505</data>
+</edge>
+<edge source="My Favorite Things (Stereo) (2022 Remaster)" target="Questar">
+  <data key="d0">0.9018315076828003</data>
+</edge>
+<edge source="My Favorite Things (Stereo) (2022 Remaster)" target="My Funny Valentine">
+  <data key="d0">0.8751623630523682</data>
+</edge>
+<edge source="My Favorite Things (Stereo) (2022 Remaster)" target="Speak No Evil (Remastered1998⧸Rudy Van Gelder Edition)">
+  <data key="d0">0.8416538238525391</data>
+</edge>
+<edge source="My Funny Valentine" target="Turiya &amp; Ramakrishna">
+  <data key="d0">0.9113616943359375</data>
+</edge>
+<edge source="My Funny Valentine" target="When Sunny Gets Blue  McCoy Tyner">
+  <data key="d0">0.843632161617279</data>
+</edge>
+<edge source="My Funny Valentine" target="Orange Moon">
+  <data key="d0">0.7281293869018555</data>
+</edge>
+<edge source="My Funny Valentine" target="Ruby My Dear (Remastered 2013)">
+  <data key="d0">0.8283411264419556</data>
+</edge>
+<edge source="My Funny Valentine" target="Wake The Baby">
+  <data key="d0">0.8076095581054688</data>
+</edge>
+<edge source="My Funny Valentine" target="Wes Montgomery - Days Of Wine And Roses (Official Audio)">
+  <data key="d0">0.7938792705535889</data>
+</edge>
+<edge source="My Lova" target="Orange Moon">
+  <data key="d0">0.8525296449661255</data>
+</edge>
+<edge source="My Lova" target="On &amp; On">
+  <data key="d0">0.7948318719863892</data>
+</edge>
+<edge source="My Lova" target="Patti LaBelle - If Only You Knew (Audio)">
+  <data key="d0">0.6212279796600342</data>
+</edge>
+<edge source="My Lova" target="Rock With You">
+  <data key="d0">0.5822198987007141</data>
+</edge>
+<edge source="Now Please Don't You Cry, Beautiful Edith" target="Say It (Over And Over Again)">
+  <data key="d0">0.9455903172492981</data>
+</edge>
+<edge source="Now Please Don't You Cry, Beautiful Edith" target="Questar">
+  <data key="d0">0.89777672290802</data>
+</edge>
+<edge source="Now Please Don't You Cry, Beautiful Edith" target="Senor Blues">
+  <data key="d0">0.9017950296401978</data>
+</edge>
+<edge source="Now Please Don't You Cry, Beautiful Edith" target="Vince Guaraldi Trio - Moon River (Official Audio)">
+  <data key="d0">0.8592044115066528</data>
+</edge>
+<edge source="Nutty" target="Red Garland - Almost Like Being In Love (Official Audio)">
+  <data key="d0">0.8527019023895264</data>
+</edge>
+<edge source="Nutty" target="Sonny Rollins Quartet - Tenor Madness (Official Audio)">
+  <data key="d0">0.8521603941917419</data>
+</edge>
+<edge source="On &amp; On" target="Selfish">
+  <data key="d0">0.7134283781051636</data>
+</edge>
+<edge source="Ooo Baby Baby" target="The Five Stairsteps - Come Back">
+  <data key="d0">0.8805171251296997</data>
+</edge>
+<edge source="Orange Moon" target="Wake The Baby">
+  <data key="d0">0.8464374542236328</data>
+</edge>
+<edge source="Orange Moon" target="Patti LaBelle - If Only You Knew (Audio)">
+  <data key="d0">0.7343127131462097</data>
+</edge>
+<edge source="Orange Moon" target="Rock With You">
+  <data key="d0">0.6465780138969421</data>
+</edge>
+<edge source="Orange Moon" target="Watermelon Man">
+  <data key="d0">0.7254879474639893</data>
+</edge>
+<edge source="Ornithology" target="Perdido">
+  <data key="d0">0.7895443439483643</data>
+</edge>
+<edge source="Patti LaBelle - If Only You Knew (Audio)" target="Rock With You">
+  <data key="d0">0.7534888982772827</data>
+</edge>
+<edge source="Paul Desmond and Gerry Mulligan – Two Of A Mind – 1962 (Reel-to-Reel, 7½ ips)" target="Say It (Over And Over Again)">
+  <data key="d0">0.9139913320541382</data>
+</edge>
+<edge source="Paul Desmond and Gerry Mulligan – Two Of A Mind – 1962 (Reel-to-Reel, 7½ ips)" target="Vince Guaraldi Trio - Moon River (Official Audio)">
+  <data key="d0">0.8574825525283813</data>
+</edge>
+<edge source="Paul Desmond and Gerry Mulligan – Two Of A Mind – 1962 (Reel-to-Reel, 7½ ips)" target="Walkin' Shoes">
+  <data key="d0">0.8963490128517151</data>
+</edge>
+<edge source="Paul Desmond ⧸ Bossa Antigua" target="The Girl From Ipanema (Mono Version)">
+  <data key="d0">0.8160510659217834</data>
+</edge>
+<edge source="Paul Desmond ⧸ Bossa Antigua" target="Senor Blues">
+  <data key="d0">0.8064842820167542</data>
+</edge>
+<edge source="Paul Desmond ⧸ Bossa Antigua" target="Weather Report - Birdland  (Heavy Weather - Legacy Project Official)">
+  <data key="d0">0.7385833263397217</data>
+</edge>
+<edge source="Prelude to a Kiss" target="The Tattooed Bride">
+  <data key="d0">0.9427009224891663</data>
+</edge>
+<edge source="Prelude to a Kiss" target="Royal Blue (1995 Remastered)">
+  <data key="d0">0.8885284662246704</data>
+</edge>
+<edge source="Prelude to a Kiss" target="Willow Weep For Me">
+  <data key="d0">0.812253475189209</data>
+</edge>
+<edge source="Questar" target="Speak No Evil (Remastered1998⧸Rudy Van Gelder Edition)">
+  <data key="d0">0.9127641916275024</data>
+</edge>
+<edge source="Questar" target="Weather Report - Birdland  (Heavy Weather - Legacy Project Official)">
+  <data key="d0">0.7475701570510864</data>
+</edge>
+<edge source="Red Garland - Almost Like Being In Love (Official Audio)" target="Say It (Over And Over Again)">
+  <data key="d0">0.8940476775169373</data>
+</edge>
+<edge source="Rock With You" target="Watermelon Man">
+  <data key="d0">0.6022690534591675</data>
+</edge>
+<edge source="Royal Blue (1995 Remastered)" target="Willow Weep For Me">
+  <data key="d0">0.8739210367202759</data>
+</edge>
+<edge source="Royal Blue (1995 Remastered)" target="The Tattooed Bride">
+  <data key="d0">0.8634960055351257</data>
+</edge>
+<edge source="Royal Blue (1995 Remastered)" target="Take Five">
+  <data key="d0">0.8471366167068481</data>
+</edge>
+<edge source="Royal Blue (1995 Remastered)" target="Sarah Vaughan's Golden Hits - Misty ⧸ Mercury  1961">
+  <data key="d0">0.6648964285850525</data>
+</edge>
+<edge source="Ruby My Dear (Remastered 2013)" target="Turiya &amp; Ramakrishna">
+  <data key="d0">0.8380717039108276</data>
+</edge>
+<edge source="Ruby My Dear (Remastered 2013)" target="When Sunny Gets Blue  McCoy Tyner">
+  <data key="d0">0.835216760635376</data>
+</edge>
+<edge source="Sarah Vaughan's Golden Hits - Misty ⧸ Mercury  1961" target="Willow Weep For Me">
+  <data key="d0">0.6257463693618774</data>
+</edge>
+<edge source="Say It (Over And Over Again)" target="Wes Montgomery - Days Of Wine And Roses (Official Audio)">
+  <data key="d0">0.7489023208618164</data>
+</edge>
+<edge source="Say It (Over And Over Again)" target="When Sunny Gets Blue  McCoy Tyner">
+  <data key="d0">0.8982162475585938</data>
+</edge>
+<edge source="Second Line" target="Take Five">
+  <data key="d0">0.8792334794998169</data>
+</edge>
+<edge source="Second Line" target="The Tattooed Bride">
+  <data key="d0">0.8767530918121338</data>
+</edge>
+<edge source="Senor Blues" target="The Girl From Ipanema (Mono Version)">
+  <data key="d0">0.71761155128479</data>
+</edge>
+<edge source="So What" target="Straight, No Chaser">
+  <data key="d0">0.9496179819107056</data>
+</edge>
+<edge source="So What" target="Take Five">
+  <data key="d0">0.9192769527435303</data>
+</edge>
+<edge source="Sonny Rollins Quartet - Tenor Madness (Official Audio)" target="Straight, No Chaser">
+  <data key="d0">0.8962761163711548</data>
+</edge>
+<edge source="Stark's Reality" target="Watermelon Man">
+  <data key="d0">0.7321636080741882</data>
+</edge>
+<edge source="Stompin At The Savoy" target="The Tattooed Bride">
+  <data key="d0">0.9057769179344177</data>
+</edge>
+<edge source="Take Five" target="The Tattooed Bride">
+  <data key="d0">0.8915325403213501</data>
+</edge>
+<edge source="The Five Stairsteps - Come Back" target="Willow Weep For Me">
+  <data key="d0">0.699394941329956</data>
+</edge>
+<edge source="The Tattooed Bride" target="Willow Weep For Me">
+  <data key="d0">0.808474600315094</data>
+</edge>
+<edge source="Turiya &amp; Ramakrishna" target="When Sunny Gets Blue  McCoy Tyner">
+  <data key="d0">0.8837211728096008</data>
+</edge>
+<edge source="Turiya &amp; Ramakrishna" target="Wake The Baby">
+  <data key="d0">0.7329437732696533</data>
+</edge>
+<edge source="Vince Guaraldi Trio - Moon River (Official Audio)" target="Wes Montgomery - In Your Own Sweet Way (Official Audio)">
+  <data key="d0">0.8843722939491272</data>
+</edge>
+<edge source="Wake The Baby" target="＂Lenore＂ Chick Corea's The Leprechaun 1976 album.">
+  <data key="d0">0.6654713153839111</data>
+</edge>
+<edge source="Watermelon Man" target="Weather Report - Birdland  (Heavy Weather - Legacy Project Official)">
+  <data key="d0">0.7957810759544373</data>
+</edge>
+<edge source="Weather Report - Birdland  (Heavy Weather - Legacy Project Official)" target="＂Lenore＂ Chick Corea's The Leprechaun 1976 album.">
+  <data key="d0">0.6646344661712646</data>
+</edge>
+<edge source="Wes Montgomery - Days Of Wine And Roses (Official Audio)" target="Wes Montgomery - In Your Own Sweet Way (Official Audio)">
+  <data key="d0">0.7916781902313232</data>
+</edge>
+</graph></graphml>

@@ -83,6 +83,7 @@ def recluster_graph():
             G.add_edge(row['Source'], row['Target'], weight=row['Weight'])
 
         # Save as GraphML
-        nx.write_graphml(G, "CSV_GRAPHS/slow_modularity_reclustered.graphml")
+        output_path = "CSV_GRAPHS\\" + file_name +  "_modularity_reclustered.graphml"
+        nx.write_graphml(G, output_path)
 
         break

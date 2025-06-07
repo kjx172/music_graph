@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="double"/>
+<graph edgedefault="undirected"><node id="Bankroll NI - I'm So ATL [Official Music Video] ｜｜ Dir. Don Wong Films"/>
+<node id="Beam On Ya Toes"/>
+<node id="Duwap Kaine - No Autotune 2 (feat. KA$HDAMI)"/>
+<node id="Kaine - Playin Wit Da Autotune (Prod. Nine9)"/>
+<node id="Meet Cleofis Randolph the Patriarch"/>
+<node id="Monaleo - Don Who Leo (Official Audio)"/>
+<node id="RXKNephew-Welcome 2 The BlockList"/>
+<node id="Sexyy Red - Bow Bow Bow (F My Baby Dad) (Official Audio) ＂that's that Booty Meat＂"/>
+<node id="Sexyy Red - Hoochie Coochie (Official Music Video)"/>
+<node id="Sexyy Red - Looking for the Hoes (Ain't My Fault) [Official Audio]"/>
+<node id="Sexyy Red ＂Get It Sexyy＂ (Official Audio)"/>
+<node id="tony dim"/>
+<node id="WHIM WHAMIEE"/>
+<edge source="Bankroll NI - I'm So ATL [Official Music Video] ｜｜ Dir. Don Wong Films" target="Sexyy Red - Looking for the Hoes (Ain't My Fault) [Official Audio]">
+  <data key="d0">0.9023661613464355</data>
+</edge>
+<edge source="Bankroll NI - I'm So ATL [Official Music Video] ｜｜ Dir. Don Wong Films" target="Sexyy Red - Hoochie Coochie (Official Music Video)">
+  <data key="d0">0.8762967586517334</data>
+</edge>
+<edge source="Bankroll NI - I'm So ATL [Official Music Video] ｜｜ Dir. Don Wong Films" target="Sexyy Red ＂Get It Sexyy＂ (Official Audio)">
+  <data key="d0">0.8348456621170044</data>
+</edge>
+<edge source="Bankroll NI - I'm So ATL [Official Music Video] ｜｜ Dir. Don Wong Films" target="WHIM WHAMIEE">
+  <data key="d0">0.8253566026687622</data>
+</edge>
+<edge source="Bankroll NI - I'm So ATL [Official Music Video] ｜｜ Dir. Don Wong Films" target="Sexyy Red - Bow Bow Bow (F My Baby Dad) (Official Audio) ＂that's that Booty Meat＂">
+  <data key="d0">0.795537531375885</data>
+</edge>
+<edge source="Bankroll NI - I'm So ATL [Official Music Video] ｜｜ Dir. Don Wong Films" target="Kaine - Playin Wit Da Autotune (Prod. Nine9)">
+  <data key="d0">0.7917606830596924</data>
+</edge>
+<edge source="Bankroll NI - I'm So ATL [Official Music Video] ｜｜ Dir. Don Wong Films" target="Beam On Ya Toes">
+  <data key="d0">0.5907697081565857</data>
+</edge>
+<edge source="Bankroll NI - I'm So ATL [Official Music Video] ｜｜ Dir. Don Wong Films" target="Duwap Kaine - No Autotune 2 (feat. KA$HDAMI)">
+  <data key="d0">0.7645396590232849</data>
+</edge>
+<edge source="Bankroll NI - I'm So ATL [Official Music Video] ｜｜ Dir. Don Wong Films" target="Meet Cleofis Randolph the Patriarch">
+  <data key="d0">0.5794188976287842</data>
+</edge>
+<edge source="Bankroll NI - I'm So ATL [Official Music Video] ｜｜ Dir. Don Wong Films" target="Monaleo - Don Who Leo (Official Audio)">
+  <data key="d0">0.7612401247024536</data>
+</edge>
+<edge source="Bankroll NI - I'm So ATL [Official Music Video] ｜｜ Dir. Don Wong Films" target="RXKNephew-Welcome 2 The BlockList">
+  <data key="d0">0.755925178527832</data>
+</edge>
+<edge source="Bankroll NI - I'm So ATL [Official Music Video] ｜｜ Dir. Don Wong Films" target="tony dim">
+  <data key="d0">0.6112984418869019</data>
+</edge>
+<edge source="Beam On Ya Toes" target="Duwap Kaine - No Autotune 2 (feat. KA$HDAMI)">
+  <data key="d0">0.6596099734306335</data>
+</edge>
+<edge source="Beam On Ya Toes" target="Sexyy Red ＂Get It Sexyy＂ (Official Audio)">
+  <data key="d0">0.6125629544258118</data>
+</edge>
+<edge source="Beam On Ya Toes" target="Sexyy Red - Hoochie Coochie (Official Music Video)">
+  <data key="d0">0.5811790823936462</data>
+</edge>
+<edge source="Beam On Ya Toes" target="Meet Cleofis Randolph the Patriarch">
+  <data key="d0">0.5741322040557861</data>
+</edge>
+<edge source="Beam On Ya Toes" target="Kaine - Playin Wit Da Autotune (Prod. Nine9)">
+  <data key="d0">0.5687694549560547</data>
+</edge>
+<edge source="Duwap Kaine - No Autotune 2 (feat. KA$HDAMI)" target="Kaine - Playin Wit Da Autotune (Prod. Nine9)">
+  <data key="d0">0.866113007068634</data>
+</edge>
+<edge source="Duwap Kaine - No Autotune 2 (feat. KA$HDAMI)" target="Sexyy Red ＂Get It Sexyy＂ (Official Audio)">
+  <data key="d0">0.7831137180328369</data>
+</edge>
+<edge source="Duwap Kaine - No Autotune 2 (feat. KA$HDAMI)" target="WHIM WHAMIEE">
+  <data key="d0">0.7786195278167725</data>
+</edge>
+<edge source="Duwap Kaine - No Autotune 2 (feat. KA$HDAMI)" target="RXKNephew-Welcome 2 The BlockList">
+  <data key="d0">0.7661032676696777</data>
+</edge>
+<edge source="Duwap Kaine - No Autotune 2 (feat. KA$HDAMI)" target="tony dim">
+  <data key="d0">0.7346271276473999</data>
+</edge>
+<edge source="Duwap Kaine - No Autotune 2 (feat. KA$HDAMI)" target="Meet Cleofis Randolph the Patriarch">
+  <data key="d0">0.6902769804000854</data>
+</edge>
+<edge source="Kaine - Playin Wit Da Autotune (Prod. Nine9)" target="Sexyy Red - Looking for the Hoes (Ain't My Fault) [Official Audio]">
+  <data key="d0">0.7964398860931396</data>
+</edge>
+<edge source="Kaine - Playin Wit Da Autotune (Prod. Nine9)" target="WHIM WHAMIEE">
+  <data key="d0">0.7596724629402161</data>
+</edge>
+<edge source="Kaine - Playin Wit Da Autotune (Prod. Nine9)" target="RXKNephew-Welcome 2 The BlockList">
+  <data key="d0">0.7566314935684204</data>
+</edge>
+<edge source="Kaine - Playin Wit Da Autotune (Prod. Nine9)" target="Sexyy Red ＂Get It Sexyy＂ (Official Audio)">
+  <data key="d0">0.7421340942382812</data>
+</edge>
+<edge source="Kaine - Playin Wit Da Autotune (Prod. Nine9)" target="Monaleo - Don Who Leo (Official Audio)">
+  <data key="d0">0.7119499444961548</data>
+</edge>
+<edge source="Kaine - Playin Wit Da Autotune (Prod. Nine9)" target="tony dim">
+  <data key="d0">0.6774977445602417</data>
+</edge>
+<edge source="Meet Cleofis Randolph the Patriarch" target="RXKNephew-Welcome 2 The BlockList">
+  <data key="d0">0.6073063611984253</data>
+</edge>
+<edge source="Meet Cleofis Randolph the Patriarch" target="tony dim">
+  <data key="d0">0.5915445685386658</data>
+</edge>
+<edge source="Meet Cleofis Randolph the Patriarch" target="Sexyy Red ＂Get It Sexyy＂ (Official Audio)">
+  <data key="d0">0.5759064555168152</data>
+</edge>
+<edge source="Monaleo - Don Who Leo (Official Audio)" target="Sexyy Red - Hoochie Coochie (Official Music Video)">
+  <data key="d0">0.814172089099884</data>
+</edge>
+<edge source="Monaleo - Don Who Leo (Official Audio)" target="Sexyy Red ＂Get It Sexyy＂ (Official Audio)">
+  <data key="d0">0.8017171621322632</data>
+</edge>
+<edge source="Monaleo - Don Who Leo (Official Audio)" target="Sexyy Red - Bow Bow Bow (F My Baby Dad) (Official Audio) ＂that's that Booty Meat＂">
+  <data key="d0">0.7754714488983154</data>
+</edge>
+<edge source="Monaleo - Don Who Leo (Official Audio)" target="Sexyy Red - Looking for the Hoes (Ain't My Fault) [Official Audio]">
+  <data key="d0">0.7563027143478394</data>
+</edge>
+<edge source="RXKNephew-Welcome 2 The BlockList" target="WHIM WHAMIEE">
+  <data key="d0">0.7146758437156677</data>
+</edge>
+<edge source="RXKNephew-Welcome 2 The BlockList" target="Sexyy Red - Looking for the Hoes (Ain't My Fault) [Official Audio]">
+  <data key="d0">0.6789311766624451</data>
+</edge>
+<edge source="RXKNephew-Welcome 2 The BlockList" target="Sexyy Red ＂Get It Sexyy＂ (Official Audio)">
+  <data key="d0">0.6712750792503357</data>
+</edge>
+<edge source="Sexyy Red - Bow Bow Bow (F My Baby Dad) (Official Audio) ＂that's that Booty Meat＂" target="Sexyy Red ＂Get It Sexyy＂ (Official Audio)">
+  <data key="d0">0.8125690221786499</data>
+</edge>
+<edge source="Sexyy Red - Bow Bow Bow (F My Baby Dad) (Official Audio) ＂that's that Booty Meat＂" target="Sexyy Red - Hoochie Coochie (Official Music Video)">
+  <data key="d0">0.7994223833084106</data>
+</edge>
+<edge source="Sexyy Red - Bow Bow Bow (F My Baby Dad) (Official Audio) ＂that's that Booty Meat＂" target="Sexyy Red - Looking for the Hoes (Ain't My Fault) [Official Audio]">
+  <data key="d0">0.7813118100166321</data>
+</edge>
+<edge source="Sexyy Red - Bow Bow Bow (F My Baby Dad) (Official Audio) ＂that's that Booty Meat＂" target="WHIM WHAMIEE">
+  <data key="d0">0.739409327507019</data>
+</edge>
+<edge source="Sexyy Red - Hoochie Coochie (Official Music Video)" target="Sexyy Red ＂Get It Sexyy＂ (Official Audio)">
+  <data key="d0">0.8462046384811401</data>
+</edge>
+<edge source="Sexyy Red - Hoochie Coochie (Official Music Video)" target="Sexyy Red - Looking for the Hoes (Ain't My Fault) [Official Audio]">
+  <data key="d0">0.8431550860404968</data>
+</edge>
+<edge source="Sexyy Red - Hoochie Coochie (Official Music Video)" target="WHIM WHAMIEE">
+  <data key="d0">0.8313711285591125</data>
+</edge>
+<edge source="Sexyy Red - Hoochie Coochie (Official Music Video)" target="tony dim">
+  <data key="d0">0.6031647324562073</data>
+</edge>
+<edge source="Sexyy Red - Looking for the Hoes (Ain't My Fault) [Official Audio]" target="Sexyy Red ＂Get It Sexyy＂ (Official Audio)">
+  <data key="d0">0.8182123899459839</data>
+</edge>
+<edge source="Sexyy Red - Looking for the Hoes (Ain't My Fault) [Official Audio]" target="WHIM WHAMIEE">
+  <data key="d0">0.7780652046203613</data>
+</edge>
+<edge source="Sexyy Red ＂Get It Sexyy＂ (Official Audio)" target="tony dim">
+  <data key="d0">0.6245987415313721</data>
+</edge>
+<edge source="Sexyy Red ＂Get It Sexyy＂ (Official Audio)" target="WHIM WHAMIEE">
+  <data key="d0">0.75190269947052</data>
+</edge>
+<edge source="tony dim" target="WHIM WHAMIEE">
+  <data key="d0">0.5953207015991211</data>
+</edge>
+</graph></graphml>

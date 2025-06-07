@@ -1,0 +1,960 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="double"/>
+<graph edgedefault="undirected"><node id="112 - Anywhere"/>
+<node id="Beauty"/>
+<node id="Calling On You"/>
+<node id="Chris Brown - Yo (Excuse Me Miss) (Official HD Video)"/>
+<node id="Coming Home To You"/>
+<node id="Dangerously In Love"/>
+<node id="Differences (Radio Edit)"/>
+<node id="Ginuwine - So Anxious"/>
+<node id="Happily Ever After"/>
+<node id="If You"/>
+<node id="Incomplete"/>
+<node id="Missing You"/>
+<node id="My Boo"/>
+<node id="Player's Prayer"/>
+<node id="Soul For Real - Candy Rain (Official Music Video)"/>
+<node id="Tyrese - Sweet Lady (Official HD Video)"/>
+<node id="Usher - Burn (Official Music Video)"/>
+<node id="21 Questions"/>
+<node id="I Know What You Want"/>
+<node id="702 - Get It Together (Official Music Video)"/>
+<node id="Faith Evans - Soon As I Get Home (Official Music Video)"/>
+<node id="Jodeci - Freak'N You"/>
+<node id="Jon B. - They Don't Know (Official Video)"/>
+<node id="Keith Sweat - Twisted (Official Music Video)"/>
+<node id="Rome - I Belong To You"/>
+<node id="Aaliyah - Age Ain't Nothing But A Number (Official HD Video)"/>
+<node id="Boyz II Men - On Bended Knee"/>
+<node id="I'll Always Love You"/>
+<node id="Aaliyah - Age Ain't Nothing But A Number [Audio HQ] HD"/>
+<node id="Charlie Wilson - You Are (Audio)"/>
+<node id="Aaliyah - One in a Million - 13. Heartbroken"/>
+<node id="Aaron Hall - I Miss You"/>
+<node id="Az Yet - Last Night (No Film Footage)"/>
+<node id="Alicia Keys - If I Ain't Got You (Official HD Video)"/>
+<node id="R.Kelly-It Seems Like You're Ready"/>
+<node id="Tank - Maybe I Deserve (Original Video)"/>
+<node id="Tevin Campbell - I'm Ready (Official Audio)"/>
+<node id="Baby I'm Ready"/>
+<node id="My, My, My"/>
+<node id="Be Without You"/>
+<node id="Boyz II Men - Doin' Just Fine"/>
+<node id="Brandy &amp; Monica - The Boy Is Mine (Official Video)"/>
+<node id="Erykah Badu - Next Lifetime (Official Music Video)"/>
+<node id="Fortunate"/>
+<node id="Mary J. Blige - I Don't Want To Do Anything - What's The 411？"/>
+<node id="Musiq - Just Friends (Sunny) (Official Video)"/>
+<node id="Playa - Cheers 2 U (Official Video)"/>
+<node id="Share My World"/>
+<node id="TLC - No Scrubs (Official HD Video)"/>
+<node id="Big Poppa (2007 Remaster)"/>
+<node id="Jodeci - Cry For You"/>
+<node id="Never Lie"/>
+<node id="Where I Wanna Be"/>
+<node id="SWV - Weak (Official HD Video)"/>
+<node id="You're Always On My Mind"/>
+<node id="Tevin Campbell - Can We Talk (Official Video)"/>
+<node id="We're Not Making Love No More"/>
+<node id="Kendrick Lamar - heart pt. 6 (Official Audio)"/>
+<node id="Mint Condition - Breakin' My Heart (Pretty Brown Eyes) (Official Music Video)"/>
+<node id="Step in the Name of Love (Remix - Radio Edit)"/>
+<edge source="112 - Anywhere" target="Beauty">
+  <data key="d0">0.8456036481114348</data>
+</edge>
+<edge source="112 - Anywhere" target="Calling On You">
+  <data key="d0">0.8423930124749757</data>
+</edge>
+<edge source="112 - Anywhere" target="Chris Brown - Yo (Excuse Me Miss) (Official HD Video)">
+  <data key="d0">0.8173884137770053</data>
+</edge>
+<edge source="112 - Anywhere" target="Coming Home To You">
+  <data key="d0">0.8112863081018644</data>
+</edge>
+<edge source="112 - Anywhere" target="Dangerously In Love">
+  <data key="d0">0.8038749863473951</data>
+</edge>
+<edge source="112 - Anywhere" target="Differences (Radio Edit)">
+  <data key="d0">0.8338604986657925</data>
+</edge>
+<edge source="112 - Anywhere" target="Ginuwine - So Anxious">
+  <data key="d0">0.8547043473105764</data>
+</edge>
+<edge source="112 - Anywhere" target="Happily Ever After">
+  <data key="d0">0.8025452948568369</data>
+</edge>
+<edge source="112 - Anywhere" target="If You">
+  <data key="d0">0.8135970655409652</data>
+</edge>
+<edge source="112 - Anywhere" target="Incomplete">
+  <data key="d0">0.8025997178520805</data>
+</edge>
+<edge source="112 - Anywhere" target="Missing You">
+  <data key="d0">0.8175488040627535</data>
+</edge>
+<edge source="112 - Anywhere" target="My Boo">
+  <data key="d0">0.8044120694552576</data>
+</edge>
+<edge source="112 - Anywhere" target="Player's Prayer">
+  <data key="d0">0.822204663257158</data>
+</edge>
+<edge source="112 - Anywhere" target="Soul For Real - Candy Rain (Official Music Video)">
+  <data key="d0">0.809904709453835</data>
+</edge>
+<edge source="112 - Anywhere" target="Tyrese - Sweet Lady (Official HD Video)">
+  <data key="d0">0.8006525949006433</data>
+</edge>
+<edge source="112 - Anywhere" target="Usher - Burn (Official Music Video)">
+  <data key="d0">0.8108971552850026</data>
+</edge>
+<edge source="Beauty" target="702 - Get It Together (Official Music Video)">
+  <data key="d0">0.899280390663583</data>
+</edge>
+<edge source="Beauty" target="Aaliyah - Age Ain't Nothing But A Number (Official HD Video)">
+  <data key="d0">0.809342677951161</data>
+</edge>
+<edge source="Beauty" target="Aaliyah - Age Ain't Nothing But A Number [Audio HQ] HD">
+  <data key="d0">0.8030290543800631</data>
+</edge>
+<edge source="Beauty" target="Aaliyah - One in a Million - 13. Heartbroken">
+  <data key="d0">0.805007036883515</data>
+</edge>
+<edge source="Beauty" target="Alicia Keys - If I Ain't Got You (Official HD Video)">
+  <data key="d0">0.8199678792742171</data>
+</edge>
+<edge source="Beauty" target="Boyz II Men - Doin' Just Fine">
+  <data key="d0">0.865659356089203</data>
+</edge>
+<edge source="Beauty" target="Boyz II Men - On Bended Knee">
+  <data key="d0">0.8658256518591037</data>
+</edge>
+<edge source="Beauty" target="Brandy &amp; Monica - The Boy Is Mine (Official Video)">
+  <data key="d0">0.8287560201813355</data>
+</edge>
+<edge source="Beauty" target="Calling On You">
+  <data key="d0">0.8660720092831702</data>
+</edge>
+<edge source="Beauty" target="Charlie Wilson - You Are (Audio)">
+  <data key="d0">0.8363955015379966</data>
+</edge>
+<edge source="Beauty" target="Coming Home To You">
+  <data key="d0">0.8761082890601507</data>
+</edge>
+<edge source="Beauty" target="Dangerously In Love">
+  <data key="d0">0.8669308899808148</data>
+</edge>
+<edge source="Beauty" target="Differences (Radio Edit)">
+  <data key="d0">0.858374304674154</data>
+</edge>
+<edge source="Beauty" target="Erykah Badu - Next Lifetime (Official Music Video)">
+  <data key="d0">0.891018864187191</data>
+</edge>
+<edge source="Beauty" target="Faith Evans - Soon As I Get Home (Official Music Video)">
+  <data key="d0">0.9208939420923392</data>
+</edge>
+<edge source="Beauty" target="Fortunate">
+  <data key="d0">0.8265559543394536</data>
+</edge>
+<edge source="Beauty" target="Happily Ever After">
+  <data key="d0">0.8872702200116</data>
+</edge>
+<edge source="Beauty" target="If You">
+  <data key="d0">0.8774483321550646</data>
+</edge>
+<edge source="Beauty" target="Incomplete">
+  <data key="d0">0.9084836863090424</data>
+</edge>
+<edge source="Beauty" target="Jodeci - Freak'N You">
+  <data key="d0">0.865458304175322</data>
+</edge>
+<edge source="Beauty" target="Jon B. - They Don't Know (Official Video)">
+  <data key="d0">0.89434022938381</data>
+</edge>
+<edge source="Beauty" target="Mary J. Blige - I Don't Want To Do Anything - What's The 411？">
+  <data key="d0">0.8389621154059792</data>
+</edge>
+<edge source="Beauty" target="Missing You">
+  <data key="d0">0.8245060155889151</data>
+</edge>
+<edge source="Beauty" target="Musiq - Just Friends (Sunny) (Official Video)">
+  <data key="d0">0.8003456933183228</data>
+</edge>
+<edge source="Beauty" target="Playa - Cheers 2 U (Official Video)">
+  <data key="d0">0.9073710151817312</data>
+</edge>
+<edge source="Beauty" target="Player's Prayer">
+  <data key="d0">0.9065185256125105</data>
+</edge>
+<edge source="Beauty" target="Rome - I Belong To You">
+  <data key="d0">0.8587242188914409</data>
+</edge>
+<edge source="Beauty" target="Share My World">
+  <data key="d0">0.8422376793774011</data>
+</edge>
+<edge source="Beauty" target="Soul For Real - Candy Rain (Official Music Video)">
+  <data key="d0">0.8094775444664497</data>
+</edge>
+<edge source="Beauty" target="Tank - Maybe I Deserve (Original Video)">
+  <data key="d0">0.8454814587955171</data>
+</edge>
+<edge source="Beauty" target="TLC - No Scrubs (Official HD Video)">
+  <data key="d0">0.8137058536590767</data>
+</edge>
+<edge source="Beauty" target="Tyrese - Sweet Lady (Official HD Video)">
+  <data key="d0">0.8638164589206548</data>
+</edge>
+<edge source="Beauty" target="Usher - Burn (Official Music Video)">
+  <data key="d0">0.8658376555317415</data>
+</edge>
+<edge source="Calling On You" target="Boyz II Men - Doin' Just Fine">
+  <data key="d0">0.8559759279545314</data>
+</edge>
+<edge source="Calling On You" target="Boyz II Men - On Bended Knee">
+  <data key="d0">0.8056219553400361</data>
+</edge>
+<edge source="Calling On You" target="Erykah Badu - Next Lifetime (Official Music Video)">
+  <data key="d0">0.8243280310292123</data>
+</edge>
+<edge source="Calling On You" target="Faith Evans - Soon As I Get Home (Official Music Video)">
+  <data key="d0">0.8569213440149979</data>
+</edge>
+<edge source="Calling On You" target="Fortunate">
+  <data key="d0">0.8191896421024119</data>
+</edge>
+<edge source="Calling On You" target="Jodeci - Freak'N You">
+  <data key="d0">0.8002782374833969</data>
+</edge>
+<edge source="Calling On You" target="Jon B. - They Don't Know (Official Video)">
+  <data key="d0">0.8438247263244432</data>
+</edge>
+<edge source="Calling On You" target="My Boo">
+  <data key="d0">0.864899896525134</data>
+</edge>
+<edge source="Calling On You" target="Never Lie">
+  <data key="d0">0.8036854628087753</data>
+</edge>
+<edge source="Calling On You" target="Playa - Cheers 2 U (Official Video)">
+  <data key="d0">0.8334290491935634</data>
+</edge>
+<edge source="Calling On You" target="R.Kelly-It Seems Like You're Ready">
+  <data key="d0">0.827199465129254</data>
+</edge>
+<edge source="Calling On You" target="Soul For Real - Candy Rain (Official Music Video)">
+  <data key="d0">0.804148790693894</data>
+</edge>
+<edge source="Calling On You" target="Tyrese - Sweet Lady (Official HD Video)">
+  <data key="d0">0.8390683380712859</data>
+</edge>
+<edge source="Calling On You" target="Where I Wanna Be">
+  <data key="d0">0.8200009518587996</data>
+</edge>
+<edge source="Chris Brown - Yo (Excuse Me Miss) (Official HD Video)" target="Be Without You">
+  <data key="d0">0.8038916724995004</data>
+</edge>
+<edge source="Chris Brown - Yo (Excuse Me Miss) (Official HD Video)" target="Missing You">
+  <data key="d0">0.8032979754822772</data>
+</edge>
+<edge source="Coming Home To You" target="702 - Get It Together (Official Music Video)">
+  <data key="d0">0.8168405285615733</data>
+</edge>
+<edge source="Coming Home To You" target="Boyz II Men - Doin' Just Fine">
+  <data key="d0">0.8754305075312264</data>
+</edge>
+<edge source="Coming Home To You" target="Boyz II Men - On Bended Knee">
+  <data key="d0">0.8346709786652341</data>
+</edge>
+<edge source="Coming Home To You" target="Erykah Badu - Next Lifetime (Official Music Video)">
+  <data key="d0">0.8390668796561069</data>
+</edge>
+<edge source="Coming Home To You" target="Faith Evans - Soon As I Get Home (Official Music Video)">
+  <data key="d0">0.8936599427175427</data>
+</edge>
+<edge source="Coming Home To You" target="Fortunate">
+  <data key="d0">0.811704063504624</data>
+</edge>
+<edge source="Coming Home To You" target="Jodeci - Cry For You">
+  <data key="d0">0.8143839617412925</data>
+</edge>
+<edge source="Coming Home To You" target="Jodeci - Freak'N You">
+  <data key="d0">0.8746417286298223</data>
+</edge>
+<edge source="Coming Home To You" target="Jon B. - They Don't Know (Official Video)">
+  <data key="d0">0.8713046438546207</data>
+</edge>
+<edge source="Coming Home To You" target="Keith Sweat - Twisted (Official Music Video)">
+  <data key="d0">0.8082037760839684</data>
+</edge>
+<edge source="Coming Home To You" target="Playa - Cheers 2 U (Official Video)">
+  <data key="d0">0.8636400997657067</data>
+</edge>
+<edge source="Coming Home To You" target="R.Kelly-It Seems Like You're Ready">
+  <data key="d0">0.8533384384363009</data>
+</edge>
+<edge source="Coming Home To You" target="Rome - I Belong To You">
+  <data key="d0">0.8748787674021609</data>
+</edge>
+<edge source="Coming Home To You" target="Soul For Real - Candy Rain (Official Music Video)">
+  <data key="d0">0.8345854694675167</data>
+</edge>
+<edge source="Coming Home To You" target="Tyrese - Sweet Lady (Official HD Video)">
+  <data key="d0">0.8737340823847198</data>
+</edge>
+<edge source="Dangerously In Love" target="702 - Get It Together (Official Music Video)">
+  <data key="d0">0.8220795688359188</data>
+</edge>
+<edge source="Dangerously In Love" target="Aaliyah - One in a Million - 13. Heartbroken">
+  <data key="d0">0.8010783677729653</data>
+</edge>
+<edge source="Dangerously In Love" target="Alicia Keys - If I Ain't Got You (Official HD Video)">
+  <data key="d0">0.8051748342846663</data>
+</edge>
+<edge source="Dangerously In Love" target="Boyz II Men - Doin' Just Fine">
+  <data key="d0">0.8081713294059761</data>
+</edge>
+<edge source="Dangerously In Love" target="Erykah Badu - Next Lifetime (Official Music Video)">
+  <data key="d0">0.8378020120488451</data>
+</edge>
+<edge source="Dangerously In Love" target="Faith Evans - Soon As I Get Home (Official Music Video)">
+  <data key="d0">0.8500704491611981</data>
+</edge>
+<edge source="Dangerously In Love" target="My Boo">
+  <data key="d0">0.8142798020061855</data>
+</edge>
+<edge source="Dangerously In Love" target="Share My World">
+  <data key="d0">0.8242857301646849</data>
+</edge>
+<edge source="Differences (Radio Edit)" target="Boyz II Men - Doin' Just Fine">
+  <data key="d0">0.8534834526003291</data>
+</edge>
+<edge source="Differences (Radio Edit)" target="Boyz II Men - On Bended Knee">
+  <data key="d0">0.825409042545711</data>
+</edge>
+<edge source="Differences (Radio Edit)" target="Erykah Badu - Next Lifetime (Official Music Video)">
+  <data key="d0">0.8107023546816134</data>
+</edge>
+<edge source="Differences (Radio Edit)" target="Faith Evans - Soon As I Get Home (Official Music Video)">
+  <data key="d0">0.8643037308436998</data>
+</edge>
+<edge source="Differences (Radio Edit)" target="Fortunate">
+  <data key="d0">0.861856907346829</data>
+</edge>
+<edge source="Differences (Radio Edit)" target="Jodeci - Freak'N You">
+  <data key="d0">0.8181481100496433</data>
+</edge>
+<edge source="Differences (Radio Edit)" target="Jon B. - They Don't Know (Official Video)">
+  <data key="d0">0.8460277141880501</data>
+</edge>
+<edge source="Differences (Radio Edit)" target="My Boo">
+  <data key="d0">0.8131384119230303</data>
+</edge>
+<edge source="Differences (Radio Edit)" target="Playa - Cheers 2 U (Official Video)">
+  <data key="d0">0.8309895434863025</data>
+</edge>
+<edge source="Differences (Radio Edit)" target="R.Kelly-It Seems Like You're Ready">
+  <data key="d0">0.8248836274561147</data>
+</edge>
+<edge source="Differences (Radio Edit)" target="Rome - I Belong To You">
+  <data key="d0">0.8126016688523781</data>
+</edge>
+<edge source="Differences (Radio Edit)" target="Share My World">
+  <data key="d0">0.8082311607911686</data>
+</edge>
+<edge source="Differences (Radio Edit)" target="Tyrese - Sweet Lady (Official HD Video)">
+  <data key="d0">0.8536211641755569</data>
+</edge>
+<edge source="Ginuwine - So Anxious" target="Erykah Badu - Next Lifetime (Official Music Video)">
+  <data key="d0">0.8194034455293543</data>
+</edge>
+<edge source="Ginuwine - So Anxious" target="Jodeci - Freak'N You">
+  <data key="d0">0.8003786695418371</data>
+</edge>
+<edge source="Ginuwine - So Anxious" target="Musiq - Just Friends (Sunny) (Official Video)">
+  <data key="d0">0.8320239454196124</data>
+</edge>
+<edge source="Ginuwine - So Anxious" target="My Boo">
+  <data key="d0">0.8066040702534752</data>
+</edge>
+<edge source="Ginuwine - So Anxious" target="Playa - Cheers 2 U (Official Video)">
+  <data key="d0">0.8289758372203442</data>
+</edge>
+<edge source="Ginuwine - So Anxious" target="Soul For Real - Candy Rain (Official Music Video)">
+  <data key="d0">0.8235118082203761</data>
+</edge>
+<edge source="Happily Ever After" target="Boyz II Men - Doin' Just Fine">
+  <data key="d0">0.9028372498463152</data>
+</edge>
+<edge source="Happily Ever After" target="Boyz II Men - On Bended Knee">
+  <data key="d0">0.8754896052952388</data>
+</edge>
+<edge source="Happily Ever After" target="Erykah Badu - Next Lifetime (Official Music Video)">
+  <data key="d0">0.8291516512969976</data>
+</edge>
+<edge source="Happily Ever After" target="Faith Evans - Soon As I Get Home (Official Music Video)">
+  <data key="d0">0.8891407025734861</data>
+</edge>
+<edge source="Happily Ever After" target="Fortunate">
+  <data key="d0">0.8169542390762243</data>
+</edge>
+<edge source="Happily Ever After" target="Jodeci - Freak'N You">
+  <data key="d0">0.8266531321332151</data>
+</edge>
+<edge source="Happily Ever After" target="Jon B. - They Don't Know (Official Video)">
+  <data key="d0">0.8581428127421128</data>
+</edge>
+<edge source="Happily Ever After" target="My Boo">
+  <data key="d0">0.8185054972511596</data>
+</edge>
+<edge source="Happily Ever After" target="Playa - Cheers 2 U (Official Video)">
+  <data key="d0">0.8143554500691405</data>
+</edge>
+<edge source="Happily Ever After" target="R.Kelly-It Seems Like You're Ready">
+  <data key="d0">0.8433181445200679</data>
+</edge>
+<edge source="Happily Ever After" target="Rome - I Belong To You">
+  <data key="d0">0.8075670582639907</data>
+</edge>
+<edge source="Happily Ever After" target="Soul For Real - Candy Rain (Official Music Video)">
+  <data key="d0">0.816813761466034</data>
+</edge>
+<edge source="Happily Ever After" target="Tyrese - Sweet Lady (Official HD Video)">
+  <data key="d0">0.8422636500271221</data>
+</edge>
+<edge source="If You" target="Az Yet - Last Night (No Film Footage)">
+  <data key="d0">0.8314693615155967</data>
+</edge>
+<edge source="If You" target="Boyz II Men - Doin' Just Fine">
+  <data key="d0">0.891390587970997</data>
+</edge>
+<edge source="If You" target="Boyz II Men - On Bended Knee">
+  <data key="d0">0.9046947698617208</data>
+</edge>
+<edge source="If You" target="Erykah Badu - Next Lifetime (Official Music Video)">
+  <data key="d0">0.816233510305201</data>
+</edge>
+<edge source="If You" target="Faith Evans - Soon As I Get Home (Official Music Video)">
+  <data key="d0">0.8728454253751181</data>
+</edge>
+<edge source="If You" target="Fortunate">
+  <data key="d0">0.8060838955038361</data>
+</edge>
+<edge source="If You" target="Jodeci - Cry For You">
+  <data key="d0">0.8729611027959912</data>
+</edge>
+<edge source="If You" target="Jodeci - Freak'N You">
+  <data key="d0">0.8312690385915465</data>
+</edge>
+<edge source="If You" target="Jon B. - They Don't Know (Official Video)">
+  <data key="d0">0.891491009046428</data>
+</edge>
+<edge source="If You" target="Never Lie">
+  <data key="d0">0.8143878364168784</data>
+</edge>
+<edge source="If You" target="Playa - Cheers 2 U (Official Video)">
+  <data key="d0">0.8240828472041402</data>
+</edge>
+<edge source="If You" target="R.Kelly-It Seems Like You're Ready">
+  <data key="d0">0.8869298287809617</data>
+</edge>
+<edge source="If You" target="Rome - I Belong To You">
+  <data key="d0">0.8344961336686392</data>
+</edge>
+<edge source="If You" target="Soul For Real - Candy Rain (Official Music Video)">
+  <data key="d0">0.8329319006757545</data>
+</edge>
+<edge source="If You" target="Tyrese - Sweet Lady (Official HD Video)">
+  <data key="d0">0.8457870073473981</data>
+</edge>
+<edge source="If You" target="You're Always On My Mind">
+  <data key="d0">0.8001942480346068</data>
+</edge>
+<edge source="Incomplete" target="702 - Get It Together (Official Music Video)">
+  <data key="d0">0.820427471365002</data>
+</edge>
+<edge source="Incomplete" target="Az Yet - Last Night (No Film Footage)">
+  <data key="d0">0.8015440527119355</data>
+</edge>
+<edge source="Incomplete" target="Boyz II Men - Doin' Just Fine">
+  <data key="d0">0.909750610074044</data>
+</edge>
+<edge source="Incomplete" target="Boyz II Men - On Bended Knee">
+  <data key="d0">0.8920370873424721</data>
+</edge>
+<edge source="Incomplete" target="Erykah Badu - Next Lifetime (Official Music Video)">
+  <data key="d0">0.8271802569738836</data>
+</edge>
+<edge source="Incomplete" target="Faith Evans - Soon As I Get Home (Official Music Video)">
+  <data key="d0">0.9198460598327504</data>
+</edge>
+<edge source="Incomplete" target="Fortunate">
+  <data key="d0">0.8038105109976197</data>
+</edge>
+<edge source="Incomplete" target="Jodeci - Cry For You">
+  <data key="d0">0.8325102875188362</data>
+</edge>
+<edge source="Incomplete" target="Jodeci - Freak'N You">
+  <data key="d0">0.8634993454381177</data>
+</edge>
+<edge source="Incomplete" target="Jon B. - They Don't Know (Official Video)">
+  <data key="d0">0.9038285407538298</data>
+</edge>
+<edge source="Incomplete" target="Playa - Cheers 2 U (Official Video)">
+  <data key="d0">0.8709554970814284</data>
+</edge>
+<edge source="Incomplete" target="R.Kelly-It Seems Like You're Ready">
+  <data key="d0">0.8680658853136022</data>
+</edge>
+<edge source="Incomplete" target="Rome - I Belong To You">
+  <data key="d0">0.8619696707506862</data>
+</edge>
+<edge source="Incomplete" target="Soul For Real - Candy Rain (Official Music Video)">
+  <data key="d0">0.810266296838472</data>
+</edge>
+<edge source="Incomplete" target="Tyrese - Sweet Lady (Official HD Video)">
+  <data key="d0">0.8898949570086825</data>
+</edge>
+<edge source="Missing You" target="Fortunate">
+  <data key="d0">0.8021963926138397</data>
+</edge>
+<edge source="Missing You" target="Musiq - Just Friends (Sunny) (Official Video)">
+  <data key="d0">0.818114042134438</data>
+</edge>
+<edge source="Missing You" target="My Boo">
+  <data key="d0">0.8781344100597889</data>
+</edge>
+<edge source="Missing You" target="Playa - Cheers 2 U (Official Video)">
+  <data key="d0">0.8027602731773931</data>
+</edge>
+<edge source="My Boo" target="I Know What You Want">
+  <data key="d0">0.8552119080644344</data>
+</edge>
+<edge source="My Boo" target="Kendrick Lamar - heart pt. 6 (Official Audio)">
+  <data key="d0">0.81326724424698</data>
+</edge>
+<edge source="My Boo" target="Musiq - Just Friends (Sunny) (Official Video)">
+  <data key="d0">0.8111302560322401</data>
+</edge>
+<edge source="My Boo" target="Step in the Name of Love (Remix - Radio Edit)">
+  <data key="d0">0.8270644818813491</data>
+</edge>
+<edge source="My Boo" target="Usher - Burn (Official Music Video)">
+  <data key="d0">0.8139091008431362</data>
+</edge>
+<edge source="Player's Prayer" target="702 - Get It Together (Official Music Video)">
+  <data key="d0">0.8088126770156423</data>
+</edge>
+<edge source="Player's Prayer" target="Alicia Keys - If I Ain't Got You (Official HD Video)">
+  <data key="d0">0.8127931184384483</data>
+</edge>
+<edge source="Player's Prayer" target="Boyz II Men - Doin' Just Fine">
+  <data key="d0">0.848154623678347</data>
+</edge>
+<edge source="Player's Prayer" target="Boyz II Men - On Bended Knee">
+  <data key="d0">0.8574457108181796</data>
+</edge>
+<edge source="Player's Prayer" target="Erykah Badu - Next Lifetime (Official Music Video)">
+  <data key="d0">0.8288391956833915</data>
+</edge>
+<edge source="Player's Prayer" target="Faith Evans - Soon As I Get Home (Official Music Video)">
+  <data key="d0">0.8613137951621752</data>
+</edge>
+<edge source="Player's Prayer" target="Jodeci - Freak'N You">
+  <data key="d0">0.832545669478433</data>
+</edge>
+<edge source="Player's Prayer" target="Jon B. - They Don't Know (Official Video)">
+  <data key="d0">0.8462076116834931</data>
+</edge>
+<edge source="Player's Prayer" target="Playa - Cheers 2 U (Official Video)">
+  <data key="d0">0.8213270571173652</data>
+</edge>
+<edge source="Player's Prayer" target="R.Kelly-It Seems Like You're Ready">
+  <data key="d0">0.8169083321544788</data>
+</edge>
+<edge source="Player's Prayer" target="Share My World">
+  <data key="d0">0.8143390011556506</data>
+</edge>
+<edge source="Player's Prayer" target="Tyrese - Sweet Lady (Official HD Video)">
+  <data key="d0">0.8060287989495665</data>
+</edge>
+<edge source="Soul For Real - Candy Rain (Official Music Video)" target="702 - Get It Together (Official Music Video)">
+  <data key="d0">0.804051923855806</data>
+</edge>
+<edge source="Soul For Real - Candy Rain (Official Music Video)" target="Brandy &amp; Monica - The Boy Is Mine (Official Video)">
+  <data key="d0">0.8000323714133168</data>
+</edge>
+<edge source="Soul For Real - Candy Rain (Official Music Video)" target="Erykah Badu - Next Lifetime (Official Music Video)">
+  <data key="d0">0.8537499988114746</data>
+</edge>
+<edge source="Soul For Real - Candy Rain (Official Music Video)" target="I'll Always Love You">
+  <data key="d0">0.8018624680129092</data>
+</edge>
+<edge source="Soul For Real - Candy Rain (Official Music Video)" target="Playa - Cheers 2 U (Official Video)">
+  <data key="d0">0.8214995173135389</data>
+</edge>
+<edge source="Soul For Real - Candy Rain (Official Music Video)" target="Tank - Maybe I Deserve (Original Video)">
+  <data key="d0">0.8070846473989126</data>
+</edge>
+<edge source="Tyrese - Sweet Lady (Official HD Video)" target="702 - Get It Together (Official Music Video)">
+  <data key="d0">0.8445320022898747</data>
+</edge>
+<edge source="Tyrese - Sweet Lady (Official HD Video)" target="Az Yet - Last Night (No Film Footage)">
+  <data key="d0">0.8110523709622359</data>
+</edge>
+<edge source="Tyrese - Sweet Lady (Official HD Video)" target="Boyz II Men - Doin' Just Fine">
+  <data key="d0">0.8533162744630558</data>
+</edge>
+<edge source="Tyrese - Sweet Lady (Official HD Video)" target="Boyz II Men - On Bended Knee">
+  <data key="d0">0.8359003394276805</data>
+</edge>
+<edge source="Tyrese - Sweet Lady (Official HD Video)" target="Charlie Wilson - You Are (Audio)">
+  <data key="d0">0.8291091129742776</data>
+</edge>
+<edge source="Tyrese - Sweet Lady (Official HD Video)" target="Erykah Badu - Next Lifetime (Official Music Video)">
+  <data key="d0">0.8604016830091656</data>
+</edge>
+<edge source="Tyrese - Sweet Lady (Official HD Video)" target="Jodeci - Cry For You">
+  <data key="d0">0.8204905787785641</data>
+</edge>
+<edge source="Tyrese - Sweet Lady (Official HD Video)" target="Musiq - Just Friends (Sunny) (Official Video)">
+  <data key="d0">0.8141810697280307</data>
+</edge>
+<edge source="Tyrese - Sweet Lady (Official HD Video)" target="Playa - Cheers 2 U (Official Video)">
+  <data key="d0">0.9036348522554406</data>
+</edge>
+<edge source="Tyrese - Sweet Lady (Official HD Video)" target="R.Kelly-It Seems Like You're Ready">
+  <data key="d0">0.8369378558625852</data>
+</edge>
+<edge source="Tyrese - Sweet Lady (Official HD Video)" target="Tank - Maybe I Deserve (Original Video)">
+  <data key="d0">0.8752475923201712</data>
+</edge>
+<edge source="Usher - Burn (Official Music Video)" target="Faith Evans - Soon As I Get Home (Official Music Video)">
+  <data key="d0">0.8216869781796342</data>
+</edge>
+<edge source="Usher - Burn (Official Music Video)" target="Jodeci - Freak'N You">
+  <data key="d0">0.8110818086886853</data>
+</edge>
+<edge source="Usher - Burn (Official Music Video)" target="Jon B. - They Don't Know (Official Video)">
+  <data key="d0">0.8253929848793605</data>
+</edge>
+<edge source="Usher - Burn (Official Music Video)" target="Playa - Cheers 2 U (Official Video)">
+  <data key="d0">0.8342793579650909</data>
+</edge>
+<edge source="Usher - Burn (Official Music Video)" target="R.Kelly-It Seems Like You're Ready">
+  <data key="d0">0.8011458476242421</data>
+</edge>
+<edge source="Usher - Burn (Official Music Video)" target="Rome - I Belong To You">
+  <data key="d0">0.8120248026667409</data>
+</edge>
+<edge source="21 Questions" target="I Know What You Want">
+  <data key="d0">0.8259852774868306</data>
+</edge>
+<edge source="I Know What You Want" target="Big Poppa (2007 Remaster)">
+  <data key="d0">0.8073945573279565</data>
+</edge>
+<edge source="702 - Get It Together (Official Music Video)" target="Faith Evans - Soon As I Get Home (Official Music Video)">
+  <data key="d0">0.8677738300244249</data>
+</edge>
+<edge source="702 - Get It Together (Official Music Video)" target="Jodeci - Freak'N You">
+  <data key="d0">0.8349332098929897</data>
+</edge>
+<edge source="702 - Get It Together (Official Music Video)" target="Jon B. - They Don't Know (Official Video)">
+  <data key="d0">0.8387962602703838</data>
+</edge>
+<edge source="702 - Get It Together (Official Music Video)" target="Keith Sweat - Twisted (Official Music Video)">
+  <data key="d0">0.8175473662585674</data>
+</edge>
+<edge source="702 - Get It Together (Official Music Video)" target="Rome - I Belong To You">
+  <data key="d0">0.8113271596869456</data>
+</edge>
+<edge source="Faith Evans - Soon As I Get Home (Official Music Video)" target="Az Yet - Last Night (No Film Footage)">
+  <data key="d0">0.8033086024176914</data>
+</edge>
+<edge source="Faith Evans - Soon As I Get Home (Official Music Video)" target="Boyz II Men - Doin' Just Fine">
+  <data key="d0">0.8599126585497617</data>
+</edge>
+<edge source="Faith Evans - Soon As I Get Home (Official Music Video)" target="Boyz II Men - On Bended Knee">
+  <data key="d0">0.8660416919890168</data>
+</edge>
+<edge source="Faith Evans - Soon As I Get Home (Official Music Video)" target="Brandy &amp; Monica - The Boy Is Mine (Official Video)">
+  <data key="d0">0.8312459578067891</data>
+</edge>
+<edge source="Faith Evans - Soon As I Get Home (Official Music Video)" target="Charlie Wilson - You Are (Audio)">
+  <data key="d0">0.8344334519231092</data>
+</edge>
+<edge source="Faith Evans - Soon As I Get Home (Official Music Video)" target="Erykah Badu - Next Lifetime (Official Music Video)">
+  <data key="d0">0.9005756403000189</data>
+</edge>
+<edge source="Faith Evans - Soon As I Get Home (Official Music Video)" target="Fortunate">
+  <data key="d0">0.8120066916660189</data>
+</edge>
+<edge source="Faith Evans - Soon As I Get Home (Official Music Video)" target="Jodeci - Cry For You">
+  <data key="d0">0.842948903378569</data>
+</edge>
+<edge source="Faith Evans - Soon As I Get Home (Official Music Video)" target="Mary J. Blige - I Don't Want To Do Anything - What's The 411？">
+  <data key="d0">0.8268947436337926</data>
+</edge>
+<edge source="Faith Evans - Soon As I Get Home (Official Music Video)" target="Playa - Cheers 2 U (Official Video)">
+  <data key="d0">0.8791805120808539</data>
+</edge>
+<edge source="Faith Evans - Soon As I Get Home (Official Music Video)" target="R.Kelly-It Seems Like You're Ready">
+  <data key="d0">0.91010005979555</data>
+</edge>
+<edge source="Faith Evans - Soon As I Get Home (Official Music Video)" target="SWV - Weak (Official HD Video)">
+  <data key="d0">0.8134875064663913</data>
+</edge>
+<edge source="Faith Evans - Soon As I Get Home (Official Music Video)" target="Tank - Maybe I Deserve (Original Video)">
+  <data key="d0">0.8481768531920982</data>
+</edge>
+<edge source="Faith Evans - Soon As I Get Home (Official Music Video)" target="Tevin Campbell - I'm Ready (Official Audio)">
+  <data key="d0">0.8030528721885344</data>
+</edge>
+<edge source="Faith Evans - Soon As I Get Home (Official Music Video)" target="TLC - No Scrubs (Official HD Video)">
+  <data key="d0">0.8105217337867401</data>
+</edge>
+<edge source="Faith Evans - Soon As I Get Home (Official Music Video)" target="You're Always On My Mind">
+  <data key="d0">0.8086454798630991</data>
+</edge>
+<edge source="Jodeci - Freak'N You" target="Boyz II Men - Doin' Just Fine">
+  <data key="d0">0.809491456586229</data>
+</edge>
+<edge source="Jodeci - Freak'N You" target="Boyz II Men - On Bended Knee">
+  <data key="d0">0.8363127790529692</data>
+</edge>
+<edge source="Jodeci - Freak'N You" target="Charlie Wilson - You Are (Audio)">
+  <data key="d0">0.8164091283467977</data>
+</edge>
+<edge source="Jodeci - Freak'N You" target="Erykah Badu - Next Lifetime (Official Music Video)">
+  <data key="d0">0.8673959121515196</data>
+</edge>
+<edge source="Jodeci - Freak'N You" target="Jodeci - Cry For You">
+  <data key="d0">0.8477987885437936</data>
+</edge>
+<edge source="Jodeci - Freak'N You" target="Mary J. Blige - I Don't Want To Do Anything - What's The 411？">
+  <data key="d0">0.8354350916735888</data>
+</edge>
+<edge source="Jodeci - Freak'N You" target="Playa - Cheers 2 U (Official Video)">
+  <data key="d0">0.8756937991666626</data>
+</edge>
+<edge source="Jodeci - Freak'N You" target="R.Kelly-It Seems Like You're Ready">
+  <data key="d0">0.8498296615240846</data>
+</edge>
+<edge source="Jodeci - Freak'N You" target="SWV - Weak (Official HD Video)">
+  <data key="d0">0.802010921072764</data>
+</edge>
+<edge source="Jodeci - Freak'N You" target="Tank - Maybe I Deserve (Original Video)">
+  <data key="d0">0.8583895258802963</data>
+</edge>
+<edge source="Jodeci - Freak'N You" target="You're Always On My Mind">
+  <data key="d0">0.8235951549656413</data>
+</edge>
+<edge source="Jon B. - They Don't Know (Official Video)" target="Aaron Hall - I Miss You">
+  <data key="d0">0.8315204284623705</data>
+</edge>
+<edge source="Jon B. - They Don't Know (Official Video)" target="Az Yet - Last Night (No Film Footage)">
+  <data key="d0">0.8301983992657295</data>
+</edge>
+<edge source="Jon B. - They Don't Know (Official Video)" target="Baby I'm Ready">
+  <data key="d0">0.8133179019130318</data>
+</edge>
+<edge source="Jon B. - They Don't Know (Official Video)" target="Boyz II Men - Doin' Just Fine">
+  <data key="d0">0.8838129997812654</data>
+</edge>
+<edge source="Jon B. - They Don't Know (Official Video)" target="Boyz II Men - On Bended Knee">
+  <data key="d0">0.9003926575557455</data>
+</edge>
+<edge source="Jon B. - They Don't Know (Official Video)" target="Charlie Wilson - You Are (Audio)">
+  <data key="d0">0.8766351983034579</data>
+</edge>
+<edge source="Jon B. - They Don't Know (Official Video)" target="Erykah Badu - Next Lifetime (Official Music Video)">
+  <data key="d0">0.8514766979568796</data>
+</edge>
+<edge source="Jon B. - They Don't Know (Official Video)" target="Jodeci - Cry For You">
+  <data key="d0">0.913017621895077</data>
+</edge>
+<edge source="Jon B. - They Don't Know (Official Video)" target="Mary J. Blige - I Don't Want To Do Anything - What's The 411？">
+  <data key="d0">0.8065280510081165</data>
+</edge>
+<edge source="Jon B. - They Don't Know (Official Video)" target="Playa - Cheers 2 U (Official Video)">
+  <data key="d0">0.861110703678648</data>
+</edge>
+<edge source="Jon B. - They Don't Know (Official Video)" target="R.Kelly-It Seems Like You're Ready">
+  <data key="d0">0.9031280661946968</data>
+</edge>
+<edge source="Jon B. - They Don't Know (Official Video)" target="SWV - Weak (Official HD Video)">
+  <data key="d0">0.8195202582500962</data>
+</edge>
+<edge source="Jon B. - They Don't Know (Official Video)" target="Tank - Maybe I Deserve (Original Video)">
+  <data key="d0">0.8843979221004569</data>
+</edge>
+<edge source="Jon B. - They Don't Know (Official Video)" target="Tevin Campbell - Can We Talk (Official Video)">
+  <data key="d0">0.8200801934807244</data>
+</edge>
+<edge source="Jon B. - They Don't Know (Official Video)" target="Tevin Campbell - I'm Ready (Official Audio)">
+  <data key="d0">0.8069908311952978</data>
+</edge>
+<edge source="Jon B. - They Don't Know (Official Video)" target="We're Not Making Love No More">
+  <data key="d0">0.8031952095668423</data>
+</edge>
+<edge source="Jon B. - They Don't Know (Official Video)" target="You're Always On My Mind">
+  <data key="d0">0.8332912933467707</data>
+</edge>
+<edge source="Keith Sweat - Twisted (Official Music Video)" target="Erykah Badu - Next Lifetime (Official Music Video)">
+  <data key="d0">0.8328403250036426</data>
+</edge>
+<edge source="Keith Sweat - Twisted (Official Music Video)" target="Musiq - Just Friends (Sunny) (Official Video)">
+  <data key="d0">0.8017894590370056</data>
+</edge>
+<edge source="Keith Sweat - Twisted (Official Music Video)" target="Playa - Cheers 2 U (Official Video)">
+  <data key="d0">0.8470971183112256</data>
+</edge>
+<edge source="Keith Sweat - Twisted (Official Music Video)" target="Tank - Maybe I Deserve (Original Video)">
+  <data key="d0">0.8718436915314434</data>
+</edge>
+<edge source="Rome - I Belong To You" target="Aaron Hall - I Miss You">
+  <data key="d0">0.8230517916942172</data>
+</edge>
+<edge source="Rome - I Belong To You" target="Boyz II Men - Doin' Just Fine">
+  <data key="d0">0.8170334721711312</data>
+</edge>
+<edge source="Rome - I Belong To You" target="Boyz II Men - On Bended Knee">
+  <data key="d0">0.8339976505050506</data>
+</edge>
+<edge source="Rome - I Belong To You" target="Charlie Wilson - You Are (Audio)">
+  <data key="d0">0.8210927057074028</data>
+</edge>
+<edge source="Rome - I Belong To You" target="Erykah Badu - Next Lifetime (Official Music Video)">
+  <data key="d0">0.8281729111369762</data>
+</edge>
+<edge source="Rome - I Belong To You" target="Jodeci - Cry For You">
+  <data key="d0">0.8797741653369322</data>
+</edge>
+<edge source="Rome - I Belong To You" target="Playa - Cheers 2 U (Official Video)">
+  <data key="d0">0.8454487643565692</data>
+</edge>
+<edge source="Rome - I Belong To You" target="R.Kelly-It Seems Like You're Ready">
+  <data key="d0">0.8969124561435797</data>
+</edge>
+<edge source="Rome - I Belong To You" target="Tank - Maybe I Deserve (Original Video)">
+  <data key="d0">0.8509632541461516</data>
+</edge>
+<edge source="Rome - I Belong To You" target="You're Always On My Mind">
+  <data key="d0">0.8147155212201982</data>
+</edge>
+<edge source="Aaliyah - Age Ain't Nothing But A Number (Official HD Video)" target="Boyz II Men - On Bended Knee">
+  <data key="d0">0.804788686364387</data>
+</edge>
+<edge source="Aaliyah - Age Ain't Nothing But A Number (Official HD Video)" target="I'll Always Love You">
+  <data key="d0">0.8267358753516364</data>
+</edge>
+<edge source="Boyz II Men - On Bended Knee" target="Aaliyah - Age Ain't Nothing But A Number [Audio HQ] HD">
+  <data key="d0">0.8032945691091942</data>
+</edge>
+<edge source="Boyz II Men - On Bended Knee" target="Alicia Keys - If I Ain't Got You (Official HD Video)">
+  <data key="d0">0.8132575702808976</data>
+</edge>
+<edge source="Boyz II Men - On Bended Knee" target="Charlie Wilson - You Are (Audio)">
+  <data key="d0">0.8779873807317108</data>
+</edge>
+<edge source="Boyz II Men - On Bended Knee" target="Jodeci - Cry For You">
+  <data key="d0">0.8810122856082971</data>
+</edge>
+<edge source="Boyz II Men - On Bended Knee" target="Mary J. Blige - I Don't Want To Do Anything - What's The 411？">
+  <data key="d0">0.8118061153193112</data>
+</edge>
+<edge source="Boyz II Men - On Bended Knee" target="R.Kelly-It Seems Like You're Ready">
+  <data key="d0">0.8735919642713951</data>
+</edge>
+<edge source="Boyz II Men - On Bended Knee" target="Tank - Maybe I Deserve (Original Video)">
+  <data key="d0">0.8114427452715047</data>
+</edge>
+<edge source="I'll Always Love You" target="Aaliyah - Age Ain't Nothing But A Number [Audio HQ] HD">
+  <data key="d0">0.819383013095231</data>
+</edge>
+<edge source="I'll Always Love You" target="TLC - No Scrubs (Official HD Video)">
+  <data key="d0">0.8296045135771655</data>
+</edge>
+<edge source="Aaliyah - Age Ain't Nothing But A Number [Audio HQ] HD" target="Charlie Wilson - You Are (Audio)">
+  <data key="d0">0.8016220076919387</data>
+</edge>
+<edge source="Charlie Wilson - You Are (Audio)" target="Alicia Keys - If I Ain't Got You (Official HD Video)">
+  <data key="d0">0.8054692349566319</data>
+</edge>
+<edge source="Charlie Wilson - You Are (Audio)" target="Az Yet - Last Night (No Film Footage)">
+  <data key="d0">0.8189157701745219</data>
+</edge>
+<edge source="Charlie Wilson - You Are (Audio)" target="Boyz II Men - Doin' Just Fine">
+  <data key="d0">0.834877353508976</data>
+</edge>
+<edge source="Charlie Wilson - You Are (Audio)" target="Jodeci - Cry For You">
+  <data key="d0">0.8427938772748178</data>
+</edge>
+<edge source="Charlie Wilson - You Are (Audio)" target="R.Kelly-It Seems Like You're Ready">
+  <data key="d0">0.8535739466964947</data>
+</edge>
+<edge source="Aaron Hall - I Miss You" target="Az Yet - Last Night (No Film Footage)">
+  <data key="d0">0.8267848818715513</data>
+</edge>
+<edge source="Az Yet - Last Night (No Film Footage)" target="R.Kelly-It Seems Like You're Ready">
+  <data key="d0">0.811690141695085</data>
+</edge>
+<edge source="Az Yet - Last Night (No Film Footage)" target="Tank - Maybe I Deserve (Original Video)">
+  <data key="d0">0.8255138224891045</data>
+</edge>
+<edge source="Az Yet - Last Night (No Film Footage)" target="Tevin Campbell - I'm Ready (Official Audio)">
+  <data key="d0">0.8116812096203954</data>
+</edge>
+<edge source="R.Kelly-It Seems Like You're Ready" target="Boyz II Men - Doin' Just Fine">
+  <data key="d0">0.8426579428727738</data>
+</edge>
+<edge source="R.Kelly-It Seems Like You're Ready" target="Erykah Badu - Next Lifetime (Official Music Video)">
+  <data key="d0">0.8257866019047644</data>
+</edge>
+<edge source="R.Kelly-It Seems Like You're Ready" target="Mary J. Blige - I Don't Want To Do Anything - What's The 411？">
+  <data key="d0">0.8212247129614317</data>
+</edge>
+<edge source="R.Kelly-It Seems Like You're Ready" target="Playa - Cheers 2 U (Official Video)">
+  <data key="d0">0.8137904272593188</data>
+</edge>
+<edge source="R.Kelly-It Seems Like You're Ready" target="Tank - Maybe I Deserve (Original Video)">
+  <data key="d0">0.8235423621250962</data>
+</edge>
+<edge source="Tank - Maybe I Deserve (Original Video)" target="Boyz II Men - Doin' Just Fine">
+  <data key="d0">0.8066473974079124</data>
+</edge>
+<edge source="Tank - Maybe I Deserve (Original Video)" target="Erykah Badu - Next Lifetime (Official Music Video)">
+  <data key="d0">0.8184192936389805</data>
+</edge>
+<edge source="Tank - Maybe I Deserve (Original Video)" target="Jodeci - Cry For You">
+  <data key="d0">0.808090974359285</data>
+</edge>
+<edge source="Tank - Maybe I Deserve (Original Video)" target="Musiq - Just Friends (Sunny) (Official Video)">
+  <data key="d0">0.8123686766165501</data>
+</edge>
+<edge source="Tank - Maybe I Deserve (Original Video)" target="Playa - Cheers 2 U (Official Video)">
+  <data key="d0">0.8712147949501923</data>
+</edge>
+<edge source="Tank - Maybe I Deserve (Original Video)" target="Tevin Campbell - Can We Talk (Official Video)">
+  <data key="d0">0.8014520232203419</data>
+</edge>
+<edge source="Baby I'm Ready" target="My, My, My">
+  <data key="d0">0.8185914963524371</data>
+</edge>
+<edge source="My, My, My" target="Jodeci - Cry For You">
+  <data key="d0">0.8063933215032975</data>
+</edge>
+<edge source="My, My, My" target="You're Always On My Mind">
+  <data key="d0">0.831644371701117</data>
+</edge>
+<edge source="Boyz II Men - Doin' Just Fine" target="Jodeci - Cry For You">
+  <data key="d0">0.8319641402200099</data>
+</edge>
+<edge source="Brandy &amp; Monica - The Boy Is Mine (Official Video)" target="Erykah Badu - Next Lifetime (Official Music Video)">
+  <data key="d0">0.8186234711971481</data>
+</edge>
+<edge source="Brandy &amp; Monica - The Boy Is Mine (Official Video)" target="Share My World">
+  <data key="d0">0.8058522699805797</data>
+</edge>
+<edge source="Never Lie" target="Mint Condition - Breakin' My Heart (Pretty Brown Eyes) (Official Music Video)">
+  <data key="d0">0.8666506798416939</data>
+</edge>
+</graph></graphml>
