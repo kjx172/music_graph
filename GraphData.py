@@ -6,9 +6,7 @@ import matplotlib.pyplot as plt
 import networkx as nx
 from tqdm import tqdm
 
-def visualize_data():
-    CSV_PATH = r"modeloutput\song_embeddings.csv"
-
+def visualize_data(CSV_PATH):
     # 1) ─── Load embeddings ────────────────────────────────────────────
     df = pd.read_csv(CSV_PATH)
 
