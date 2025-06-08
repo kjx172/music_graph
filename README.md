@@ -2,6 +2,8 @@
 
 This tool exports your spotify playlist and creates a network graph of your musics similarity. This can be used to detect clusters of similar songs within your playlist, these songs will usually share an artist, genre, or time period. By reclustering the graph based on similarity to songs outside of the self contained cluster then you can make inferences about songs that are similar without them sharing an immediatly obvious connection.
 
+To view examples open the CSV_GRAPHS folder and take a look at any of the .gephi files in the individual playlist folders, or the final.gephi in the final folder for a look at all of my songs.
+
 ## Features
 
 ## Setup
